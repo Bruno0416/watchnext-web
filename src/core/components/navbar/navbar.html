@@ -1,0 +1,78 @@
+<header class="app-header sticky-top">
+  <nav class="navbar navbar-expand-lg" aria-label="Navegación principal">
+    <div class="container-fluid app-container">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="#featured">
+        <span>WatchNext</span>
+      </a>
+
+      <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse"
+        data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false"
+        aria-label="Abrir navegación">
+        <i class="bi bi-list fs-2"></i>
+      </button>
+
+      <div id="main-navigation" class="collapse navbar-collapse">
+        <ul class="navbar-nav mx-lg-auto mb-3 mb-lg-0 gap-lg-1">
+          <li class="nav-item">
+            <a class="nav-link active" href="#featured">
+              <i class="bi bi-house-door me-1"></i>
+              Inicio
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#home-content">
+              <i class="bi bi-list-ul me-1"></i>
+              Listas
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#profile">
+              <i class="bi bi-person me-1"></i>
+              Perfil
+            </a>
+          </li>
+        </ul>
+
+        <div class="d-flex align-items-center gap-1 pb-2 pb-lg-0">
+          <div class="dropdown">
+            <button class="btn nav-icon-button dropdown-toggle no-caret" type="button" data-bs-toggle="dropdown"
+              aria-expanded="false" aria-label="Cambiar tema" title="Tema">
+              <i id="theme-icon" class="bi bi-moon-stars-fill"></i>
+            </button>
+
+            <ul class="dropdown-menu dropdown-menu-end theme-menu p-2">
+              <li>
+                <button class="dropdown-item rounded-2 d-flex align-items-center gap-2" type="button"
+                  data-theme-value="dark">
+                  <i class="bi bi-moon-stars-fill"></i>
+                  <span class="flex-grow-1">Oscuro</span>
+                  <i class="bi bi-check2 opacity-0" data-theme-check></i>
+                </button>
+              </li>
+              <li>
+                <button class="dropdown-item rounded-2 d-flex align-items-center gap-2" type="button"
+                  data-theme-value="light">
+                  <i class="bi bi-sun-fill"></i>
+                  <span class="flex-grow-1">Claro</span>
+                  <i class="bi bi-check2 opacity-0" data-theme-check></i>
+                </button>
+              </li>
+              <li>
+                <button class="dropdown-item rounded-2 d-flex align-items-center gap-2" type="button"
+                  data-theme-value="system">
+                  <i class="bi bi-circle-half"></i>
+                  <span class="flex-grow-1">Sistema</span>
+                  <i class="bi bi-check2 opacity-0" data-theme-check></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          <a class="btn nav-icon-button" href="#profile" aria-label="Perfil" title="Perfil">
+            <i class="bi bi-person-circle"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>

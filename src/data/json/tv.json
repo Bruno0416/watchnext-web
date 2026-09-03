@@ -1,0 +1,713 @@
+{
+  "onTheAir": [
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "posterPath": "/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropPath": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "releaseDate": "2022-02-03",
+      "rating": 8.1
+    },
+    {
+      "id": 113962,
+      "title": "Operaciones Especiales: Lioness",
+      "overview": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "posterPath": "/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropPath": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "releaseDate": "2023-07-23",
+      "rating": 8.1
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "posterPath": "/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropPath": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "releaseDate": "2023-05-04",
+      "rating": 8.196
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "posterPath": "/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "releaseDate": "2020-08-14",
+      "rating": 8.367
+    },
+    {
+      "id": 95350,
+      "title": "Linternas",
+      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "posterPath": "/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "releaseDate": "2026-08-16",
+      "rating": 8.281
+    },
+    {
+      "id": 2661,
+      "title": "Kamen Rider",
+      "overview": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos medios, la mayor de las veces tecnológicos y a veces mágicos o combinación de ambos según la temporada, se transforma, siempre utilizando la frase Henshin (\"transformación\") en un superhéroe llamado Kamen Rider con un traje blindado y una máscara que generalmente está decorada recordando a un insecto.En unas temporadas hay un solo Kamen Rider, mientras que en otras hay dos o más, habiendo algunas que presentan más de diez Riders diferentes. Estos Riders luchan contra enemigos diversos o incluso a veces entre ellos. Los poderes del Kamen Rider siempre tienen un origen estrechamente relacionado con  los villanos, pero usa esos poderes para el bien en lugar de para el mal, y esta relación se convierte en fuente de conflictos argumentales según la temporada.",
+      "posterPath": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+      "backdropPath": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "releaseDate": "1971-04-03",
+      "rating": 6.4
+    },
+    {
+      "id": 246246,
+      "title": "Beauty in Black",
+      "overview": "El destino de una stripper da un vuelco cuando se cruza con una rica familia disfuncional que maneja un emporio de cosmética y un retorcido negocio de tráfico de personas.",
+      "posterPath": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "backdropPath": "/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+      "releaseDate": "2024-10-24",
+      "rating": 8.359
+    },
+    {
+      "id": 45140,
+      "title": "Los Jóvenes Titanes en Acción",
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "posterPath": "/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "backdropPath": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+      "releaseDate": "2013-04-23",
+      "rating": 6.423
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei Jobless Reincarnation",
+      "overview": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mundo fantástico de espada y brujería. Tras la decisión de hacer lo mejor que pueda con el conocimiento adquirido en su anterior mundo, él decide aprovechar la oportunidad y aprender a usar magia desde su nueva juventud.",
+      "posterPath": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "releaseDate": "2021-01-11",
+      "rating": 8.4
+    },
+    {
+      "id": 100757,
+      "title": "Outer Banks",
+      "overview": "En una isla de Carolina del Norte dividida entre ricos y pobres, John B y su unida tripulación de amigos se enfrentan a misterios y aventuras mientras buscan un tesoro perdido.",
+      "posterPath": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "backdropPath": "/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
+      "releaseDate": "2020-04-15",
+      "rating": 8.244
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "posterPath": "/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropPath": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "releaseDate": "2004-10-05",
+      "rating": 8.36
+    },
+    {
+      "id": 91555,
+      "title": "All Elite Wrestling: Dynamite",
+      "overview": "",
+      "posterPath": "/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+      "backdropPath": "/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+      "releaseDate": "2019-10-02",
+      "rating": 7.9
+    },
+    {
+      "id": 290193,
+      "title": "Ratonera",
+      "overview": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
+      "posterPath": "/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+      "backdropPath": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.542
+    },
+    {
+      "id": 65942,
+      "title": "Re:Zero - Empezar de cero en un mundo diferente",
+      "overview": "Subaru Natsuki es un estudiante corriente de preparatoria que conoce a una hermosa chica de pelo plateado de otro mundo que lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Subaru no quiere que la chica resulte herida, con lo que jura acabar con cualquier enemigo, con cualquier destino que le aguarde, siempre por protegerla.",
+      "posterPath": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+      "backdropPath": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "releaseDate": "2016-04-04",
+      "rating": 8.1
+    },
+    {
+      "id": 196322,
+      "title": "Materia oscura",
+      "overview": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterPath": "/8ckubtGN3gYdp8KO6RCz8wSg7rE.jpg",
+      "backdropPath": "/dpIRAaLAbjFNGQ4YeqGlEVhhtkM.jpg",
+      "releaseDate": "2024-05-07",
+      "rating": 7.79
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "posterPath": "/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "backdropPath": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "releaseDate": "1999-03-28",
+      "rating": 8.365
+    },
+    {
+      "id": 204255,
+      "title": "Cementerio",
+      "overview": "En un sótano oscuro, donde una unidad especial trabaja para resolver asesinatos de mujeres sin resolver, el Comisario Önem, tendrá que luchar contra los prejuicios masculinos que sustentan la violencia machista.",
+      "posterPath": "/p22xaH2ZpxhdJa1ZFF528Yk7AWc.jpg",
+      "backdropPath": "/g9Qn9LBk9fKKgxHtPFqkKnglsm8.jpg",
+      "releaseDate": "2022-06-17",
+      "rating": 7.35
+    },
+    {
+      "id": 287238,
+      "title": "Furious",
+      "overview": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a difuminarse.",
+      "posterPath": "/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+      "backdropPath": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "releaseDate": "2026-07-27",
+      "rating": 7.2
+    },
+    {
+      "id": 2710,
+      "title": "Colgados en Filadelfia",
+      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "posterPath": "/jQEKSbxt0463aLD5FyVm3BGlVH2.jpg",
+      "backdropPath": "/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
+      "releaseDate": "2005-08-04",
+      "rating": 8.26
+    },
+    {
+      "id": 223911,
+      "title": "Renegade Immortal",
+      "overview": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de la familia. A pesar de su bajo potencial de cultivo, Wang Lin intentará convertirse en un inmortal para enorgullecer a sus padres.",
+      "posterPath": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+      "backdropPath": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+      "releaseDate": "2023-09-25",
+      "rating": 8.2
+    }
+  ],
+  "popular": [
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "posterPath": "/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropPath": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "releaseDate": "2022-02-03",
+      "rating": 8.1
+    },
+    {
+      "id": 5920,
+      "title": "El mentalista",
+      "overview": "El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (California Bureau of Investigation), usando su altamente desarrollada capacidad de observación, que anteriormente usaba para \"leer\" mentes.",
+      "posterPath": "/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+      "backdropPath": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "releaseDate": "2008-09-23",
+      "rating": 8.4
+    },
+    {
+      "id": 113962,
+      "title": "Operaciones Especiales: Lioness",
+      "overview": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "posterPath": "/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropPath": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "releaseDate": "2023-07-23",
+      "rating": 8.1
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "posterPath": "/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropPath": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "releaseDate": "2023-05-04",
+      "rating": 8.196
+    },
+    {
+      "id": 2734,
+      "title": "Ley y orden: Unidad de Víctimas Especiales",
+      "overview": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los episodios son usualmente \"sacados de los titulares\" o basados libremente en verdaderos asesinatos que han recibido la atención de los medios.",
+      "posterPath": "/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+      "backdropPath": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "releaseDate": "1999-09-20",
+      "rating": 7.961
+    },
+    {
+      "id": 456,
+      "title": "Los Simpson",
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "posterPath": "/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "backdropPath": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "releaseDate": "1989-12-17",
+      "rating": 8.022
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "posterPath": "/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "releaseDate": "2020-08-14",
+      "rating": 8.367
+    },
+    {
+      "id": 95350,
+      "title": "Linternas",
+      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "posterPath": "/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "releaseDate": "2026-08-16",
+      "rating": 8.281
+    },
+    {
+      "id": 1434,
+      "title": "Padre de familia",
+      "overview": "Los Griffin son una mediocre familia compuesta por Peter y Lois; sus hijos, Meg, Chris, y Stewie; y su antropomórfica mascota canina Brian. Está ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de pequeños cortes que frecuentemente se mofan de la cultura americana.",
+      "posterPath": "/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+      "backdropPath": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "releaseDate": "1999-01-31",
+      "rating": 7.41
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Comenzar de nuevo no es fácil, especialmente para el chico de una ciudad pequeña John Nolan que, después de un incidente que cambia su vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos de los superiores que lo ven como una crisis ambulante.",
+      "posterPath": "/g39Rn6PcZjK2yLzz5Z5oBKSpsZR.jpg",
+      "backdropPath": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "releaseDate": "2018-10-16",
+      "rating": 8.542
+    },
+    {
+      "id": 4614,
+      "title": "Navy: Investigación criminal",
+      "overview": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "posterPath": "/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "backdropPath": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "releaseDate": "2003-09-23",
+      "rating": 7.6
+    },
+    {
+      "id": 1416,
+      "title": "Anatomía de Grey",
+      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "posterPath": "/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "backdropPath": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "releaseDate": "2005-03-27",
+      "rating": 8.206
+    },
+    {
+      "id": 1622,
+      "title": "Sobrenatural",
+      "overview": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "posterPath": "/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "backdropPath": "/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+      "releaseDate": "2005-09-13",
+      "rating": 8.314
+    },
+    {
+      "id": 549,
+      "title": "Ley y orden",
+      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "posterPath": "/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "backdropPath": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+      "releaseDate": "1990-09-13",
+      "rating": 7.267
+    },
+    {
+      "id": 1431,
+      "title": "CSI: Las Vegas",
+      "overview": "CSI: Crime Scene Investigation es una serie de televisión de ficción estadounidense transmitida por primera vez en los Estados Unidos por la cadena CBS. La serie se centra en torno a un grupo de científicos forenses y criminologos que trabajan en la ciudad estadounidense de Las Vegas (Nevada), investigando los crímenes que en ella suceden. La original fórmula de la serie y su éxito suscitó dos secuelas, CSI: Miami (2002-2012) y CSI: Nueva York (2004-2013), en torno a los equipos de científicos forenses de dichas ciudades, pero además influye en varias series posteriores relacionadas con la investigación criminal, como Bones o NCIS entre otras.",
+      "posterPath": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "backdropPath": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+      "releaseDate": "2000-10-06",
+      "rating": 7.615
+    },
+    {
+      "id": 2661,
+      "title": "Kamen Rider",
+      "overview": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos medios, la mayor de las veces tecnológicos y a veces mágicos o combinación de ambos según la temporada, se transforma, siempre utilizando la frase Henshin (\"transformación\") en un superhéroe llamado Kamen Rider con un traje blindado y una máscara que generalmente está decorada recordando a un insecto.En unas temporadas hay un solo Kamen Rider, mientras que en otras hay dos o más, habiendo algunas que presentan más de diez Riders diferentes. Estos Riders luchan contra enemigos diversos o incluso a veces entre ellos. Los poderes del Kamen Rider siempre tienen un origen estrechamente relacionado con  los villanos, pero usa esos poderes para el bien en lugar de para el mal, y esta relación se convierte en fuente de conflictos argumentales según la temporada.",
+      "posterPath": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+      "backdropPath": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+      "releaseDate": "1971-04-03",
+      "rating": 6.4
+    },
+    {
+      "id": 1433,
+      "title": "Padre made in USA",
+      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+      "posterPath": "/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
+      "backdropPath": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "releaseDate": "2005-02-06",
+      "rating": 7.021
+    },
+    {
+      "id": 4057,
+      "title": "Mentes criminales",
+      "overview": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
+      "posterPath": "/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
+      "backdropPath": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+      "releaseDate": "2005-09-22",
+      "rating": 8.298
+    },
+    {
+      "id": 1399,
+      "title": "Juego de tronos",
+      "overview": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+      "posterPath": "/3hDtRuwTfQQYRst3kjhvp4Cogjw.jpg",
+      "backdropPath": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+      "releaseDate": "2011-04-17",
+      "rating": 8.47
+    },
+    {
+      "id": 60625,
+      "title": "Rick y Morty",
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "posterPath": "/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
+      "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+      "releaseDate": "2013-12-02",
+      "rating": 8.682
+    }
+  ],
+  "topRated": [
+    {
+      "id": 276161,
+      "title": "Así aprenderás",
+      "overview": "Unos inspectores insólitos entran en escena en los colegios, con lecciones duras de las que no aparecen en los libros de texto, para acabar con las reiteradas faltas de respeto.",
+      "posterPath": "/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
+      "backdropPath": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 9.41
+    },
+    {
+      "id": 299167,
+      "title": "Rancho Dutton",
+      "overview": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no se detendrá ante nada para proteger su imperio.",
+      "posterPath": "/7dAzAtmmfHeW5H6xxuukXsBBfzH.jpg",
+      "backdropPath": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 9.172
+    },
+    {
+      "id": 1396,
+      "title": "Breaking Bad",
+      "overview": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "posterPath": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "backdropPath": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "releaseDate": "2008-01-20",
+      "rating": 8.951
+    },
+    {
+      "id": 273240,
+      "title": "Off Campus",
+      "overview": "Hannah Wells hace un trato con el capitán de hockey Garrett Graham: ella le da clase de filosofía y él la ayuda a conquistar al chico que le gusta. Su acuerdo se convierte en una auténtica conexión cuando ambos se enfrentan a su pasado.",
+      "posterPath": "/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
+      "backdropPath": "/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+      "releaseDate": "2026-05-13",
+      "rating": 8.918
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Tras finalizar el viaje",
+      "overview": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+      "posterPath": "/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+      "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "releaseDate": "2023-09-29",
+      "rating": 8.805
+    },
+    {
+      "id": 85077,
+      "title": "The Chosen (Los elegidos)",
+      "overview": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "posterPath": "/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "backdropPath": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "releaseDate": "2019-04-21",
+      "rating": 8.794
+    },
+    {
+      "id": 219246,
+      "title": "Si la vida te da mandarinas...",
+      "overview": "En la isla de Jeju, una chica llena de vida y un joven decidido viven una historia repleta de desafíos y triunfos que demuestra que el amor puede trascender el tiempo.",
+      "posterPath": "/h3Sv1qMAc6ADS6xWoIrUAzdXarf.jpg",
+      "backdropPath": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+      "releaseDate": "2025-03-07",
+      "rating": 8.788
+    },
+    {
+      "id": 246,
+      "title": "Avatar: La leyenda de Aang",
+      "overview": "La historia transcurre en un mundo de gente principalmente asiática (el estilo de vida en la serie se basa en la primera mitad del siglo XIX), donde predominan las artes marciales y la manipulación de los elementos en combinación con el misticismo oriental, dando seguimiento a las aventuras de Aang, el más reciente sucesor de una larga línea de avatares, y sus amigos en un intento por salvar su místico mundo de la despiadada Nación del Fuego que busca conquistar a las demás naciones. Durante sus travesías son acechados insistentemente por el desterrado príncipe del fuego Zuko, cuyo objetivo es capturar al avatar para recuperar su honor. Esta serie es presentada como si se tratara de una serie de libros, en donde cada episodio actúa como un «capítulo», y cada temporada como un solo «libro», los cuales se titulan por el elemento temático de la temporada.",
+      "posterPath": "/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+      "backdropPath": "/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+      "releaseDate": "2005-02-21",
+      "rating": 8.779
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "posterPath": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "releaseDate": "1999-10-20",
+      "rating": 8.8
+    },
+    {
+      "id": 94605,
+      "title": "Arcane",
+      "overview": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+      "posterPath": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "backdropPath": "/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+      "releaseDate": "2021-11-06",
+      "rating": 8.749
+    },
+    {
+      "id": 301507,
+      "title": "Más que rivales",
+      "overview": "Dos de las mayores estrellas de la Major League Hockey están unidas por la ambición, la rivalidad y una atracción magnética que ninguna de las dos comprende del todo. Lo que comienza como una aventura secreta entre dos novatos se convierte en un viaje de años de amor, negación y autodescubrimiento. Durante los siguientes ocho años, mientras buscan la gloria sobre el hielo, luchan por comprender sus sentimientos mutuos. Divididos entre el deporte que les apasiona y el amor que no pueden ignorar, deben decidir si hay espacio en su mundo ferozmente competitivo para algo tan frágil —y poderoso— como el amor verdadero.",
+      "posterPath": "/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
+      "backdropPath": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+      "releaseDate": "2025-11-28",
+      "rating": 8.741
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "posterPath": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "backdropPath": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "releaseDate": "2025-01-09",
+      "rating": 8.733
+    },
+    {
+      "id": 87108,
+      "title": "Chernobyl",
+      "overview": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+      "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "backdropPath": "/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+      "releaseDate": "2019-05-06",
+      "rating": 8.724
+    },
+    {
+      "id": 60059,
+      "title": "Better Call Saul",
+      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+      "posterPath": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "backdropPath": "/rfxryDIv8huejujg4JueDJx8zCz.jpg",
+      "releaseDate": "2015-02-08",
+      "rating": 8.7
+    },
+    {
+      "id": 31911,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "overview": "Remake de Fullmetal Alchemist. Edward y Alphonse rompieron la regla basica de la alquimia, la cual les trajo graves consecuencias. Para remediar esto, se embarcan en busca de alguna forma de solucionar sus males",
+      "posterPath": "/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+      "backdropPath": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "releaseDate": "2009-04-05",
+      "rating": 8.712
+    },
+    {
+      "id": 200709,
+      "title": "Un héroe débil",
+      "overview": "Yeon Shi Eun, un estudiante modelo con calificaciones que pertenecen al 1% superior de la escuela. Se ve débil pero lucha contra numerosas violencias dentro y fuera de la escuela. Representa a un chico naturalmente débil en términos de apariencia, dominando una escuela parecida a una jungla usando su cerebro, poder analítico y herramientas.",
+      "posterPath": "/wmYQAByUOf3mQp0xOQa0Xkf5ea1.jpg",
+      "backdropPath": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+      "releaseDate": "2022-11-18",
+      "rating": 8.7
+    },
+    {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "X-Men '97 vuelve a la icónica época de los años 90, donde los X-Men, un grupo de mutantes que utilizan sus asombrosos poderes para proteger a un mundo que los odia y los teme, se enfrentarán a su mayor desafío y a un nuevo, insospechado y peligroso futuro.",
+      "posterPath": "/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+      "backdropPath": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "releaseDate": "2024-03-20",
+      "rating": 8.7
+    },
+    {
+      "id": 1429,
+      "title": "Ataque a los Titanes",
+      "overview": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "posterPath": "/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "releaseDate": "2013-04-07",
+      "rating": 8.684
+    },
+    {
+      "id": 60625,
+      "title": "Rick y Morty",
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "posterPath": "/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
+      "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+      "releaseDate": "2013-12-02",
+      "rating": 8.682
+    },
+    {
+      "id": 127532,
+      "title": "Solo Leveling",
+      "overview": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+      "posterPath": "/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+      "backdropPath": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+      "releaseDate": "2024-01-07",
+      "rating": 8.7
+    }
+  ],
+  "discover": [
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "posterPath": "/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropPath": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "releaseDate": "2022-02-03",
+      "rating": 8.1
+    },
+    {
+      "id": 5920,
+      "title": "El mentalista",
+      "overview": "El mentalista es una serie policiaca americana sobre Patrick Jane, ex médium, que trabaja de asesor para la Oficina de Investigación de California (California Bureau of Investigation), usando su altamente desarrollada capacidad de observación, que anteriormente usaba para \"leer\" mentes.",
+      "posterPath": "/snKUzvCl3kGv0RWBjEjnOXMGvdl.jpg",
+      "backdropPath": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "releaseDate": "2008-09-23",
+      "rating": 8.4
+    },
+    {
+      "id": 113962,
+      "title": "Operaciones Especiales: Lioness",
+      "overview": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "posterPath": "/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropPath": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "releaseDate": "2023-07-23",
+      "rating": 8.1
+    },
+
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "posterPath": "/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropPath": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "releaseDate": "2023-05-04",
+      "rating": 8.196
+    },
+    {
+      "id": 2734,
+      "title": "Ley y orden: Unidad de Víctimas Especiales",
+      "overview": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los episodios son usualmente \"sacados de los titulares\" o basados libremente en verdaderos asesinatos que han recibido la atención de los medios.",
+      "posterPath": "/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
+      "backdropPath": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "releaseDate": "1999-09-20",
+      "rating": 7.961
+    },
+    {
+      "id": 456,
+      "title": "Los Simpson",
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "posterPath": "/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "backdropPath": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "releaseDate": "1989-12-17",
+      "rating": 8.022
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "posterPath": "/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropPath": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "releaseDate": "2020-08-14",
+      "rating": 8.367
+    },
+    {
+      "id": 117217,
+      "title": "El conquistador",
+      "overview": "Vas a correr, a explorar, a volar, vas a sumergirte, a golpear, a sufrir, vas a competir, vas a celebrar y vas a vivir la aventura. Reality de riesgo y aventuras presentado por Julian Iantzi.",
+      "posterPath": "/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+      "backdropPath": "/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+      "releaseDate": "2005-01-03",
+      "rating": 5.7
+    },
+    {
+      "id": 95350,
+      "title": "Linternas",
+      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "posterPath": "/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "releaseDate": "2026-08-16",
+      "rating": 8.281
+    },
+    {
+      "id": 1434,
+      "title": "Padre de familia",
+      "overview": "Los Griffin son una mediocre familia compuesta por Peter y Lois; sus hijos, Meg, Chris, y Stewie; y su antropomórfica mascota canina Brian. Está ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de pequeños cortes que frecuentemente se mofan de la cultura americana.",
+      "posterPath": "/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+      "backdropPath": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "releaseDate": "1999-01-31",
+      "rating": 7.41
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Comenzar de nuevo no es fácil, especialmente para el chico de una ciudad pequeña John Nolan que, después de un incidente que cambia su vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos de los superiores que lo ven como una crisis ambulante.",
+      "posterPath": "/g39Rn6PcZjK2yLzz5Z5oBKSpsZR.jpg",
+      "backdropPath": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "releaseDate": "2018-10-16",
+      "rating": 8.542
+    },
+    {
+      "id": 22980,
+      "title": "Watch What Happens Live with Andy Cohen",
+      "overview": "",
+      "posterPath": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "backdropPath": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+      "releaseDate": "2009-07-16",
+      "rating": 4.921
+    },
+    {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "overview": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
+      "posterPath": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "backdropPath": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+      "releaseDate": "2014-02-17",
+      "rating": 5.765
+    },
+    {
+      "id": 4614,
+      "title": "Navy: Investigación criminal",
+      "overview": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "posterPath": "/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "backdropPath": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "releaseDate": "2003-09-23",
+      "rating": 7.6
+    },
+    {
+      "id": 1416,
+      "title": "Anatomía de Grey",
+      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "posterPath": "/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "backdropPath": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "releaseDate": "2005-03-27",
+      "rating": 8.206
+    },
+    {
+      "id": 1622,
+      "title": "Sobrenatural",
+      "overview": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "posterPath": "/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "backdropPath": "/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+      "releaseDate": "2005-09-13",
+      "rating": 8.314
+    },
+    {
+      "id": 549,
+      "title": "Ley y orden",
+      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "posterPath": "/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "backdropPath": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+      "releaseDate": "1990-09-13",
+      "rating": 7.267
+    },
+    {
+      "id": 1431,
+      "title": "CSI: Las Vegas",
+      "overview": "CSI: Crime Scene Investigation es una serie de televisión de ficción estadounidense transmitida por primera vez en los Estados Unidos por la cadena CBS. La serie se centra en torno a un grupo de científicos forenses y criminologos que trabajan en la ciudad estadounidense de Las Vegas (Nevada), investigando los crímenes que en ella suceden. La original fórmula de la serie y su éxito suscitó dos secuelas, CSI: Miami (2002-2012) y CSI: Nueva York (2004-2013), en torno a los equipos de científicos forenses de dichas ciudades, pero además influye en varias series posteriores relacionadas con la investigación criminal, como Bones o NCIS entre otras.",
+      "posterPath": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "backdropPath": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+      "releaseDate": "2000-10-06",
+      "rating": 7.615
+    }
+  ]
+}

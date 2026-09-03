@@ -1,0 +1,730 @@
+{
+  "nowPlaying": [
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "posterPath": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 7.876
+    },
+    {
+      "id": 1368337,
+      "title": "La Odisea",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "releaseDate": "2026-07-15",
+      "rating": 7.994
+    },
+    {
+      "id": 1288445,
+      "title": "El motín",
+      "overview": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 6.4
+    },
+    {
+      "id": 1516698,
+      "title": "Sunrise. El último amanecer",
+      "overview": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a vivir el presente, su enfermedad empeora y los secretos familiares ocultos durante años amenazan con arruinarlo todo antes del fin del verano.",
+      "posterPath": "/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+      "backdropPath": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 6.625
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.846
+    },
+    {
+      "id": 1213243,
+      "title": "Tóxico: Un cuento de hadas para adultos",
+      "overview": "",
+      "posterPath": "/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdropPath": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 7.695
+    },
+    {
+      "id": 1621552,
+      "title": "La captura",
+      "overview": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más peligrosos del mundo: el Chapó Guzmán, patrón del temible Cártel de Sinaloa.",
+      "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+      "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.826
+    },
+    {
+      "id": 860508,
+      "title": "Susurran tu nombre",
+      "overview": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "posterPath": "/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
+      "backdropPath": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+      "releaseDate": "2026-08-27",
+      "rating": 6.602
+    },
+    {
+      "id": 1339713,
+      "title": "Obsesión",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "posterPath": "/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "releaseDate": "2026-05-13",
+      "rating": 8.207
+    },
+    {
+      "id": 1232569,
+      "title": "Pinocho: Desatado",
+      "overview": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+      "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+      "releaseDate": "2026-07-22",
+      "rating": 6.7
+    },
+    {
+      "id": 1375646,
+      "title": "Colony",
+      "overview": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
+      "posterPath": "/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+      "backdropPath": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 8.093
+    },
+    {
+      "id": 1323244,
+      "title": "La señal del apocalipsis",
+      "overview": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+      "posterPath": "/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
+      "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+      "releaseDate": "2026-08-06",
+      "rating": 5.79
+    },
+    {
+      "id": 1393326,
+      "title": "Ghost in the Cell",
+      "overview": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al creciente derramamiento de sangre.",
+      "posterPath": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
+      "backdropPath": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 7.024
+    },
+    {
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "posterPath": "/tQ8CR2Xuokcg8Pp2R7KDTA5N683.jpg",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-06-24",
+      "rating": 7.6
+    },
+    {
+      "id": 1108427,
+      "title": "Vaiana",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "posterPath": "/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "releaseDate": "2026-07-08",
+      "rating": 6.1
+    },
+    {
+      "id": 1386315,
+      "title": "A la carrera",
+      "overview": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
+      "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
+      "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 5.864
+    },
+    {
+      "id": 1514682,
+      "title": "Above & Below",
+      "overview": "Un grupo de amigos se embarca en unas vacaciones inolvidables. Lo que empieza como una aventura de fiestas y buceo, pronto se convierte en una pesadilla cuando son atacados por criminales en mar abierto.",
+      "posterPath": "/eR20sWbRL2ZMLxKZE4ZZ8Kg6Lk1.jpg",
+      "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 6.3
+    },
+    {
+      "id": 1284465,
+      "title": "La muerte de Robin Hood",
+      "overview": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "posterPath": "/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+      "backdropPath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "releaseDate": "2026-06-18",
+      "rating": 6.288
+    },
+    {
+      "id": 1130948,
+      "title": "Rosebush Pruning",
+      "overview": "En una opulenta villa española, los hermanos estadounidenses Jack, Ed, Anna y Robert se regodean en el aislamiento y en su fortuna heredada. Cuando Jack, el hermano mayor y pieza clave de la familia, anuncia que se muda con su novia Martha, los lazos se agrietan y Ed se ve obligado a descubrir la verdad sobre la muerte de su madre. Las mentiras comienzan a desvelarse y el tejido familiar empieza a desintegrarse.",
+      "posterPath": "/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
+      "backdropPath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+      "releaseDate": "2026-04-23",
+      "rating": 6.015
+    },
+    {
+      "id": 278,
+      "title": "Cadena perpetua",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "posterPath": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "releaseDate": "1994-09-23",
+      "rating": 8.729
+    }
+  ],
+  "popular": [
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "posterPath": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 7.9
+    },
+    {
+      "id": 1368337,
+      "title": "La Odisea",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "releaseDate": "2026-07-15",
+      "rating": 7.994
+    },
+    {
+      "id": 1288445,
+      "title": "El motín",
+      "overview": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 6.4
+    },
+    {
+      "id": 1516698,
+      "title": "Sunrise. El último amanecer",
+      "overview": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a vivir el presente, su enfermedad empeora y los secretos familiares ocultos durante años amenazan con arruinarlo todo antes del fin del verano.",
+      "posterPath": "/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+      "backdropPath": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 6.624
+    },
+    {
+      "id": 1285366,
+      "title": "愛のぬくもり",
+      "overview": "",
+      "posterPath": "/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+      "backdropPath": "/yjK3ardrgdS8suZG8KMU82Q7U38.jpg",
+      "releaseDate": "2024-07-06",
+      "rating": 5.2
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.8
+    },
+    {
+      "id": 1213243,
+      "title": "Tóxico: Un cuento de hadas para adultos",
+      "overview": "",
+      "posterPath": "/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdropPath": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 7.695
+    },
+    {
+      "id": 1621552,
+      "title": "La captura",
+      "overview": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más peligrosos del mundo: el Chapó Guzmán, patrón del temible Cártel de Sinaloa.",
+      "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+      "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.824
+    },
+    {
+      "id": 860508,
+      "title": "Susurran tu nombre",
+      "overview": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "posterPath": "/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
+      "backdropPath": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+      "releaseDate": "2026-08-27",
+      "rating": 6.6
+    },
+    {
+      "id": 1339713,
+      "title": "Obsesión",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "posterPath": "/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "releaseDate": "2026-05-13",
+      "rating": 8.207
+    },
+    {
+      "id": 1232569,
+      "title": "Pinocho: Desatado",
+      "overview": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+      "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+      "releaseDate": "2026-07-22",
+      "rating": 6.7
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "posterPath": "/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "releaseDate": "2026-06-17",
+      "rating": 8.317
+    },
+    {
+      "id": 1375646,
+      "title": "Colony",
+      "overview": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
+      "posterPath": "/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+      "backdropPath": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 8.088
+    },
+    {
+      "id": 1323244,
+      "title": "La señal del apocalipsis",
+      "overview": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+      "posterPath": "/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
+      "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+      "releaseDate": "2026-08-06",
+      "rating": 5.8
+    },
+    {
+      "id": 1393326,
+      "title": "Ghost in the Cell",
+      "overview": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al creciente derramamiento de sangre.",
+      "posterPath": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
+      "backdropPath": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 7.024
+    },
+    {
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "posterPath": "/tQ8CR2Xuokcg8Pp2R7KDTA5N683.jpg",
+      "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-06-24",
+      "rating": 7.589
+    },
+    {
+      "id": 1108427,
+      "title": "Vaiana",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "posterPath": "/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "releaseDate": "2026-07-08",
+      "rating": 6.1
+    },
+    {
+      "id": 1386315,
+      "title": "A la carrera",
+      "overview": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
+      "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
+      "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 5.73
+    },
+    {
+      "id": 1514682,
+      "title": "Above & Below",
+      "overview": "Un grupo de amigos se embarca en unas vacaciones inolvidables. Lo que empieza como una aventura de fiestas y buceo, pronto se convierte en una pesadilla cuando son atacados por criminales en mar abierto.",
+      "posterPath": "/eR20sWbRL2ZMLxKZE4ZZ8Kg6Lk1.jpg",
+      "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 6.3
+    },
+    {
+      "id": 1560520,
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "overview": "Cuando el misterioso gigante conocido únicamente como Bane libera a toda la galería de villanos de Batman del Manicomio de Arkham, el Cruzado Encapuchado se ve llevado al límite de su resistencia física y mental.",
+      "posterPath": "/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
+      "backdropPath": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+      "releaseDate": "2026-06-23",
+      "rating": 9.04
+    }
+  ],
+  "topRated": [
+    {
+      "id": 980431,
+      "title": "Avatar Aang: El último maestro del aire",
+      "overview": "Cuando el Avatar Aang, el último maestro del aire del mundo, descubre un poder ancestral que podría salvar a su cultura de la extinción, él y sus amigos se lanzan a la búsqueda de ese poder antes de que caiga en malas manos.",
+      "posterPath": "/gXyICsxc1amVyziopCT4yhnelNv.jpg",
+      "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 9.198
+    },
+    {
+      "id": 1632181,
+      "title": "Socias por accidente",
+      "overview": "Alexa, una elegante relacionista pública, y Regina, una entrenadora de carácter fuerte y espíritu independiente, llevan vidas completamente opuestas hasta que un mismo hombre entra en su historia. Tras una coincidencia inesperada, ambas descubren que fueron engañadas por la misma persona y que sus caminos están más entrelazados de lo que imaginaban. Obligadas a unir fuerzas, Alexa y Regina pasarán de la desconfianza a una alianza improbable que pondrá a prueba sus diferencias, sus decisiones y su idea de lo que significa apoyarse entre mujeres.",
+      "posterPath": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+      "backdropPath": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
+      "releaseDate": "2026-03-12",
+      "rating": 8.88
+    },
+    {
+      "id": 1007757,
+      "title": "Intercambiados",
+      "overview": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+      "posterPath": "/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+      "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 8.873
+    },
+    {
+      "id": 1621552,
+      "title": "La captura",
+      "overview": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más peligrosos del mundo: el Chapó Guzmán, patrón del temible Cártel de Sinaloa.",
+      "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+      "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.84
+    },
+    {
+      "id": 1311031,
+      "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+      "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+      "posterPath": "/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
+      "backdropPath": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "releaseDate": "2025-07-18",
+      "rating": 8.788
+    },
+    {
+      "id": 278,
+      "title": "Cadena perpetua",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "posterPath": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "releaseDate": "1994-09-23",
+      "rating": 8.729
+    },
+    {
+      "id": 238,
+      "title": "El padrino",
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "posterPath": "/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+      "backdropPath": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "releaseDate": "1972-03-14",
+      "rating": 8.686
+    },
+    {
+      "id": 936075,
+      "title": "Michael",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "posterPath": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "releaseDate": "2026-04-22",
+      "rating": 8.7
+    },
+    {
+      "id": 687163,
+      "title": "Proyecto Salvación",
+      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "posterPath": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "releaseDate": "2026-03-15",
+      "rating": 8.645
+    },
+    {
+      "id": 240,
+      "title": "El padrino II",
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "posterPath": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "backdropPath": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+      "releaseDate": "1974-12-20",
+      "rating": 8.6
+    },
+    {
+      "id": 389,
+      "title": "Doce hombres sin piedad",
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
+      "posterPath": "/t88XfoxO5cX3f0qaSxWsBS0Lc3.jpg",
+      "backdropPath": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "releaseDate": "1957-04-10",
+      "rating": 8.6
+    },
+    {
+      "id": 424,
+      "title": "La lista de Schindler",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "posterPath": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "backdropPath": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "releaseDate": "1993-12-15",
+      "rating": 8.57
+    },
+    {
+      "id": 1232449,
+      "title": "Young hearts",
+      "overview": "Elias se siente atraído por su nuevo vecino Alexander. Pronto se da cuenta de que está realmente enamorado por primera vez.",
+      "posterPath": "/9dkwCoJFcNRxuXf6W2f3dm1JaTl.jpg",
+      "backdropPath": "/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
+      "releaseDate": "2024-10-26",
+      "rating": 8.562
+    },
+    {
+      "id": 1218925,
+      "title": "Chainsaw Man - La película: El arco de Reze",
+      "overview": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
+      "posterPath": "/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
+      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+      "releaseDate": "2025-09-19",
+      "rating": 8.5
+    },
+    {
+      "id": 155,
+      "title": "El caballero oscuro",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "posterPath": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "backdropPath": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+      "releaseDate": "2008-07-16",
+      "rating": 8.534
+    },
+    {
+      "id": 129,
+      "title": "El viaje de Chihiro",
+      "overview": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "posterPath": "/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+      "backdropPath": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "releaseDate": "2001-07-20",
+      "rating": 8.534
+    },
+    {
+      "id": 497,
+      "title": "La milla verde",
+      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "posterPath": "/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "backdropPath": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+      "releaseDate": "1999-12-10",
+      "rating": 8.506
+    },
+    {
+      "id": 122,
+      "title": "El señor de los anillos: El retorno del rey",
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "posterPath": "/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "backdropPath": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+      "releaseDate": "2003-12-17",
+      "rating": 8.506
+    },
+    {
+      "id": 19404,
+      "title": "Un amor contra viento y marea",
+      "overview": "Los Singh son una familia india con grandes convicciones culturales de su nación de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querrá casarse con una mujer ajena a su cultura y para ello deberá hacer todos los esfuerzos por convencer a su familia.",
+      "posterPath": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "backdropPath": "/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+      "releaseDate": "1995-10-20",
+      "rating": 8.503
+    },
+    {
+      "id": 496243,
+      "title": "Parásitos",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "posterPath": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "backdropPath": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "releaseDate": "2019-05-30",
+      "rating": 8.49
+    }
+  ],
+  "upcoming": [
+    {
+      "id": 1368337,
+      "title": "La Odisea",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "releaseDate": "2026-07-15",
+      "rating": 7.993
+    },
+    {
+      "id": 1288445,
+      "title": "El motín",
+      "overview": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 6.363
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.841
+    },
+    {
+      "id": 1232569,
+      "title": "Pinocho: Desatado",
+      "overview": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+      "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+      "releaseDate": "2026-07-22",
+      "rating": 6.7
+    },
+    {
+      "id": 1386315,
+      "title": "A la carrera",
+      "overview": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
+      "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
+      "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 5.918
+    },
+    {
+      "id": 1130948,
+      "title": "Rosebush Pruning",
+      "overview": "En una opulenta villa española, los hermanos estadounidenses Jack, Ed, Anna y Robert se regodean en el aislamiento y en su fortuna heredada. Cuando Jack, el hermano mayor y pieza clave de la familia, anuncia que se muda con su novia Martha, los lazos se agrietan y Ed se ve obligado a descubrir la verdad sobre la muerte de su madre. Las mentiras comienzan a desvelarse y el tejido familiar empieza a desintegrarse.",
+      "posterPath": "/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
+      "backdropPath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+      "releaseDate": "2026-04-23",
+      "rating": 6.015
+    },
+    {
+      "id": 1384216,
+      "title": "La constelación del perro",
+      "overview": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "posterPath": "/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+      "backdropPath": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 6.7
+    },
+    {
+      "id": 1127384,
+      "title": "En mar abierto",
+      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "posterPath": "/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 7.111
+    },
+    {
+      "id": 299534,
+      "title": "Vengadores: Endgame",
+      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "posterPath": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "backdropPath": "/2xfV5Zdq4kCsFVReRXJKnJaUFCD.jpg",
+      "releaseDate": "2019-04-24",
+      "rating": 8.241
+    },
+    {
+      "id": 1032863,
+      "title": "La hipótesis del amor",
+      "overview": "",
+      "posterPath": "/e89ZV1Ce3jyKIceHg7WzNqTkiN7.jpg",
+      "backdropPath": "/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
+      "releaseDate": "2026-09-23",
+      "rating": 0.0
+    },
+    {
+      "id": 1288059,
+      "title": "Quiero Tu Sexo",
+      "overview": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
+      "posterPath": "/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "backdropPath": "/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 6.309
+    },
+    {
+      "id": 950028,
+      "title": "La invitación",
+      "overview": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "posterPath": "/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "releaseDate": "2026-06-25",
+      "rating": 7.3
+    },
+    {
+      "id": 1480574,
+      "title": "Just Play Dead",
+      "overview": "Un hombre planea fingir su muerte y culpar al amante de su esposa por dinero del seguro. Ella trama matarlo de verdad y quedarse todo, iniciando un juego mortal.",
+      "posterPath": "/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "backdropPath": "/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.0
+    },
+    {
+      "id": 1122573,
+      "title": "En la zona gris",
+      "overview": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
+      "posterPath": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+      "backdropPath": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "releaseDate": "2026-05-13",
+      "rating": 7.597
+    },
+    {
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
+      "posterPath": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "backdropPath": "/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6.448
+    },
+    {
+      "id": 1325734,
+      "title": "El drama",
+      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "posterPath": "/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "backdropPath": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "releaseDate": "2026-04-01",
+      "rating": 6.924
+    },
+    {
+      "id": 1101412,
+      "title": "Vertigo 2: Punto muerto",
+      "overview": "Durante un peligroso ascenso por el monte Kwan, en Tailandia, dos escaladores quedan atrapados a miles de pies de altura; allí, las alturas que provocan vértigo, la exposición extrema y unas probabilidades de éxito casi nulas convierten cada instante en una lucha por la supervivencia.",
+      "posterPath": "/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "backdropPath": "/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+      "releaseDate": "2026-09-01",
+      "rating": 6.0
+    },
+    {
+      "id": 1226699,
+      "title": "The Wrong Girls",
+      "overview": "",
+      "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 6.3
+    },
+    {
+      "id": 1185806,
+      "title": "La Patrulla Canina: La dino película",
+      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "posterPath": "/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+      "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "releaseDate": "2026-07-23",
+      "rating": 7.119
+    },
+    {
+      "id": 1423191,
+      "title": "Resident Evil",
+      "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "posterPath": "/pJQOA9ZTr1vFC0pDyT0ewH5046M.jpg",
+      "backdropPath": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+      "releaseDate": "2026-09-16",
+      "rating": 0.0
+    }
+  ]
+}

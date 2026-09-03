@@ -1,0 +1,54 @@
+{
+  "profiles": [
+    {
+      "id": "40cf1cb4-15fa-4435-9739-2f39a04cb311",
+      "userId": "203474e6-753b-4a51-8433-00086669eb04",
+      "username": "usuario_demo",
+      "displayName": "Usuario Demo",
+      "bio": "Amante de las peliculas de accion",
+      "avatarUrl": null,
+      "country": "CL",
+      "visibility": "PUBLIC",
+      "followersCount": 12,
+      "followingCount": 8,
+      "favorites": [
+        {
+          "tmdbId": 157336,
+          "mediaType": "MOVIE",
+          "title": "Interstellar",
+          "posterPath": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "voteAverage": 8.5,
+          "releaseDate": "2014-11-05",
+          "duration": 169
+        }
+      ],
+      "createdAt": "2026-09-03T16:23:19.629877Z",
+      "updatedAt": "2026-09-03T16:23:19.629891Z"
+    },
+    {
+      "id": "74e764bb-c215-4f7c-8606-dcc122dcc86d",
+      "userId": "45ae2005-0c6d-4b57-8c85-5d049e0dd636",
+      "username": "admin_watchnext",
+      "displayName": "Administrador",
+      "bio": "Perfil de administracion de WatchNext",
+      "avatarUrl": null,
+      "country": "CL",
+      "visibility": "PUBLIC",
+      "followersCount": 0,
+      "followingCount": 0,
+      "favorites": [
+        {
+          "tmdbId": 155,
+          "mediaType": "MOVIE",
+          "title": "El caballero oscuro",
+          "posterPath": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+          "voteAverage": 8.534,
+          "releaseDate": "2008-07-16",
+          "duration": null
+        }
+      ],
+      "createdAt": "2026-09-03T16:25:04.314201Z",
+      "updatedAt": "2026-09-03T16:25:04.314201Z"
+    }
+  ]
+}
