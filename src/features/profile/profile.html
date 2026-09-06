@@ -1,0 +1,167 @@
+<section id="profile-view" class="profile-view">
+  <div class="container-fluid app-container">
+
+    <!-- ===== estado sin sesion ===== -->
+    <section id="profile-guest" class="profile-guest text-center py-5" hidden>
+      <i class="bi bi-person-circle display-4 mb-3" aria-hidden="true"></i>
+      <h1 class="h2 mb-2">Tu perfil te espera</h1>
+      <p class="text-secondary mb-4">
+        Inicia sesión para ver tu perfil, personalizarlo y revisar tu actividad.
+      </p>
+      <a class="btn btn-primary btn-lg" href="#auth" data-app-route="auth">
+        <i class="bi bi-box-arrow-in-right me-1" aria-hidden="true"></i>
+        Iniciar sesión
+      </a>
+    </section>
+
+    <!-- ===== contenido con sesion ===== -->
+    <div id="profile-content" hidden>
+
+      <!-- cabecera del perfil -->
+      <header class="profile-header">
+        <div class="profile-avatar" id="profile-avatar" aria-hidden="true">U</div>
+
+        <div class="profile-identity">
+          <div class="d-flex flex-wrap align-items-center gap-2">
+            <h1 id="profile-display-name" class="h2 mb-0">Usuario</h1>
+            <span id="profile-role-badge" class="badge rounded-pill text-bg-warning" hidden>
+              <i class="bi bi-shield-check me-1" aria-hidden="true"></i>Administrador
+            </span>
+          </div>
+          <p class="text-secondary mb-2">
+            @<span id="profile-username">usuario</span>
+            <span aria-hidden="true"> · </span>
+            <span id="profile-email">correo</span>
+          </p>
+          <p id="profile-bio" class="profile-bio mb-2"></p>
+          <ul class="profile-meta list-unstyled d-flex flex-wrap gap-3 mb-0">
+            <li><i class="bi bi-geo-alt me-1" aria-hidden="true"></i><span id="profile-location">Sin ubicación</span></li>
+            <li><i class="bi bi-eye me-1" aria-hidden="true"></i><span id="profile-visibility">Público</span></li>
+            <li><i class="bi bi-calendar3 me-1" aria-hidden="true"></i>Miembro desde <span id="profile-since">2026</span></li>
+          </ul>
+        </div>
+
+        <div class="profile-actions">
+          <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#profile-edit-panel"
+            aria-controls="profile-edit-panel" aria-expanded="false">
+            <i class="bi bi-pencil me-1" aria-hidden="true"></i>
+            Editar perfil
+          </button>
+        </div>
+      </header>
+
+      <!-- estadisticas -->
+      <section class="profile-stats" aria-label="Resumen de actividad">
+        <article class="profile-stat">
+          <span class="profile-stat-value" id="stat-lists">0</span>
+          <span class="profile-stat-label">Listas</span>
+        </article>
+        <article class="profile-stat">
+          <span class="profile-stat-value" id="stat-titles">0</span>
+          <span class="profile-stat-label">Títulos guardados</span>
+        </article>
+        <article class="profile-stat">
+          <span class="profile-stat-value" id="stat-followers">0</span>
+          <span class="profile-stat-label">Seguidores</span>
+        </article>
+        <article class="profile-stat">
+          <span class="profile-stat-value" id="stat-following">0</span>
+          <span class="profile-stat-label">Siguiendo</span>
+        </article>
+      </section>
+
+      <!-- formulario de edicion -->
+      <section id="profile-edit-panel" class="collapse mb-4" aria-labelledby="profile-edit-title">
+        <article class="profile-panel p-4">
+          <h2 id="profile-edit-title" class="h5 mb-3">Editar perfil</h2>
+
+          <form id="profile-form" class="row g-3" novalidate>
+            <div class="col-md-6">
+              <label for="profile-input-name" class="form-label">Nombre para mostrar <span aria-hidden="true">*</span></label>
+              <input id="profile-input-name" name="displayName" type="text" class="form-control" maxlength="50" required
+                autocomplete="name" aria-describedby="profile-input-name-help profile-input-name-error">
+              <div id="profile-input-name-help" class="form-text">Entre 2 y 50 caracteres.</div>
+              <div id="profile-input-name-error" class="invalid-feedback"></div>
+            </div>
+
+            <div class="col-md-6">
+              <label for="profile-input-username" class="form-label">Nombre de usuario <span aria-hidden="true">*</span></label>
+              <div class="input-group has-validation">
+                <span class="input-group-text">@</span>
+                <input id="profile-input-username" name="username" type="text" class="form-control" maxlength="20" required
+                  autocomplete="username" aria-describedby="profile-input-username-help profile-input-username-error">
+                <div id="profile-input-username-error" class="invalid-feedback"></div>
+              </div>
+              <div id="profile-input-username-help" class="form-text">3 a 20 caracteres: minúsculas, números y guion bajo.</div>
+            </div>
+
+            <div class="col-12">
+              <label for="profile-input-bio" class="form-label">Biografía</label>
+              <textarea id="profile-input-bio" name="bio" class="form-control" rows="2" maxlength="160"
+                aria-describedby="profile-input-bio-help profile-input-bio-error"></textarea>
+              <div id="profile-input-bio-help" class="form-text">
+                <span id="profile-bio-count">0</span>/160 caracteres.
+              </div>
+              <div id="profile-input-bio-error" class="invalid-feedback"></div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="profile-input-region" class="form-label">Región</label>
+              <select id="profile-input-region" name="regionId" class="form-select"
+                aria-describedby="profile-input-region-help profile-input-region-error">
+                <option value="">Sin especificar</option>
+              </select>
+              <div id="profile-input-region-help" class="form-text">Al elegir una región se cargan sus comunas.</div>
+              <div id="profile-input-region-error" class="invalid-feedback"></div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="profile-input-commune" class="form-label">Comuna</label>
+              <select id="profile-input-commune" name="commune" class="form-select" disabled>
+                <option value="">Primero elige una región</option>
+              </select>
+            </div>
+
+            <div class="col-md-4">
+              <label for="profile-input-visibility" class="form-label">Visibilidad del perfil</label>
+              <select id="profile-input-visibility" name="visibility" class="form-select">
+                <option value="PUBLIC">Público</option>
+                <option value="PRIVATE">Privado</option>
+              </select>
+            </div>
+
+            <div class="col-12 d-flex gap-2 justify-content-end">
+              <button class="btn btn-outline-secondary" type="reset" data-bs-toggle="collapse"
+                data-bs-target="#profile-edit-panel">
+                Cancelar
+              </button>
+              <button class="btn btn-primary" type="submit">
+                <i class="bi bi-check2 me-1" aria-hidden="true"></i>
+                Guardar cambios
+              </button>
+            </div>
+
+            <div class="col-12">
+              <p id="profile-form-message" class="form-message mb-0" role="status" aria-live="polite"></p>
+            </div>
+          </form>
+        </article>
+      </section>
+
+      <!-- resumen de listas -->
+      <section class="profile-lists" aria-labelledby="profile-lists-title">
+        <header class="d-flex align-items-center justify-content-between mb-3">
+          <h2 id="profile-lists-title" class="h4 mb-0">Mis listas</h2>
+          <a class="btn btn-sm btn-outline-secondary" href="#lists" data-app-route="lists">
+            Ver todas
+            <i class="bi bi-chevron-right" aria-hidden="true"></i>
+          </a>
+        </header>
+
+        <div id="profile-lists-grid" class="profile-lists-grid">
+          <!-- se genera con JS -->
+        </div>
+      </section>
+    </div>
+  </div>
+</section>

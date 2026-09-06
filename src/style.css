@@ -2,6 +2,8 @@
 @import url("./core/components/style.css");
 @import url("./features/home/style/style.css");
 @import url("./features/auth/style/style.css");
+@import url("./features/lists/style/style.css");
+@import url("./features/profile/style/style.css");
 
 .btn {
     --bs-btn-border-radius: 1rem;

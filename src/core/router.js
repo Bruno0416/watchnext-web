@@ -1,6 +1,8 @@
 import { refreshNavBar } from "./components/navbar/hook/NavBar.js";
 import { loadAuth } from "../features/auth/hook/auth.js";
 import { loadHome } from "../features/home/hook/home.js";
+import { loadLists } from "../features/lists/hook/lists.js";
+import { loadProfile } from "../features/profile/hook/profile.js";
 
 // ---------- enrutamiento de la pagina ----------
 let content = null;
@@ -24,6 +26,9 @@ export async function loadInitialRoute() {
 
 // --- navegacion ---
 export async function navigate(route) {
+  // 0. marcar en el navbar el enlace de la vista actual
+  updateActiveLinks(route);
+
   // 1. cargar inicio
   if (route === "home") {
     setAppShellVisible(true);
@@ -41,14 +46,14 @@ export async function navigate(route) {
   // 3. cargar listas
   if (route === "lists") {
     setAppShellVisible(true);
-    console.log("enrutar a listas");
+    await loadLists();
     return;
   }
 
   // 4. cargar perfil
   if (route === "profile") {
     setAppShellVisible(true);
-    console.log("enrutar a perfil");
+    await loadProfile();
   }
 }
 
@@ -77,6 +82,20 @@ async function handleAuthSuccess() {
 
   // 2. navegar a inicio despues de autenticar
   await navigate("home");
+}
+
+// --- enlace activo del navbar ---
+function updateActiveLinks(route) {
+  // 1. activar solo el enlace del navbar cuya ruta coincide
+  document.querySelectorAll(".navbar-nav [data-app-route]").forEach((link) => {
+    const isActive = link.dataset.appRoute === route;
+    link.classList.toggle("active", isActive);
+    if (isActive) {
+      link.setAttribute("aria-current", "page");
+    } else {
+      link.removeAttribute("aria-current");
+    }
+  });
 }
 
 // --- estructura global ---

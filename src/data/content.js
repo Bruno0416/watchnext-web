@@ -1,5 +1,12 @@
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/original";
 
+// --- url de imagen ---
+
+export function getImageUrl(path) {
+  // 1. construir la url completa de una imagen de tmdb
+  return path ? `${IMAGE_BASE_URL}${path}` : "";
+}
+
 // ---------- carga de contenido ----------
 
 export async function loadContent() {

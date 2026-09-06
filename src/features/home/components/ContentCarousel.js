@@ -88,7 +88,7 @@ export class ContentCarousel {
         const rating = this.getRating(content.rating);
 
         return `
-          <article class="content-card" data-content-id="${content.id}">
+          <article class="content-card" data-content-id="${content.id}" data-content-type="${content.type}">
             <div class="content-image-wrap">
               <img
                 src="${image}"
@@ -97,6 +97,15 @@ export class ContentCarousel {
                 loading="lazy"
               >
               <div class="content-image-shade"></div>
+              <button
+                class="btn content-add-button"
+                type="button"
+                data-action="add-to-list"
+                aria-label="Agregar ${title} a una lista"
+                title="Agregar a lista"
+              >
+                <i class="bi bi-plus-lg" aria-hidden="true"></i>
+              </button>
             </div>
 
             <div class="content-card-body">
