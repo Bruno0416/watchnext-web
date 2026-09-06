@@ -1,7 +1,7 @@
 <header class="app-header sticky-top">
   <nav class="navbar navbar-expand-lg" aria-label="Navegación principal">
     <div class="container-fluid app-container">
-      <a class="navbar-brand d-flex align-items-center gap-2" href="#featured">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="#home" data-app-route="home">
         <span>WatchNext</span>
       </a>
 
@@ -14,19 +14,21 @@
       <div id="main-navigation" class="collapse navbar-collapse">
         <ul class="navbar-nav mx-lg-auto mb-3 mb-lg-0 gap-lg-1">
           <li class="nav-item">
-            <a class="nav-link active" href="#featured">
+            <a class="nav-link active" href="#home" data-app-route="home">
               <i class="bi bi-house-door me-1"></i>
               Inicio
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link" href="#home-content">
+            <a class="nav-link" href="#lists" data-app-route="lists">
               <i class="bi bi-list-ul me-1"></i>
               Listas
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link" href="#profile">
+            <a class="nav-link" href="#profile" data-app-route="profile">
               <i class="bi bi-person me-1"></i>
               Perfil
             </a>
@@ -49,6 +51,7 @@
                   <i class="bi bi-check2 opacity-0" data-theme-check></i>
                 </button>
               </li>
+
               <li>
                 <button class="dropdown-item rounded-2 d-flex align-items-center gap-2" type="button"
                   data-theme-value="light">
@@ -57,6 +60,7 @@
                   <i class="bi bi-check2 opacity-0" data-theme-check></i>
                 </button>
               </li>
+
               <li>
                 <button class="dropdown-item rounded-2 d-flex align-items-center gap-2" type="button"
                   data-theme-value="system">
@@ -68,9 +72,7 @@
             </ul>
           </div>
 
-          <a class="btn nav-icon-button" href="#profile" aria-label="Perfil" title="Perfil">
-            <i class="bi bi-person-circle"></i>
-          </a>
+          <div id="navbar-account"></div>
         </div>
       </div>
     </div>

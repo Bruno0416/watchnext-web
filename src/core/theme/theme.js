@@ -1,6 +1,5 @@
 // ---------- configuracion del tema ----------
-
-const STORAGE_KEY = "watchnext-theme";
+const STORAGE_KEY = "theme";
 
 export const Theme = Object.freeze({
   DARK: "dark",
@@ -15,12 +14,10 @@ const themeIcons = {
 };
 
 // ---------- estado del tema ----------
-
 let selectedTheme = Theme.DARK;
 let initialized = false;
 
 // ---------- api publica ----------
-
 export function initTheme() {
   // 1. evitar una inicializacion duplicada
   if (initialized) {

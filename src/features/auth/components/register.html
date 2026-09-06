@@ -1,0 +1,55 @@
+<form id="register-form" class="auth-form">
+  <header class="auth-header">
+    <h1 class="auth-title">Crear cuenta</h1>
+    <p class="auth-description">Regístrate para comenzar a utilizar WatchNext.</p>
+  </header>
+
+  <div class="auth-field">
+    <label for="register-email">Correo electrónico</label>
+    <input id="register-email" name="email" type="email" autocomplete="email" maxlength="150" required>
+    <p class="auth-error" data-error-for="email" aria-live="polite"></p>
+  </div>
+
+  <div class="auth-field">
+    <label for="register-password">Contraseña</label>
+
+    <div class="auth-password">
+      <input type="password" id="register-password" name="password" autocomplete="new-password" minlength="4"
+        maxlength="10" required>
+
+      <button type="button" class="auth-password-toggle" data-password-target="register-password"
+        aria-label="Mostrar contraseña">
+        <i class="bi bi-eye"></i>
+      </button>
+    </div>
+
+    <p class="auth-error" data-error-for="password" aria-live="polite"></p>
+  </div>
+
+  <div class="auth-field">
+    <label for="register-confirm-password">
+      Confirmar contraseña
+    </label>
+
+    <div class="auth-password">
+      <input type="password" id="register-confirm-password" name="confirmPassword" autocomplete="new-password"
+        minlength="4" maxlength="10" required>
+
+      <button type="button" class="auth-password-toggle" data-password-target="register-confirm-password"
+        aria-label="Mostrar contraseña">
+        <i class="bi bi-eye"></i>
+      </button>
+    </div>
+
+    <p class="auth-error" data-error-for="confirmPassword" aria-live="polite"></p>
+  </div>
+
+  <button class="btn btn-primary auth-button" type="submit">
+    Crear cuenta
+  </button>
+
+  <p class="auth-switch">
+    ¿Ya tienes cuenta?
+    <a href="#login" data-auth-view="login">Iniciar sesión</a>
+  </p>
+</form>
