@@ -1,6 +1,6 @@
 import { ContentCarousel } from "../components/ContentCarousel.js";
 import { HeroCarousel } from "../components/HeroCarousel.js";
-import { openAddToListModal } from "../../lists/components/AddToListModal.js";
+import { openAddToListModal } from "../../lists/hook/AddToListModal.js";
 
 // ---------- carga de inicio ----------
 
