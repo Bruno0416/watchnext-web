@@ -7,10 +7,19 @@
       "displayName": "Usuario Demo",
       "bio": "Amante de las peliculas de accion",
       "avatarUrl": null,
-      "country": "CL",
       "visibility": "PUBLIC",
       "followersCount": 12,
       "followingCount": 8,
+      "topMovies": [
+        {
+          "tmdbId": 157336,
+          "mediaType": "MOVIE",
+          "title": "Interstellar",
+          "posterPath": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "voteAverage": 8.5,
+          "releaseDate": "2014-11-05"
+        }
+      ],
       "favorites": [
         {
           "tmdbId": 157336,
@@ -32,10 +41,19 @@
       "displayName": "Administrador",
       "bio": "Perfil de administracion de WatchNext",
       "avatarUrl": null,
-      "country": "CL",
       "visibility": "PUBLIC",
       "followersCount": 0,
       "followingCount": 0,
+      "topMovies": [
+        {
+          "tmdbId": 155,
+          "mediaType": "MOVIE",
+          "title": "El caballero oscuro",
+          "posterPath": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+          "voteAverage": 8.534,
+          "releaseDate": "2008-07-16"
+        }
+      ],
       "favorites": [
         {
           "tmdbId": 155,

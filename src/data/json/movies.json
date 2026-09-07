@@ -7,7 +7,60 @@
       "posterPath": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropPath": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.876
+      "rating": 7.876,
+      "trailer": {
+        "id": "6a5cee119dcf408ad7725a9c",
+        "key": "o8EccyRIwQQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "SPIDER-MAN: BRAND NEW DAY | Nuevo Tráiler oficial en español HD. 29 de julio en cines.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1144604,
+          "name": "Destin Daniel Cretton",
+          "profilePath": "/wtA2EtkvCyxu4oWECzqAF7G8IZH.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+          "id": 505710,
+          "name": "Zendaya",
+          "character": "MJ",
+          "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "id": 19498,
+          "name": "Jon Bernthal",
+          "character": "Frank Castle / Punisher",
+          "profilePath": "/aSH27tGD4PJoCO54RQnARSSSIQy.jpg"
+        },
+        {
+          "id": 1649152,
+          "name": "Jacob Batalon",
+          "character": "Ned Leeds",
+          "profilePath": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "id": 1590797,
+          "name": "Sadie Sink",
+          "character": "Jean Grey",
+          "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+        }
+      ]
     },
     {
       "id": 1368337,
@@ -16,7 +69,60 @@
       "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-15",
-      "rating": 7.994
+      "rating": 7.994,
+      "trailer": {
+        "id": "6a9059a47fd0e703b46b690f",
+        "key": "X9nUrOnHlz0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "LA ODISEA - Tráiler Oficial (Universal Pictures) HD",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 525,
+          "name": "Christopher Nolan",
+          "profilePath": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1892,
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+          "id": 1813,
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "id": 11288,
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "id": 1227717,
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profilePath": "/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+        },
+        {
+          "id": 6885,
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        }
+      ]
     },
     {
       "id": 1288445,
@@ -25,16 +131,60 @@
       "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
       "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 6.4
-    },
-    {
-      "id": 1516698,
-      "title": "Sunrise. El último amanecer",
-      "overview": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a vivir el presente, su enfermedad empeora y los secretos familiares ocultos durante años amenazan con arruinarlo todo antes del fin del verano.",
-      "posterPath": "/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropPath": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 6.625
+      "rating": 6.4,
+      "trailer": {
+        "id": "6a88706e070addf91b005d0e",
+        "key": "H7NbMxeWMvs",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "El motín | Tráiler oficial en español | 21 de agosto en cines",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 58324,
+          "name": "Jean-François Richet",
+          "profilePath": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham",
+          "character": "Cole Reed",
+          "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+        },
+        {
+          "id": 82809,
+          "name": "Annabelle Wallis",
+          "character": "Angie Ellis",
+          "profilePath": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller",
+          "character": "Captain Marko Madsen",
+          "profilePath": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+        },
+        {
+          "id": 178622,
+          "name": "Ramon Tikaram",
+          "character": "Tibu Campallo",
+          "profilePath": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius",
+          "character": "Mateo Pineda",
+          "profilePath": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+        },
+        {
+          "id": 1033691,
+          "name": "Jason Wong",
+          "character": "Taran",
+          "profilePath": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+        }
+      ]
     },
     {
       "id": 1204680,
@@ -43,16 +193,60 @@
       "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "releaseDate": "2026-08-20",
-      "rating": 7.846
-    },
-    {
-      "id": 1213243,
-      "title": "Tóxico: Un cuento de hadas para adultos",
-      "overview": "",
-      "posterPath": "/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdropPath": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 7.695
+      "rating": 7.846,
+      "trailer": {
+        "id": "6a887389f4f1e6718019a7e6",
+        "key": "WQRoa6l4bwI",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Coyote vs. ACME - Tráiler Oficial",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1101410,
+          "name": "David Green",
+          "profilePath": "/eRUCqrBpWNSr8893Fcf1A1Hsbog.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 62831,
+          "name": "Will Forte",
+          "character": "Kevin Avery",
+          "profilePath": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+        },
+        {
+          "id": 1452046,
+          "name": "Lana Condor",
+          "character": "Paige Avery",
+          "profilePath": "/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
+        },
+        {
+          "id": 56446,
+          "name": "John Cena",
+          "character": "Buddy Crane",
+          "profilePath": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "id": 1120700,
+          "name": "Tone Bell",
+          "character": "Sal Maltese",
+          "profilePath": "/fB06Xj5FgwvHcZESsNGMupGBTyY.jpg"
+        },
+        {
+          "id": 1572541,
+          "name": "Martha Kelly",
+          "character": "Dottie Jones",
+          "profilePath": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+        },
+        {
+          "id": 40481,
+          "name": "Luis Guzmán",
+          "character": "Judge Troppogrosso",
+          "profilePath": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        }
+      ]
     },
     {
       "id": 1621552,
@@ -61,7 +255,60 @@
       "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
       "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.826
+      "rating": 8.826,
+      "trailer": {
+        "id": "6a892dae847ab849edd4aa95",
+        "key": "Rk0efhpa-5Y",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, Noé Hernández 🚨",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 964826,
+          "name": "Chava Cartas",
+          "profilePath": "/2KgMJhywrNcNvlxKschlNyYQpsL.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 220496,
+          "name": "Alfonso Herrera",
+          "character": "Carmona",
+          "profilePath": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+        },
+        {
+          "id": 89445,
+          "name": "Noé Hernández",
+          "character": "Rosales",
+          "profilePath": "/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+        },
+        {
+          "id": 133766,
+          "name": "Héctor Kotsifakis",
+          "character": "El Chapo Guzmán",
+          "profilePath": "/IE5KgMI1bE0LcloTHNVsk3kldk.jpg"
+        },
+        {
+          "id": 4734842,
+          "name": "Juan Pablo Cruz García",
+          "character": "Cholo Iván",
+          "profilePath": null
+        },
+        {
+          "id": 1327350,
+          "name": "Paola Fernández",
+          "character": "Isaura",
+          "profilePath": "/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+        },
+        {
+          "id": 3229382,
+          "name": "Antonio Fortier",
+          "character": "Barraza",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 860508,
@@ -70,7 +317,60 @@
       "posterPath": "/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
       "backdropPath": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
       "releaseDate": "2026-08-27",
-      "rating": 6.602
+      "rating": 6.602,
+      "trailer": {
+        "id": "6a5a4beec71b7e5210feb50f",
+        "key": "zTOmwZRmVBs",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Susurran tu nombre - Tráiler español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 33308,
+          "name": "James Ashcroft",
+          "profilePath": "/8L5zCGtinBJWAflYIThDcdbqBw0.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 380,
+          "name": "Robert De Niro",
+          "character": "Peter Willis",
+          "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "id": 11705,
+          "name": "Michelle Monaghan",
+          "character": "Amanda Beck",
+          "profilePath": "/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+        },
+        {
+          "id": 36801,
+          "name": "Adam Scott",
+          "character": "Tom Kennedy",
+          "profilePath": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+        },
+        {
+          "id": 5374936,
+          "name": "Acston Luca Porto",
+          "character": "Jake Kennedy",
+          "profilePath": "/ddAq8ZTkBoEbAzVuaseWoVkdLyy.jpg"
+        },
+        {
+          "id": 2232,
+          "name": "Michael Keaton",
+          "character": "Frank Carter",
+          "profilePath": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+          "id": 1586047,
+          "name": "Owen Teague",
+          "character": "Frank Carter Jr.",
+          "profilePath": "/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg"
+        }
+      ]
     },
     {
       "id": 1339713,
@@ -79,7 +379,60 @@
       "posterPath": "/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-05-13",
-      "rating": 8.207
+      "rating": 8.207,
+      "trailer": {
+        "id": "6a886fe688d32ed41b5cde2c",
+        "key": "WbziExW1-i4",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "OBSESSION -  Teaser Tráiler (Universal Pictures) HD",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 2381985,
+          "name": "Curry Barker",
+          "profilePath": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1561370,
+          "name": "Michael Johnston",
+          "character": "Bear",
+          "profilePath": "/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+        },
+        {
+          "id": 2638587,
+          "name": "Inde Navarrette",
+          "character": "Nikki",
+          "profilePath": "/qlNBUGON8FebgzcqVhhRSVFYSa5.jpg"
+        },
+        {
+          "id": 2823609,
+          "name": "Cooper Tomlinson",
+          "character": "Ian",
+          "profilePath": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+        },
+        {
+          "id": 1519711,
+          "name": "Megan Lawless",
+          "character": "Sarah",
+          "profilePath": "/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+        },
+        {
+          "id": 28637,
+          "name": "Andy Richter",
+          "character": "Carter",
+          "profilePath": "/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+        },
+        {
+          "id": 3095494,
+          "name": "Haley Fitzgerald",
+          "character": "Viola",
+          "profilePath": "/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg"
+        }
+      ]
     },
     {
       "id": 1232569,
@@ -88,7 +441,60 @@
       "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
       "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
       "releaseDate": "2026-07-22",
-      "rating": 6.7
+      "rating": 6.7,
+      "trailer": {
+        "id": "6a6386b9b857c5816c38267e",
+        "key": "NPLgD0dNQ8c",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Pinocchio: Unstrung — Tráiler Oficial Subtitulado Español Latino | ITN Studios #pinocchiounstrung",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 3122176,
+          "name": "Rhys Frake-Waterfield",
+          "profilePath": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 5752734,
+          "name": "Jude Evan Lloyd",
+          "character": "Pinocchio (voice)",
+          "profilePath": "/vBbtBNsGKOZPvmdlyG6lUUkcNwF.jpg"
+        },
+        {
+          "id": 4916781,
+          "name": "Cameron Bell",
+          "character": "James",
+          "profilePath": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg"
+        },
+        {
+          "id": 3901,
+          "name": "Richard Brake",
+          "character": "Geppetto",
+          "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+        },
+        {
+          "id": 3909217,
+          "name": "Jessica Balmer",
+          "character": "Mia",
+          "profilePath": "/fhb5Oj719yH7z5f2lYU2r8Lyu46.jpg"
+        },
+        {
+          "id": 5692794,
+          "name": "Jack Art Gray",
+          "character": "Dudley",
+          "profilePath": "/7C9o6X4g3lj9OsrD24ztL01GxVL.jpg"
+        },
+        {
+          "id": 5139,
+          "name": "Robert Englund",
+          "character": "Cricket (voice)",
+          "profilePath": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg"
+        }
+      ]
     },
     {
       "id": 1375646,
@@ -97,7 +503,60 @@
       "posterPath": "/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
       "backdropPath": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
       "releaseDate": "2026-05-21",
-      "rating": 8.093
+      "rating": 8.093,
+      "trailer": {
+        "id": "69ea3d6642fbdc62bc0f4fae",
+        "key": "LW6dpj1uCK8",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "International Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 939147,
+          "name": "연상호",
+          "profilePath": "/dLP1p4AkU1zwJkDboct58Uub9S7.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 63436,
+          "name": "전지현",
+          "character": "Kwon Se-jeong",
+          "profilePath": "/qejOQBdIzN18e69yRcsiD0JQi4c.jpg"
+        },
+        {
+          "id": 1096458,
+          "name": "구교환",
+          "character": "Seo Young-cheol",
+          "profilePath": "/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
+        },
+        {
+          "id": 1253391,
+          "name": "지창욱",
+          "character": "Choi Hyun-seok",
+          "profilePath": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+        },
+        {
+          "id": 3038410,
+          "name": "김신록",
+          "character": "Choi Hyun-hee",
+          "profilePath": "/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+        },
+        {
+          "id": 1254975,
+          "name": "신현빈",
+          "character": "Kong Seol-hee",
+          "profilePath": "/lU0yMFh5KgOEWZRThLYbB6ZI1hE.jpg"
+        },
+        {
+          "id": 85173,
+          "name": "고수",
+          "character": "Han Kyu-seong",
+          "profilePath": "/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
+        }
+      ]
     },
     {
       "id": 1323244,
@@ -106,7 +565,60 @@
       "posterPath": "/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
       "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
       "releaseDate": "2026-08-06",
-      "rating": 5.79
+      "rating": 5.79,
+      "trailer": {
+        "id": "6a99984924f390e5f84cdcb7",
+        "key": "F5bYhuO2Rkg",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "RAGE OF STARS | Official Trailer (2026)",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 4858160,
+          "name": "Łukasz Róg",
+          "profilePath": null
+        }
+      ],
+      "cast": [
+        {
+          "id": 1631815,
+          "name": "Andrea Tivadar",
+          "character": "Jemma",
+          "profilePath": "/iYtFxJGcrNmxYTq6rhivdFsotMx.jpg"
+        },
+        {
+          "id": 1475710,
+          "name": "Jord Knotter",
+          "character": "Luk",
+          "profilePath": "/f0ufZ6YbyWnu36kFg1d2OOjcM2S.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "character": "Kriss",
+          "profilePath": "/pmE0tQiPxQT5yI6DZlnnjd8m8nB.jpg"
+        },
+        {
+          "id": 2037498,
+          "name": "Elijah Rowen",
+          "character": "Tom",
+          "profilePath": "/9aa2UljPdCZlp7meRE4dIzeu4Ej.jpg"
+        },
+        {
+          "id": 1613074,
+          "name": "Małgorzata Klara",
+          "character": "Commander",
+          "profilePath": "/aOpwXHLkh2KrctgTX7cD7Cs1QN0.jpg"
+        },
+        {
+          "id": 2199010,
+          "name": "Mayu Gralińska Sakai",
+          "character": "Maya",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 1393326,
@@ -115,7 +627,60 @@
       "posterPath": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
       "backdropPath": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
       "releaseDate": "2026-04-16",
-      "rating": 7.024
+      "rating": 7.024,
+      "trailer": {
+        "id": "699c782dba9958a9f180f4c6",
+        "key": "otL78_pk_A0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer [Subtitled]",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 121798,
+          "name": "Joko Anwar",
+          "profilePath": "/eOyZy4HSxbdcKR9JIc7093d0alb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1203378,
+          "name": "Abimana Aryasatya",
+          "character": "Anggoro",
+          "profilePath": "/b4ncXBTGaiPS6cof11vKeh3DuFj.jpg"
+        },
+        {
+          "id": 562217,
+          "name": "Bront Palarae",
+          "character": "Jefry",
+          "profilePath": "/mk7v78F2QPV1jmwjjo19PONugkR.jpg"
+        },
+        {
+          "id": 2207948,
+          "name": "Dimas Danang",
+          "character": "Irfan",
+          "profilePath": "/tDdRwEk68lL3WMKt8iymNrdCgeH.jpg"
+        },
+        {
+          "id": 581687,
+          "name": "Endy Arfian",
+          "character": "Dimas",
+          "profilePath": "/v9yWVWqD5SeDuU8l8rb71BYmlvI.jpg"
+        },
+        {
+          "id": 1206436,
+          "name": "Lukman Sardi",
+          "character": "Pendi",
+          "profilePath": "/pMZiVVu8k5MzGteRgpNVzMybxLm.jpg"
+        },
+        {
+          "id": 581684,
+          "name": "Mike Lucock",
+          "character": "Wildan",
+          "profilePath": "/LtCJOYBn9p8TG6gOHh4GxvKiHi.jpg"
+        }
+      ]
     },
     {
       "id": 1315772,
@@ -124,7 +689,60 @@
       "posterPath": "/tQ8CR2Xuokcg8Pp2R7KDTA5N683.jpg",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-06-24",
-      "rating": 7.6
+      "rating": 7.6,
+      "trailer": {
+        "id": "69fcaba31f03990baced3043",
+        "key": "V-O-uBaHk3c",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Final Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 124747,
+          "name": "Pierre Coffin",
+          "profilePath": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 124747,
+          "name": "Pierre Coffin",
+          "character": "The Minions (voice)",
+          "profilePath": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+        },
+        {
+          "id": 34517,
+          "name": "Trey Parker",
+          "character": "Goomi (voice)",
+          "profilePath": "/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+        },
+        {
+          "id": 27319,
+          "name": "Christoph Waltz",
+          "character": "Max (voice)",
+          "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Allison Janney",
+          "character": "Olivia (voice)",
+          "profilePath": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+        },
+        {
+          "id": 44735,
+          "name": "Jesse Eisenberg",
+          "character": "Dort (voice)",
+          "profilePath": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "id": 1229,
+          "name": "Jeff Bridges",
+          "character": "Frank / Elwood (voice)",
+          "profilePath": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+        }
+      ]
     },
     {
       "id": 1108427,
@@ -133,7 +751,60 @@
       "posterPath": "/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-08",
-      "rating": 6.1
+      "rating": 6.1,
+      "trailer": {
+        "id": "691cb03bbe6fec257417654d",
+        "key": "hAGDSmLpjFM",
+        "site": "YouTube",
+        "type": "Teaser",
+        "name": "Teaser Tráiler en V.O.S.E.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1485823,
+          "name": "Thomas Kail",
+          "profilePath": "/eZx5j2AARIZcrSVpTFyD5fAJWsn.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 4247263,
+          "name": "Catherine Lagaʻaia",
+          "character": "Moana",
+          "profilePath": "/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+        },
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson",
+          "character": "Maui",
+          "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "id": 7241,
+          "name": "Rena Owen",
+          "character": "Gramma Tala",
+          "profilePath": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+        },
+        {
+          "id": 205406,
+          "name": "John Tui",
+          "character": "Chief Tui",
+          "profilePath": "/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+        },
+        {
+          "id": 1753341,
+          "name": "Frankie Adams",
+          "character": "Sina",
+          "profilePath": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+        },
+        {
+          "id": 55936,
+          "name": "Jemaine Clement",
+          "character": "Tamatoa (voice)",
+          "profilePath": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+        }
+      ]
     },
     {
       "id": 1386315,
@@ -142,7 +813,60 @@
       "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
       "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
       "releaseDate": "2026-09-03",
-      "rating": 5.864
+      "rating": 5.864,
+      "trailer": {
+        "id": "6a9c667c4a1b1bbf824b0e1f",
+        "key": "A4ESt5_aHGQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "A la carrera (2026) | Trailer doblado en español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 17350,
+          "name": "Kevin Macdonald",
+          "profilePath": "/40P6puNsdMx2ov6bQnZUZ867O3j.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 90633,
+          "name": "Gal Gadot",
+          "character": "Maia",
+          "profilePath": "/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+        },
+        {
+          "id": 20186,
+          "name": "Damian Lewis",
+          "character": "The Caller",
+          "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+        },
+        {
+          "id": 5018970,
+          "name": "Rory Wilmot",
+          "character": "Noah",
+          "profilePath": "/qi56VP9tSU0F0VJ59Aq0yU4nIR9.jpg"
+        },
+        {
+          "id": 234923,
+          "name": "Alfred Enoch",
+          "character": "Ted",
+          "profilePath": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+        },
+        {
+          "id": 2967026,
+          "name": "Phoenix Di Sebastiani",
+          "character": "Tafa",
+          "profilePath": "/mBkkZ5irQZPsxdcCIPLCvNv5iT8.jpg"
+        },
+        {
+          "id": 3907201,
+          "name": "Nathan Kirby",
+          "character": "Wiry Dude",
+          "profilePath": "/5bnrS0ZncCFaL1DCm7n7Z6qHBlL.jpg"
+        }
+      ]
     },
     {
       "id": 1514682,
@@ -151,7 +875,60 @@
       "posterPath": "/eR20sWbRL2ZMLxKZE4ZZ8Kg6Lk1.jpg",
       "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 6.3
+      "rating": 6.3,
+      "trailer": {
+        "id": "6a69df3f35ba6fa46578397d",
+        "key": "18wdUGRPUY4",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 77295,
+          "name": "Jesse V. Johnson",
+          "profilePath": "/tXjWQ5sCLGSaL0YnwWFvF3O3XzQ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 54722,
+          "name": "Laura Marano",
+          "character": "Tatiana",
+          "profilePath": "/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+        },
+        {
+          "id": 1817942,
+          "name": "Christina Ochoa",
+          "character": "",
+          "profilePath": "/msIxEVC8HljvbigzzHVkJFCwuyA.jpg"
+        },
+        {
+          "id": 1316401,
+          "name": "Mario Tardón",
+          "character": "",
+          "profilePath": "/x2tq4GYBlk4e912IBI2mA4u0BhW.jpg"
+        },
+        {
+          "id": 3131,
+          "name": "Antonio Banderas",
+          "character": "Burns",
+          "profilePath": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+        },
+        {
+          "id": 100258,
+          "name": "Ramiro Alonso",
+          "character": "",
+          "profilePath": "/qq2ogOAPi0MPZRUkcWbMMkvO26K.jpg"
+        },
+        {
+          "id": 2676371,
+          "name": "Ryan Bertroche",
+          "character": "",
+          "profilePath": "/23CRyCVIgpuzMvaoSbybXmRzF8O.jpg"
+        }
+      ]
     },
     {
       "id": 1284465,
@@ -160,7 +937,60 @@
       "posterPath": "/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
       "backdropPath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "releaseDate": "2026-06-18",
-      "rating": 6.288
+      "rating": 6.288,
+      "trailer": {
+        "id": "6a88709889a8942e90884126",
+        "key": "CE-B1PSgsnA",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "La muerte de Robin Hood | Tráiler oficial en español | 3 de julio en cines",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 2580328,
+          "name": "Michael Sarnoski",
+          "profilePath": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 6968,
+          "name": "Hugh Jackman",
+          "character": "Robin Hood",
+          "profilePath": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+        },
+        {
+          "id": 1388593,
+          "name": "Jodie Comer",
+          "character": "Sister Brigid",
+          "profilePath": "/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg"
+        },
+        {
+          "id": 137905,
+          "name": "Bill Skarsgård",
+          "character": "Little John",
+          "profilePath": "/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+        },
+        {
+          "id": 152416,
+          "name": "Murray Bartlett",
+          "character": "The Leper",
+          "profilePath": "/eN20zfcRB2F51bmUbTK9byQCpb9.jpg"
+        },
+        {
+          "id": 1590759,
+          "name": "Noah Jupe",
+          "character": "Arthur / Godwyn",
+          "profilePath": "/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+        },
+        {
+          "id": 1303071,
+          "name": "Jade Croot",
+          "character": "Wainwright",
+          "profilePath": "/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg"
+        }
+      ]
     },
     {
       "id": 1130948,
@@ -169,7 +999,60 @@
       "posterPath": "/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
       "backdropPath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 6.015
+      "rating": 6.015,
+      "trailer": {
+        "id": "69c6836807b96f27dd08aa57",
+        "key": "rmHD9gZbF7A",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 55018,
+          "name": "Karim Aïnouz",
+          "profilePath": "/hbxUnYlBs9flmWYKMi3VrOihc9n.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1371041,
+          "name": "Callum Turner",
+          "character": "Ed",
+          "profilePath": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+        },
+        {
+          "id": 98522,
+          "name": "Riley Keough",
+          "character": "Anna",
+          "profilePath": "/wsodGduU4frFdMy1roqeDmj4kZ.jpg"
+        },
+        {
+          "id": 478,
+          "name": "Jamie Bell",
+          "character": "Jack",
+          "profilePath": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+        },
+        {
+          "id": 1371509,
+          "name": "Lukas Gage",
+          "character": "Robert",
+          "profilePath": "/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
+        },
+        {
+          "id": 72638,
+          "name": "Tracy Letts",
+          "character": "Father",
+          "profilePath": "/x318yEddF10ASORC5U958C2kowf.jpg"
+        },
+        {
+          "id": 18050,
+          "name": "Elle Fanning",
+          "character": "Martha",
+          "profilePath": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+        }
+      ]
     },
     {
       "id": 278,
@@ -178,7 +1061,60 @@
       "posterPath": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "1994-09-23",
-      "rating": 8.729
+      "rating": 8.729,
+      "trailer": {
+        "id": "60a82e9b6ee3d700407f6f50",
+        "key": "4u87tmlj4oE",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Cadena Perpetua Trailer",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 4027,
+          "name": "Frank Darabont",
+          "profilePath": "/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 504,
+          "name": "Tim Robbins",
+          "character": "Andy Dufresne",
+          "profilePath": "/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+        },
+        {
+          "id": 192,
+          "name": "Morgan Freeman",
+          "character": "Ellis Boyd 'Red' Redding",
+          "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "id": 4029,
+          "name": "Bob Gunton",
+          "character": "Warden Norton",
+          "profilePath": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+        },
+        {
+          "id": 6573,
+          "name": "William Sadler",
+          "character": "Heywood",
+          "profilePath": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+        },
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "character": "Captain Byron T. Hadley",
+          "profilePath": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+          "id": 6575,
+          "name": "Gil Bellows",
+          "character": "Tommy",
+          "profilePath": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+        }
+      ]
     }
   ],
   "popular": [
@@ -189,7 +1125,60 @@
       "posterPath": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropPath": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.9
+      "rating": 7.9,
+      "trailer": {
+        "id": "6a5cee119dcf408ad7725a9c",
+        "key": "o8EccyRIwQQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "SPIDER-MAN: BRAND NEW DAY | Nuevo Tráiler oficial en español HD. 29 de julio en cines.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1144604,
+          "name": "Destin Daniel Cretton",
+          "profilePath": "/wtA2EtkvCyxu4oWECzqAF7G8IZH.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+          "id": 505710,
+          "name": "Zendaya",
+          "character": "MJ",
+          "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "id": 19498,
+          "name": "Jon Bernthal",
+          "character": "Frank Castle / Punisher",
+          "profilePath": "/aSH27tGD4PJoCO54RQnARSSSIQy.jpg"
+        },
+        {
+          "id": 1649152,
+          "name": "Jacob Batalon",
+          "character": "Ned Leeds",
+          "profilePath": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "id": 1590797,
+          "name": "Sadie Sink",
+          "character": "Jean Grey",
+          "profilePath": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+        }
+      ]
     },
     {
       "id": 1368337,
@@ -198,7 +1187,60 @@
       "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-15",
-      "rating": 7.994
+      "rating": 7.994,
+      "trailer": {
+        "id": "6a9059a47fd0e703b46b690f",
+        "key": "X9nUrOnHlz0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "LA ODISEA - Tráiler Oficial (Universal Pictures) HD",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 525,
+          "name": "Christopher Nolan",
+          "profilePath": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1892,
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+          "id": 1813,
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "id": 11288,
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "id": 1227717,
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profilePath": "/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+        },
+        {
+          "id": 6885,
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        }
+      ]
     },
     {
       "id": 1288445,
@@ -207,16 +1249,60 @@
       "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
       "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 6.4
-    },
-    {
-      "id": 1516698,
-      "title": "Sunrise. El último amanecer",
-      "overview": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a vivir el presente, su enfermedad empeora y los secretos familiares ocultos durante años amenazan con arruinarlo todo antes del fin del verano.",
-      "posterPath": "/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropPath": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 6.624
+      "rating": 6.4,
+      "trailer": {
+        "id": "6a88706e070addf91b005d0e",
+        "key": "H7NbMxeWMvs",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "El motín | Tráiler oficial en español | 21 de agosto en cines",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 58324,
+          "name": "Jean-François Richet",
+          "profilePath": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham",
+          "character": "Cole Reed",
+          "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+        },
+        {
+          "id": 82809,
+          "name": "Annabelle Wallis",
+          "character": "Angie Ellis",
+          "profilePath": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller",
+          "character": "Captain Marko Madsen",
+          "profilePath": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+        },
+        {
+          "id": 178622,
+          "name": "Ramon Tikaram",
+          "character": "Tibu Campallo",
+          "profilePath": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius",
+          "character": "Mateo Pineda",
+          "profilePath": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+        },
+        {
+          "id": 1033691,
+          "name": "Jason Wong",
+          "character": "Taran",
+          "profilePath": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+        }
+      ]
     },
     {
       "id": 1285366,
@@ -225,7 +1311,53 @@
       "posterPath": "/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
       "backdropPath": "/yjK3ardrgdS8suZG8KMU82Q7U38.jpg",
       "releaseDate": "2024-07-06",
-      "rating": 5.2
+      "rating": 5.2,
+      "trailer": null,
+      "directors": [
+        {
+          "id": 895706,
+          "name": "今岡信治",
+          "profilePath": "/ow9N7WCjy1kX2BVZM81a2xfWLVy.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 84725,
+          "name": "小出恵介",
+          "character": "Henmi Takashi",
+          "profilePath": "/3BXlaWzpL9W6opyBHOKZBxC9H5E.jpg"
+        },
+        {
+          "id": 4620053,
+          "name": "風吹ケイ",
+          "character": "Yokozawa Satomi",
+          "profilePath": null
+        },
+        {
+          "id": 3465682,
+          "name": "Manami Shindo",
+          "character": "Yurina",
+          "profilePath": "/eLxua9KOl2bAiI6YLdghr7BOkSU.jpg"
+        },
+        {
+          "id": 1078683,
+          "name": "Yohta Kawase",
+          "character": "",
+          "profilePath": "/aPjf57B380k929h2OZ6FT0RLS4w.jpg"
+        },
+        {
+          "id": 107114,
+          "name": "田中幸太朗",
+          "character": "[Gay bar owner]",
+          "profilePath": "/k4zcaTc55PSsowYGFrd8q30caD8.jpg"
+        },
+        {
+          "id": 1718690,
+          "name": "冨家ノリマサ",
+          "character": "",
+          "profilePath": "/5MgWfCn27XSB8knKFdCoTOK9pmd.jpg"
+        }
+      ]
     },
     {
       "id": 1204680,
@@ -234,16 +1366,60 @@
       "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "releaseDate": "2026-08-20",
-      "rating": 7.8
-    },
-    {
-      "id": 1213243,
-      "title": "Tóxico: Un cuento de hadas para adultos",
-      "overview": "",
-      "posterPath": "/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdropPath": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 7.695
+      "rating": 7.8,
+      "trailer": {
+        "id": "6a887389f4f1e6718019a7e6",
+        "key": "WQRoa6l4bwI",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Coyote vs. ACME - Tráiler Oficial",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1101410,
+          "name": "David Green",
+          "profilePath": "/eRUCqrBpWNSr8893Fcf1A1Hsbog.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 62831,
+          "name": "Will Forte",
+          "character": "Kevin Avery",
+          "profilePath": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+        },
+        {
+          "id": 1452046,
+          "name": "Lana Condor",
+          "character": "Paige Avery",
+          "profilePath": "/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
+        },
+        {
+          "id": 56446,
+          "name": "John Cena",
+          "character": "Buddy Crane",
+          "profilePath": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "id": 1120700,
+          "name": "Tone Bell",
+          "character": "Sal Maltese",
+          "profilePath": "/fB06Xj5FgwvHcZESsNGMupGBTyY.jpg"
+        },
+        {
+          "id": 1572541,
+          "name": "Martha Kelly",
+          "character": "Dottie Jones",
+          "profilePath": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+        },
+        {
+          "id": 40481,
+          "name": "Luis Guzmán",
+          "character": "Judge Troppogrosso",
+          "profilePath": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        }
+      ]
     },
     {
       "id": 1621552,
@@ -252,7 +1428,60 @@
       "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
       "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.824
+      "rating": 8.824,
+      "trailer": {
+        "id": "6a892dae847ab849edd4aa95",
+        "key": "Rk0efhpa-5Y",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, Noé Hernández 🚨",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 964826,
+          "name": "Chava Cartas",
+          "profilePath": "/2KgMJhywrNcNvlxKschlNyYQpsL.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 220496,
+          "name": "Alfonso Herrera",
+          "character": "Carmona",
+          "profilePath": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+        },
+        {
+          "id": 89445,
+          "name": "Noé Hernández",
+          "character": "Rosales",
+          "profilePath": "/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+        },
+        {
+          "id": 133766,
+          "name": "Héctor Kotsifakis",
+          "character": "El Chapo Guzmán",
+          "profilePath": "/IE5KgMI1bE0LcloTHNVsk3kldk.jpg"
+        },
+        {
+          "id": 4734842,
+          "name": "Juan Pablo Cruz García",
+          "character": "Cholo Iván",
+          "profilePath": null
+        },
+        {
+          "id": 1327350,
+          "name": "Paola Fernández",
+          "character": "Isaura",
+          "profilePath": "/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+        },
+        {
+          "id": 3229382,
+          "name": "Antonio Fortier",
+          "character": "Barraza",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 860508,
@@ -261,7 +1490,60 @@
       "posterPath": "/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
       "backdropPath": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
       "releaseDate": "2026-08-27",
-      "rating": 6.6
+      "rating": 6.6,
+      "trailer": {
+        "id": "6a5a4beec71b7e5210feb50f",
+        "key": "zTOmwZRmVBs",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Susurran tu nombre - Tráiler español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 33308,
+          "name": "James Ashcroft",
+          "profilePath": "/8L5zCGtinBJWAflYIThDcdbqBw0.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 380,
+          "name": "Robert De Niro",
+          "character": "Peter Willis",
+          "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "id": 11705,
+          "name": "Michelle Monaghan",
+          "character": "Amanda Beck",
+          "profilePath": "/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+        },
+        {
+          "id": 36801,
+          "name": "Adam Scott",
+          "character": "Tom Kennedy",
+          "profilePath": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+        },
+        {
+          "id": 5374936,
+          "name": "Acston Luca Porto",
+          "character": "Jake Kennedy",
+          "profilePath": "/ddAq8ZTkBoEbAzVuaseWoVkdLyy.jpg"
+        },
+        {
+          "id": 2232,
+          "name": "Michael Keaton",
+          "character": "Frank Carter",
+          "profilePath": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+          "id": 1586047,
+          "name": "Owen Teague",
+          "character": "Frank Carter Jr.",
+          "profilePath": "/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg"
+        }
+      ]
     },
     {
       "id": 1339713,
@@ -270,7 +1552,60 @@
       "posterPath": "/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropPath": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-05-13",
-      "rating": 8.207
+      "rating": 8.207,
+      "trailer": {
+        "id": "6a886fe688d32ed41b5cde2c",
+        "key": "WbziExW1-i4",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "OBSESSION -  Teaser Tráiler (Universal Pictures) HD",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 2381985,
+          "name": "Curry Barker",
+          "profilePath": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1561370,
+          "name": "Michael Johnston",
+          "character": "Bear",
+          "profilePath": "/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+        },
+        {
+          "id": 2638587,
+          "name": "Inde Navarrette",
+          "character": "Nikki",
+          "profilePath": "/qlNBUGON8FebgzcqVhhRSVFYSa5.jpg"
+        },
+        {
+          "id": 2823609,
+          "name": "Cooper Tomlinson",
+          "character": "Ian",
+          "profilePath": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+        },
+        {
+          "id": 1519711,
+          "name": "Megan Lawless",
+          "character": "Sarah",
+          "profilePath": "/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+        },
+        {
+          "id": 28637,
+          "name": "Andy Richter",
+          "character": "Carter",
+          "profilePath": "/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+        },
+        {
+          "id": 3095494,
+          "name": "Haley Fitzgerald",
+          "character": "Viola",
+          "profilePath": "/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg"
+        }
+      ]
     },
     {
       "id": 1232569,
@@ -279,7 +1614,60 @@
       "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
       "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
       "releaseDate": "2026-07-22",
-      "rating": 6.7
+      "rating": 6.7,
+      "trailer": {
+        "id": "6a6386b9b857c5816c38267e",
+        "key": "NPLgD0dNQ8c",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Pinocchio: Unstrung — Tráiler Oficial Subtitulado Español Latino | ITN Studios #pinocchiounstrung",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 3122176,
+          "name": "Rhys Frake-Waterfield",
+          "profilePath": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 5752734,
+          "name": "Jude Evan Lloyd",
+          "character": "Pinocchio (voice)",
+          "profilePath": "/vBbtBNsGKOZPvmdlyG6lUUkcNwF.jpg"
+        },
+        {
+          "id": 4916781,
+          "name": "Cameron Bell",
+          "character": "James",
+          "profilePath": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg"
+        },
+        {
+          "id": 3901,
+          "name": "Richard Brake",
+          "character": "Geppetto",
+          "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+        },
+        {
+          "id": 3909217,
+          "name": "Jessica Balmer",
+          "character": "Mia",
+          "profilePath": "/fhb5Oj719yH7z5f2lYU2r8Lyu46.jpg"
+        },
+        {
+          "id": 5692794,
+          "name": "Jack Art Gray",
+          "character": "Dudley",
+          "profilePath": "/7C9o6X4g3lj9OsrD24ztL01GxVL.jpg"
+        },
+        {
+          "id": 5139,
+          "name": "Robert Englund",
+          "character": "Cricket (voice)",
+          "profilePath": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg"
+        }
+      ]
     },
     {
       "id": 1084244,
@@ -288,7 +1676,60 @@
       "posterPath": "/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropPath": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "releaseDate": "2026-06-17",
-      "rating": 8.317
+      "rating": 8.317,
+      "trailer": {
+        "id": "6915aefe95aa21afb7a0dcdc",
+        "key": "9_reo5Jl1OM",
+        "site": "YouTube",
+        "type": "Teaser",
+        "name": "Teaser Tráiler en V.O.S.E.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 7,
+          "name": "Andrew Stanton",
+          "profilePath": "/fo6ePCWEVB0L1sccrvB99Iaoqcg.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3234,
+          "name": "Joan Cusack",
+          "character": "Jessie (voice)",
+          "profilePath": "/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+        },
+        {
+          "id": 31,
+          "name": "Tom Hanks",
+          "character": "Woody (voice)",
+          "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "id": 12898,
+          "name": "Tim Allen",
+          "character": "Buzz Lightyear (voice)",
+          "profilePath": "/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+        },
+        {
+          "id": 81200,
+          "name": "Conan O'Brien",
+          "character": "Smarty Pants (voice)",
+          "profilePath": "/deRbViPut0t80miscBpP2DhBJU5.jpg"
+        },
+        {
+          "id": 5374940,
+          "name": "Scarlett Spears",
+          "character": "Bonnie (voice)",
+          "profilePath": "/h0loJ4v3wbUfUA6dxUYv7B6fET1.jpg"
+        },
+        {
+          "id": 1260481,
+          "name": "Greta Lee",
+          "character": "Lilypad (voice)",
+          "profilePath": "/6SydTis4XUcovlwIGskT59JowLX.jpg"
+        }
+      ]
     },
     {
       "id": 1375646,
@@ -297,7 +1738,60 @@
       "posterPath": "/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
       "backdropPath": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
       "releaseDate": "2026-05-21",
-      "rating": 8.088
+      "rating": 8.088,
+      "trailer": {
+        "id": "69ea3d6642fbdc62bc0f4fae",
+        "key": "LW6dpj1uCK8",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "International Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 939147,
+          "name": "연상호",
+          "profilePath": "/dLP1p4AkU1zwJkDboct58Uub9S7.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 63436,
+          "name": "전지현",
+          "character": "Kwon Se-jeong",
+          "profilePath": "/qejOQBdIzN18e69yRcsiD0JQi4c.jpg"
+        },
+        {
+          "id": 1096458,
+          "name": "구교환",
+          "character": "Seo Young-cheol",
+          "profilePath": "/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
+        },
+        {
+          "id": 1253391,
+          "name": "지창욱",
+          "character": "Choi Hyun-seok",
+          "profilePath": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+        },
+        {
+          "id": 3038410,
+          "name": "김신록",
+          "character": "Choi Hyun-hee",
+          "profilePath": "/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+        },
+        {
+          "id": 1254975,
+          "name": "신현빈",
+          "character": "Kong Seol-hee",
+          "profilePath": "/lU0yMFh5KgOEWZRThLYbB6ZI1hE.jpg"
+        },
+        {
+          "id": 85173,
+          "name": "고수",
+          "character": "Han Kyu-seong",
+          "profilePath": "/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
+        }
+      ]
     },
     {
       "id": 1323244,
@@ -306,7 +1800,60 @@
       "posterPath": "/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
       "backdropPath": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
       "releaseDate": "2026-08-06",
-      "rating": 5.8
+      "rating": 5.8,
+      "trailer": {
+        "id": "6a99984924f390e5f84cdcb7",
+        "key": "F5bYhuO2Rkg",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "RAGE OF STARS | Official Trailer (2026)",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 4858160,
+          "name": "Łukasz Róg",
+          "profilePath": null
+        }
+      ],
+      "cast": [
+        {
+          "id": 1631815,
+          "name": "Andrea Tivadar",
+          "character": "Jemma",
+          "profilePath": "/iYtFxJGcrNmxYTq6rhivdFsotMx.jpg"
+        },
+        {
+          "id": 1475710,
+          "name": "Jord Knotter",
+          "character": "Luk",
+          "profilePath": "/f0ufZ6YbyWnu36kFg1d2OOjcM2S.jpg"
+        },
+        {
+          "id": 2385575,
+          "name": "Jack McEvoy",
+          "character": "Kriss",
+          "profilePath": "/pmE0tQiPxQT5yI6DZlnnjd8m8nB.jpg"
+        },
+        {
+          "id": 2037498,
+          "name": "Elijah Rowen",
+          "character": "Tom",
+          "profilePath": "/9aa2UljPdCZlp7meRE4dIzeu4Ej.jpg"
+        },
+        {
+          "id": 1613074,
+          "name": "Małgorzata Klara",
+          "character": "Commander",
+          "profilePath": "/aOpwXHLkh2KrctgTX7cD7Cs1QN0.jpg"
+        },
+        {
+          "id": 2199010,
+          "name": "Mayu Gralińska Sakai",
+          "character": "Maya",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 1393326,
@@ -315,7 +1862,60 @@
       "posterPath": "/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
       "backdropPath": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
       "releaseDate": "2026-04-16",
-      "rating": 7.024
+      "rating": 7.024,
+      "trailer": {
+        "id": "699c782dba9958a9f180f4c6",
+        "key": "otL78_pk_A0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer [Subtitled]",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 121798,
+          "name": "Joko Anwar",
+          "profilePath": "/eOyZy4HSxbdcKR9JIc7093d0alb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1203378,
+          "name": "Abimana Aryasatya",
+          "character": "Anggoro",
+          "profilePath": "/b4ncXBTGaiPS6cof11vKeh3DuFj.jpg"
+        },
+        {
+          "id": 562217,
+          "name": "Bront Palarae",
+          "character": "Jefry",
+          "profilePath": "/mk7v78F2QPV1jmwjjo19PONugkR.jpg"
+        },
+        {
+          "id": 2207948,
+          "name": "Dimas Danang",
+          "character": "Irfan",
+          "profilePath": "/tDdRwEk68lL3WMKt8iymNrdCgeH.jpg"
+        },
+        {
+          "id": 581687,
+          "name": "Endy Arfian",
+          "character": "Dimas",
+          "profilePath": "/v9yWVWqD5SeDuU8l8rb71BYmlvI.jpg"
+        },
+        {
+          "id": 1206436,
+          "name": "Lukman Sardi",
+          "character": "Pendi",
+          "profilePath": "/pMZiVVu8k5MzGteRgpNVzMybxLm.jpg"
+        },
+        {
+          "id": 581684,
+          "name": "Mike Lucock",
+          "character": "Wildan",
+          "profilePath": "/LtCJOYBn9p8TG6gOHh4GxvKiHi.jpg"
+        }
+      ]
     },
     {
       "id": 1315772,
@@ -324,7 +1924,60 @@
       "posterPath": "/tQ8CR2Xuokcg8Pp2R7KDTA5N683.jpg",
       "backdropPath": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-06-24",
-      "rating": 7.589
+      "rating": 7.589,
+      "trailer": {
+        "id": "69fcaba31f03990baced3043",
+        "key": "V-O-uBaHk3c",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Final Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 124747,
+          "name": "Pierre Coffin",
+          "profilePath": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 124747,
+          "name": "Pierre Coffin",
+          "character": "The Minions (voice)",
+          "profilePath": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+        },
+        {
+          "id": 34517,
+          "name": "Trey Parker",
+          "character": "Goomi (voice)",
+          "profilePath": "/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+        },
+        {
+          "id": 27319,
+          "name": "Christoph Waltz",
+          "character": "Max (voice)",
+          "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Allison Janney",
+          "character": "Olivia (voice)",
+          "profilePath": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+        },
+        {
+          "id": 44735,
+          "name": "Jesse Eisenberg",
+          "character": "Dort (voice)",
+          "profilePath": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+          "id": 1229,
+          "name": "Jeff Bridges",
+          "character": "Frank / Elwood (voice)",
+          "profilePath": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+        }
+      ]
     },
     {
       "id": 1108427,
@@ -333,7 +1986,60 @@
       "posterPath": "/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-08",
-      "rating": 6.1
+      "rating": 6.1,
+      "trailer": {
+        "id": "691cb03bbe6fec257417654d",
+        "key": "hAGDSmLpjFM",
+        "site": "YouTube",
+        "type": "Teaser",
+        "name": "Teaser Tráiler en V.O.S.E.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1485823,
+          "name": "Thomas Kail",
+          "profilePath": "/eZx5j2AARIZcrSVpTFyD5fAJWsn.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 4247263,
+          "name": "Catherine Lagaʻaia",
+          "character": "Moana",
+          "profilePath": "/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+        },
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson",
+          "character": "Maui",
+          "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "id": 7241,
+          "name": "Rena Owen",
+          "character": "Gramma Tala",
+          "profilePath": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+        },
+        {
+          "id": 205406,
+          "name": "John Tui",
+          "character": "Chief Tui",
+          "profilePath": "/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+        },
+        {
+          "id": 1753341,
+          "name": "Frankie Adams",
+          "character": "Sina",
+          "profilePath": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+        },
+        {
+          "id": 55936,
+          "name": "Jemaine Clement",
+          "character": "Tamatoa (voice)",
+          "profilePath": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+        }
+      ]
     },
     {
       "id": 1386315,
@@ -342,7 +2048,60 @@
       "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
       "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
       "releaseDate": "2026-09-03",
-      "rating": 5.73
+      "rating": 5.73,
+      "trailer": {
+        "id": "6a9c667c4a1b1bbf824b0e1f",
+        "key": "A4ESt5_aHGQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "A la carrera (2026) | Trailer doblado en español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 17350,
+          "name": "Kevin Macdonald",
+          "profilePath": "/40P6puNsdMx2ov6bQnZUZ867O3j.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 90633,
+          "name": "Gal Gadot",
+          "character": "Maia",
+          "profilePath": "/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+        },
+        {
+          "id": 20186,
+          "name": "Damian Lewis",
+          "character": "The Caller",
+          "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+        },
+        {
+          "id": 5018970,
+          "name": "Rory Wilmot",
+          "character": "Noah",
+          "profilePath": "/qi56VP9tSU0F0VJ59Aq0yU4nIR9.jpg"
+        },
+        {
+          "id": 234923,
+          "name": "Alfred Enoch",
+          "character": "Ted",
+          "profilePath": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+        },
+        {
+          "id": 2967026,
+          "name": "Phoenix Di Sebastiani",
+          "character": "Tafa",
+          "profilePath": "/mBkkZ5irQZPsxdcCIPLCvNv5iT8.jpg"
+        },
+        {
+          "id": 3907201,
+          "name": "Nathan Kirby",
+          "character": "Wiry Dude",
+          "profilePath": "/5bnrS0ZncCFaL1DCm7n7Z6qHBlL.jpg"
+        }
+      ]
     },
     {
       "id": 1514682,
@@ -351,7 +2110,60 @@
       "posterPath": "/eR20sWbRL2ZMLxKZE4ZZ8Kg6Lk1.jpg",
       "backdropPath": "/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 6.3
+      "rating": 6.3,
+      "trailer": {
+        "id": "6a69df3f35ba6fa46578397d",
+        "key": "18wdUGRPUY4",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 77295,
+          "name": "Jesse V. Johnson",
+          "profilePath": "/tXjWQ5sCLGSaL0YnwWFvF3O3XzQ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 54722,
+          "name": "Laura Marano",
+          "character": "Tatiana",
+          "profilePath": "/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+        },
+        {
+          "id": 1817942,
+          "name": "Christina Ochoa",
+          "character": "",
+          "profilePath": "/msIxEVC8HljvbigzzHVkJFCwuyA.jpg"
+        },
+        {
+          "id": 1316401,
+          "name": "Mario Tardón",
+          "character": "",
+          "profilePath": "/x2tq4GYBlk4e912IBI2mA4u0BhW.jpg"
+        },
+        {
+          "id": 3131,
+          "name": "Antonio Banderas",
+          "character": "Burns",
+          "profilePath": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+        },
+        {
+          "id": 100258,
+          "name": "Ramiro Alonso",
+          "character": "",
+          "profilePath": "/qq2ogOAPi0MPZRUkcWbMMkvO26K.jpg"
+        },
+        {
+          "id": 2676371,
+          "name": "Ryan Bertroche",
+          "character": "",
+          "profilePath": "/23CRyCVIgpuzMvaoSbybXmRzF8O.jpg"
+        }
+      ]
     },
     {
       "id": 1560520,
@@ -360,7 +2172,60 @@
       "posterPath": "/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
       "backdropPath": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
       "releaseDate": "2026-06-23",
-      "rating": 9.04
+      "rating": 9.04,
+      "trailer": {
+        "id": "6a5f9179d6e46fad2b011444",
+        "key": "90HAqMk7qv0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 2927725,
+          "name": "Jeff Wamester",
+          "profilePath": "/uDLvW3b21oINAA5BJiWMf85cDCP.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 56675,
+          "name": "Anson Mount",
+          "character": "Batman / Bruce Wayne (voice)",
+          "profilePath": "/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "id": 829372,
+          "name": "Michael Mando",
+          "character": "Bane (voice)",
+          "profilePath": "/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+        },
+        {
+          "id": 59254,
+          "name": "Pablo Schreiber",
+          "character": "Azrael / Jean-Paul Valley (voice)",
+          "profilePath": "/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "id": 34982,
+          "name": "Jeff Bennett",
+          "character": "Ventriloquist / Scarface / Vincent (voice)",
+          "profilePath": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+          "id": 4270359,
+          "name": "Luis Bermudez",
+          "character": "Catman / Doctor / Guard (voice)",
+          "profilePath": "/cn1yzMsCrUatAqjDEIxTb8h38X9.jpg"
+        },
+        {
+          "id": 2547,
+          "name": "Bruce Boxleitner",
+          "character": "Commissioner Jim Gordon (voice)",
+          "profilePath": "/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg"
+        }
+      ]
     }
   ],
   "topRated": [
@@ -371,7 +2236,60 @@
       "posterPath": "/gXyICsxc1amVyziopCT4yhnelNv.jpg",
       "backdropPath": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 9.198
+      "rating": 9.198,
+      "trailer": {
+        "id": "6a4d18287addd41b46c67f34",
+        "key": "7b20GRFZBFE",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 74863,
+          "name": "Lauren Montgomery",
+          "profilePath": "/tKq2IYbMr5pHrWMS99fCXQbVlrt.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1610783,
+          "name": "Eric Nam",
+          "character": "Aang (voice)",
+          "profilePath": "/gEH0b5q9tupL49dmUFkjm9dnxP2.jpg"
+        },
+        {
+          "id": 543530,
+          "name": "Dave Bautista",
+          "character": "Tagah (voice)",
+          "profilePath": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        },
+        {
+          "id": 1703912,
+          "name": "Jessica Matten",
+          "character": "Katara (voice)",
+          "profilePath": "/EQsPxsav8AZmaeT3mpU3Evilee.jpg"
+        },
+        {
+          "id": 2775164,
+          "name": "Román Zaragoza",
+          "character": "Sokka (voice)",
+          "profilePath": "/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+        },
+        {
+          "id": 215055,
+          "name": "Steven Yeun",
+          "character": "Zuko (voice)",
+          "profilePath": "/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+        },
+        {
+          "id": 86432,
+          "name": "Dionne Quan",
+          "character": "Toph (voice)",
+          "profilePath": "/vGe0bMTfYDX1Wcw9ZCfY3YCSgai.jpg"
+        }
+      ]
     },
     {
       "id": 1632181,
@@ -380,7 +2298,60 @@
       "posterPath": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
       "backdropPath": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
       "releaseDate": "2026-03-12",
-      "rating": 8.88
+      "rating": 8.88,
+      "trailer": {
+        "id": "6a0a21d6bd575ed4f6293ee5",
+        "key": "tsjsPgnCM2U",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 3009489,
+          "name": "Ihtzi Hurtado",
+          "profilePath": "/iZ4I41zQfLr6zP2hLWQkawHUhbM.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1244197,
+          "name": "Angelique Boyer",
+          "character": "Alexa Hernández",
+          "profilePath": "/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+        },
+        {
+          "id": 1310902,
+          "name": "Bárbara de Regil",
+          "character": "Regina",
+          "profilePath": "/2Oy7SFBIUtj4Qe2O6Ys9Bf8LJ86.jpg"
+        },
+        {
+          "id": 2990871,
+          "name": "Diego Klein",
+          "character": "Roy / Sebastián Benavides / Erick López",
+          "profilePath": "/zUSgyUwiQVMqX5iuVrqXCtbdC7F.jpg"
+        },
+        {
+          "id": 1301500,
+          "name": "Lucía Uribe",
+          "character": "Claudia",
+          "profilePath": "/zyuMAnbyG2a48B4602eoFI094pT.jpg"
+        },
+        {
+          "id": 1415550,
+          "name": "Isabella Camil",
+          "character": "Leticia Letram",
+          "profilePath": "/jpRcrulEFlsy1ZMb1U9SY5ZPv0w.jpg"
+        },
+        {
+          "id": 942853,
+          "name": "Gabriela Platas",
+          "character": "Majo",
+          "profilePath": "/kU9Qpq7uLHsEQR4ECZsl3D0KsXD.jpg"
+        }
+      ]
     },
     {
       "id": 1007757,
@@ -389,7 +2360,60 @@
       "posterPath": "/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
       "backdropPath": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 8.873
+      "rating": 8.873,
+      "trailer": {
+        "id": "69f73408cd81ced6c938d9c7",
+        "key": "oZlnTUemKPU",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Intercambiados (EN ESPAÑOL) | Tráiler oficial | Netflix  España",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 121830,
+          "name": "Nathan Greno",
+          "profilePath": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 135651,
+          "name": "Michael B. Jordan",
+          "character": "Ollie (voice)",
+          "profilePath": "/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+        },
+        {
+          "id": 36594,
+          "name": "Juno Temple",
+          "character": "Ivy (voice)",
+          "profilePath": "/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg"
+        },
+        {
+          "id": 56903,
+          "name": "Tracy Morgan",
+          "character": "Boogle / Firewolf (voice)",
+          "profilePath": "/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
+        },
+        {
+          "id": 5726,
+          "name": "Cedric the Entertainer",
+          "character": "Caloo (voice)",
+          "profilePath": "/s6UrY5uofyxXsU5PydWBoLFReK0.jpg"
+        },
+        {
+          "id": 95517,
+          "name": "Justina Machado",
+          "character": "Calli (voice)",
+          "profilePath": "/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg"
+        },
+        {
+          "id": 41565,
+          "name": "Nate Torrence",
+          "character": "Lodd (voice)",
+          "profilePath": "/yT9o149xPygdY0NsF9sNgiQwuru.jpg"
+        }
+      ]
     },
     {
       "id": 1621552,
@@ -398,7 +2422,60 @@
       "posterPath": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
       "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.84
+      "rating": 8.84,
+      "trailer": {
+        "id": "6a892dae847ab849edd4aa95",
+        "key": "Rk0efhpa-5Y",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, Noé Hernández 🚨",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 964826,
+          "name": "Chava Cartas",
+          "profilePath": "/2KgMJhywrNcNvlxKschlNyYQpsL.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 220496,
+          "name": "Alfonso Herrera",
+          "character": "Carmona",
+          "profilePath": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+        },
+        {
+          "id": 89445,
+          "name": "Noé Hernández",
+          "character": "Rosales",
+          "profilePath": "/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+        },
+        {
+          "id": 133766,
+          "name": "Héctor Kotsifakis",
+          "character": "El Chapo Guzmán",
+          "profilePath": "/IE5KgMI1bE0LcloTHNVsk3kldk.jpg"
+        },
+        {
+          "id": 4734842,
+          "name": "Juan Pablo Cruz García",
+          "character": "Cholo Iván",
+          "profilePath": null
+        },
+        {
+          "id": 1327350,
+          "name": "Paola Fernández",
+          "character": "Isaura",
+          "profilePath": "/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+        },
+        {
+          "id": 3229382,
+          "name": "Antonio Fortier",
+          "character": "Barraza",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 1311031,
@@ -407,7 +2484,60 @@
       "posterPath": "/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
       "backdropPath": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
       "releaseDate": "2025-07-18",
-      "rating": 8.788
+      "rating": 8.788,
+      "trailer": {
+        "id": "688cd34571cd58ca54de60a6",
+        "key": "X3E4zogzWsY",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Trailer oficial español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1283010,
+          "name": "Haruo Sotozaki",
+          "profilePath": "/ylaWAuJB1PyAzaefqENBDEAKTLI.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1256603,
+          "name": "Natsuki Hanae",
+          "character": "Tanjiro Kamado (voice)",
+          "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+        },
+        {
+          "id": 9705,
+          "name": "Takahiro Sakurai",
+          "character": "Giyu Tomioka (voice)",
+          "profilePath": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+          "id": 81244,
+          "name": "Akira Ishida",
+          "character": "Akaza (voice)",
+          "profilePath": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+        },
+        {
+          "id": 119145,
+          "name": "Hiro Shimono",
+          "character": "Zenitsu Agatsuma (voice)",
+          "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+        },
+        {
+          "id": 1253008,
+          "name": "Yoshimasa Hosoya",
+          "character": "Kaigaku (voice)",
+          "profilePath": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+        },
+        {
+          "id": 221773,
+          "name": "Saori Hayami",
+          "character": "Shinobu Kocho (voice)",
+          "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+        }
+      ]
     },
     {
       "id": 278,
@@ -416,7 +2546,60 @@
       "posterPath": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
       "backdropPath": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "1994-09-23",
-      "rating": 8.729
+      "rating": 8.729,
+      "trailer": {
+        "id": "60a82e9b6ee3d700407f6f50",
+        "key": "4u87tmlj4oE",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Cadena Perpetua Trailer",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 4027,
+          "name": "Frank Darabont",
+          "profilePath": "/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 504,
+          "name": "Tim Robbins",
+          "character": "Andy Dufresne",
+          "profilePath": "/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+        },
+        {
+          "id": 192,
+          "name": "Morgan Freeman",
+          "character": "Ellis Boyd 'Red' Redding",
+          "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "id": 4029,
+          "name": "Bob Gunton",
+          "character": "Warden Norton",
+          "profilePath": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+        },
+        {
+          "id": 6573,
+          "name": "William Sadler",
+          "character": "Heywood",
+          "profilePath": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+        },
+        {
+          "id": 6574,
+          "name": "Clancy Brown",
+          "character": "Captain Byron T. Hadley",
+          "profilePath": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+          "id": 6575,
+          "name": "Gil Bellows",
+          "character": "Tommy",
+          "profilePath": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+        }
+      ]
     },
     {
       "id": 238,
@@ -425,7 +2608,60 @@
       "posterPath": "/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
       "backdropPath": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
       "releaseDate": "1972-03-14",
-      "rating": 8.686
+      "rating": 8.686,
+      "trailer": {
+        "id": "623a228e6bdec30047783a25",
+        "key": "v72XprPxy3E",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "El Padrino | Tráiler oficial | 50 aniversario | Paramount Pictures Spain",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1776,
+          "name": "Francis Ford Coppola",
+          "profilePath": "/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3084,
+          "name": "Marlon Brando",
+          "character": "Don Vito Corleone",
+          "profilePath": "/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+        },
+        {
+          "id": 1158,
+          "name": "Al Pacino",
+          "character": "Michael Corleone",
+          "profilePath": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+        },
+        {
+          "id": 3085,
+          "name": "James Caan",
+          "character": "Sonny Corleone",
+          "profilePath": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
+        },
+        {
+          "id": 3087,
+          "name": "Robert Duvall",
+          "character": "Tom Hagen",
+          "profilePath": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+          "id": 3086,
+          "name": "Richard S. Castellano",
+          "character": "Clemenza",
+          "profilePath": "/1vr75BdHWret81vuSJ3ugiCBkxw.jpg"
+        },
+        {
+          "id": 3092,
+          "name": "Diane Keaton",
+          "character": "Kay Adams",
+          "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+        }
+      ]
     },
     {
       "id": 936075,
@@ -434,7 +2670,60 @@
       "posterPath": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "releaseDate": "2026-04-22",
-      "rating": 8.7
+      "rating": 8.7,
+      "trailer": {
+        "id": "6980c3a94caec118b875ff81",
+        "key": "o1HQSh6zZ8s",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler oficial",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 20907,
+          "name": "Antoine Fuqua",
+          "profilePath": "/9zh0MmYIw1BP8V7y9N9K5Rjew4C.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3898497,
+          "name": "Jaafar Jackson",
+          "character": "Michael",
+          "profilePath": "/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg"
+        },
+        {
+          "id": 91671,
+          "name": "Colman Domingo",
+          "character": "Joseph Jackson",
+          "profilePath": "/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+        },
+        {
+          "id": 9781,
+          "name": "Nia Long",
+          "character": "Katherine Jackson",
+          "profilePath": "/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg"
+        },
+        {
+          "id": 4487890,
+          "name": "Juliano Krue Valdi",
+          "character": "Young Michael",
+          "profilePath": "/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg"
+        },
+        {
+          "id": 1990676,
+          "name": "KeiLyn Durrel Jones",
+          "character": "Bill Bray",
+          "profilePath": "/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg"
+        },
+        {
+          "id": 996701,
+          "name": "Miles Teller",
+          "character": "John Branca",
+          "profilePath": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        }
+      ]
     },
     {
       "id": 687163,
@@ -443,7 +2732,65 @@
       "posterPath": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropPath": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "releaseDate": "2026-03-15",
-      "rating": 8.645
+      "rating": 8.645,
+      "trailer": {
+        "id": "69b45ef873fbd1f958718f43",
+        "key": "in-lUuKi0eE",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler final en español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 107446,
+          "name": "Phil Lord",
+          "profilePath": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+        },
+        {
+          "id": 155267,
+          "name": "Christopher Miller",
+          "profilePath": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 30614,
+          "name": "Ryan Gosling",
+          "character": "Ryland Grace",
+          "profilePath": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        },
+        {
+          "id": 7152,
+          "name": "Sandra Hüller",
+          "character": "Eva Stratt",
+          "profilePath": "/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+        },
+        {
+          "id": 2096164,
+          "name": "James Ortiz",
+          "character": "Rocky (voice)",
+          "profilePath": "/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
+        },
+        {
+          "id": 2320708,
+          "name": "Lionel Boyce",
+          "character": "Carl",
+          "profilePath": "/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
+        },
+        {
+          "id": 1454946,
+          "name": "Milana Vayntrub",
+          "character": "Olesya Ilyukhina",
+          "profilePath": "/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg"
+        },
+        {
+          "id": 2131,
+          "name": "Ken Leung",
+          "character": "Yao",
+          "profilePath": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+        }
+      ]
     },
     {
       "id": 240,
@@ -452,7 +2799,60 @@
       "posterPath": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
       "backdropPath": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
       "releaseDate": "1974-12-20",
-      "rating": 8.6
+      "rating": 8.6,
+      "trailer": {
+        "id": "56a39cb192514144ba00289c",
+        "key": "rMT8b3MJ-RI",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Trailer: El Padrino II",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 1776,
+          "name": "Francis Ford Coppola",
+          "profilePath": "/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1158,
+          "name": "Al Pacino",
+          "character": "Don Michael Corleone",
+          "profilePath": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+        },
+        {
+          "id": 3087,
+          "name": "Robert Duvall",
+          "character": "Tom Hagen",
+          "profilePath": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+          "id": 3092,
+          "name": "Diane Keaton",
+          "character": "Kay Corleone",
+          "profilePath": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro",
+          "character": "Vito Corleone",
+          "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+          "id": 3096,
+          "name": "John Cazale",
+          "character": "Frederico 'Fredo' Corleone",
+          "profilePath": "/7uKBc2BVbLlAiHuSdfioe1OUnCX.jpg"
+        },
+        {
+          "id": 3094,
+          "name": "Talia Shire",
+          "character": "Constanzia 'Connie' Corleone",
+          "profilePath": "/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+        }
+      ]
     },
     {
       "id": 389,
@@ -461,7 +2861,60 @@
       "posterPath": "/t88XfoxO5cX3f0qaSxWsBS0Lc3.jpg",
       "backdropPath": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
       "releaseDate": "1957-04-10",
-      "rating": 8.6
+      "rating": 8.6,
+      "trailer": {
+        "id": "6335ed1a8c315900827742a6",
+        "key": "TEN-2uTi2c0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 39996,
+          "name": "Sidney Lumet",
+          "profilePath": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1936,
+          "name": "Martin Balsam",
+          "character": "Juror 1",
+          "profilePath": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
+        },
+        {
+          "id": 5247,
+          "name": "John Fiedler",
+          "character": "Juror 2",
+          "profilePath": "/27sXisLWQJQ49PD40j89miNhL73.jpg"
+        },
+        {
+          "id": 5248,
+          "name": "Lee J. Cobb",
+          "character": "Juror 3",
+          "profilePath": "/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
+        },
+        {
+          "id": 5249,
+          "name": "E.G. Marshall",
+          "character": "Juror 4",
+          "profilePath": "/psimeVoRk64DV7UNm4cLQylRFy2.jpg"
+        },
+        {
+          "id": 5250,
+          "name": "Jack Klugman",
+          "character": "Juror 5",
+          "profilePath": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg"
+        },
+        {
+          "id": 2651,
+          "name": "Edward Binns",
+          "character": "Juror 6",
+          "profilePath": "/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg"
+        }
+      ]
     },
     {
       "id": 424,
@@ -470,7 +2923,60 @@
       "posterPath": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
       "backdropPath": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
       "releaseDate": "1993-12-15",
-      "rating": 8.57
+      "rating": 8.57,
+      "trailer": {
+        "id": "56b362d0c3a36806ea001d8b",
+        "key": "0Z9cLiliBh0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "La lista de Schindler",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 488,
+          "name": "Steven Spielberg",
+          "profilePath": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3896,
+          "name": "Liam Neeson",
+          "character": "Oskar Schindler",
+          "profilePath": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+          "id": 2282,
+          "name": "Ben Kingsley",
+          "character": "Itzhak Stern",
+          "profilePath": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+        },
+        {
+          "id": 5469,
+          "name": "Ralph Fiennes",
+          "character": "Amon Goeth",
+          "profilePath": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+        },
+        {
+          "id": 6692,
+          "name": "Caroline Goodall",
+          "character": "Emilie Schindler",
+          "profilePath": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+        },
+        {
+          "id": 6693,
+          "name": "Jonathan Sagall",
+          "character": "Poldek Pfefferberg",
+          "profilePath": "/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+        },
+        {
+          "id": 6368,
+          "name": "Embeth Davidtz",
+          "character": "Helen Hirsch",
+          "profilePath": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+        }
+      ]
     },
     {
       "id": 1232449,
@@ -479,7 +2985,60 @@
       "posterPath": "/9dkwCoJFcNRxuXf6W2f3dm1JaTl.jpg",
       "backdropPath": "/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
       "releaseDate": "2024-10-26",
-      "rating": 8.562
+      "rating": 8.562,
+      "trailer": {
+        "id": "695fb456ebaa7b4a9b3907f7",
+        "key": "ijaLan082S8",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "UK Trailer [Subtitled]",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1274776,
+          "name": "Anthony Schatteman",
+          "profilePath": "/93dfeAYBgPInhCZszkCBsd4UDPi.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3724154,
+          "name": "Lou Goossens",
+          "character": "Elias",
+          "profilePath": "/kY8eifhCPvjTE6JJclrrWO7Zr9L.jpg"
+        },
+        {
+          "id": 4504024,
+          "name": "Marius De Saeger",
+          "character": "Alexander",
+          "profilePath": "/kSAjzHdvHSY2ZAh3OBt65P7UfTB.jpg"
+        },
+        {
+          "id": 220295,
+          "name": "Geert Van Rampelberg",
+          "character": "Luk",
+          "profilePath": "/jECzjJvrJdBrh6xf3aRpTOu3Qxi.jpg"
+        },
+        {
+          "id": 2900070,
+          "name": "Emilie De Roo",
+          "character": "Nathalie",
+          "profilePath": "/jXiZjMF86JKoVlfdub8GR4NGgiV.jpg"
+        },
+        {
+          "id": 1127485,
+          "name": "Dirk van Dijck",
+          "character": "Fred",
+          "profilePath": "/AhvtRHc6faulpEznoK8PsF8Kap6.jpg"
+        },
+        {
+          "id": 4103230,
+          "name": "Jul Goossens",
+          "character": "Maxime",
+          "profilePath": "/ouM6MdO3gc9vTgnI5Hrwf3uE5En.jpg"
+        }
+      ]
     },
     {
       "id": 1218925,
@@ -488,7 +3047,60 @@
       "posterPath": "/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
       "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
       "releaseDate": "2025-09-19",
-      "rating": 8.5
+      "rating": 8.5,
+      "trailer": {
+        "id": "68c842d390eb78b4b0220717",
+        "key": "-KpVet_60Yc",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Trailer oficial en español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1286723,
+          "name": "Tatsuya Yoshihara",
+          "profilePath": "/8vCTM5LoMueuEEWat9qlx0EXg8p.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3651176,
+          "name": "Kikunosuke Toya",
+          "character": "Denji (voice)",
+          "profilePath": "/tSAHe7tjN7luUD1Tx5yPSCuCnuD.jpg"
+        },
+        {
+          "id": 2004086,
+          "name": "Tomori Kusunoki",
+          "character": "Makima (voice)",
+          "profilePath": "/iiGJPsLAnOoqmkNjLWCvbbDJw50.jpg"
+        },
+        {
+          "id": 1452028,
+          "name": "Reina Ueda",
+          "character": "Reze (voice)",
+          "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+        },
+        {
+          "id": 2812912,
+          "name": "Shogo Sakata",
+          "character": "Aki (voice)",
+          "profilePath": "/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg"
+        },
+        {
+          "id": 1783522,
+          "name": "高橋花林",
+          "character": "Kobeni (voice)",
+          "profilePath": "/40eynav2SoYcfd0McfiF46Hu16o.jpg"
+        },
+        {
+          "id": 2359492,
+          "name": "Fairouz Ai",
+          "character": "Power (voice)",
+          "profilePath": "/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg"
+        }
+      ]
     },
     {
       "id": 155,
@@ -497,7 +3109,60 @@
       "posterPath": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
       "backdropPath": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
       "releaseDate": "2008-07-16",
-      "rating": 8.534
+      "rating": 8.534,
+      "trailer": {
+        "id": "67a551884501b2f23366fbe3",
+        "key": "_PZpmTj1Q8Q",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Original Theatrical Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 525,
+          "name": "Christopher Nolan",
+          "profilePath": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3894,
+          "name": "Christian Bale",
+          "character": "Bruce Wayne",
+          "profilePath": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "id": 1810,
+          "name": "Heath Ledger",
+          "character": "Joker",
+          "profilePath": "/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "id": 6383,
+          "name": "Aaron Eckhart",
+          "character": "Harvey Dent",
+          "profilePath": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "id": 3895,
+          "name": "Michael Caine",
+          "character": "Alfred",
+          "profilePath": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "id": 1579,
+          "name": "Maggie Gyllenhaal",
+          "character": "Rachel",
+          "profilePath": "/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        },
+        {
+          "id": 64,
+          "name": "Gary Oldman",
+          "character": "Gordon",
+          "profilePath": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+        }
+      ]
     },
     {
       "id": 129,
@@ -506,7 +3171,60 @@
       "posterPath": "/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
       "backdropPath": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
       "releaseDate": "2001-07-20",
-      "rating": 8.534
+      "rating": 8.534,
+      "trailer": {
+        "id": "66fc9d816c365985c8f22bdd",
+        "key": "5Fgq4Osh6XQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler Español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 608,
+          "name": "Hayao Miyazaki",
+          "profilePath": "/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 19587,
+          "name": "Rumi Hiiragi",
+          "character": "Chihiro (voice)",
+          "profilePath": "/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+        },
+        {
+          "id": 19588,
+          "name": "Miyu Irino",
+          "character": "Haku (voice)",
+          "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+          "id": 19589,
+          "name": "Mari Natsuki",
+          "character": "Yubaba / Zeniba (voice)",
+          "profilePath": "/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+        },
+        {
+          "id": 19590,
+          "name": "Takashi Naito",
+          "character": "Father (voice)",
+          "profilePath": "/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+        },
+        {
+          "id": 19591,
+          "name": "Yasuko Sawaguchi",
+          "character": "Mother (voice)",
+          "profilePath": "/rWspusb13VeJowmctnniXYYTcqq.jpg"
+        },
+        {
+          "id": 19592,
+          "name": "Tatsuya Gashûin",
+          "character": "Aogaeru (voice)",
+          "profilePath": "/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+        }
+      ]
     },
     {
       "id": 497,
@@ -515,7 +3233,60 @@
       "posterPath": "/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
       "backdropPath": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
       "releaseDate": "1999-12-10",
-      "rating": 8.506
+      "rating": 8.506,
+      "trailer": {
+        "id": "5c5f110fc3a3683cd18e1113",
+        "key": "hBtSF4-cnzk",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler \"La milla verde\"",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 4027,
+          "name": "Frank Darabont",
+          "profilePath": "/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 31,
+          "name": "Tom Hanks",
+          "character": "Paul Edgecomb",
+          "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "id": 52,
+          "name": "David Morse",
+          "character": "Brutus 'Brutal' Howell",
+          "profilePath": "/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+        },
+        {
+          "id": 5149,
+          "name": "Bonnie Hunt",
+          "character": "Jan Edgecomb",
+          "profilePath": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+        },
+        {
+          "id": 61981,
+          "name": "Michael Clarke Duncan",
+          "character": "John Coffey",
+          "profilePath": "/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+        },
+        {
+          "id": 2505,
+          "name": "James Cromwell",
+          "character": "Warden Hal Moores",
+          "profilePath": "/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+        },
+        {
+          "id": 2169,
+          "name": "Michael Jeter",
+          "character": "Eduard Delacroix",
+          "profilePath": "/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+        }
+      ]
     },
     {
       "id": 122,
@@ -524,7 +3295,60 @@
       "posterPath": "/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
       "backdropPath": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
       "releaseDate": "2003-12-17",
-      "rating": 8.506
+      "rating": 8.506,
+      "trailer": {
+        "id": "5eca7249b3e62700233071f0",
+        "key": "h-9RYiqyqjk",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "El Señor De Los Anillos: El Retorno Del Rey. Tráiler En Español HD 1080P",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 108,
+          "name": "Peter Jackson",
+          "profilePath": "/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 109,
+          "name": "Elijah Wood",
+          "character": "Frodo",
+          "profilePath": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+        },
+        {
+          "id": 1327,
+          "name": "Ian McKellen",
+          "character": "Gandalf",
+          "profilePath": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+        },
+        {
+          "id": 110,
+          "name": "Viggo Mortensen",
+          "character": "Aragorn",
+          "profilePath": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+        },
+        {
+          "id": 1328,
+          "name": "Sean Astin",
+          "character": "Sam",
+          "profilePath": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+          "id": 1333,
+          "name": "Andy Serkis",
+          "character": "Gollum / Smeagol",
+          "profilePath": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+        },
+        {
+          "id": 1330,
+          "name": "Dominic Monaghan",
+          "character": "Merry",
+          "profilePath": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+        }
+      ]
     },
     {
       "id": 19404,
@@ -533,7 +3357,60 @@
       "posterPath": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
       "backdropPath": "/84beTJf26mfhoasUlKSOiNSutyS.jpg",
       "releaseDate": "1995-10-20",
-      "rating": 8.503
+      "rating": 8.503,
+      "trailer": {
+        "id": "622e0679e04aca00459d5b51",
+        "key": "oIZ4U21DRlM",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "25 Years Weeks Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 35771,
+          "name": "Aditya Chopra",
+          "profilePath": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 55061,
+          "name": "काजोल",
+          "character": "Simran Singh",
+          "profilePath": "/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+        },
+        {
+          "id": 35742,
+          "name": "शाहरुख़ ख़ान",
+          "character": "Raj Malhotra",
+          "profilePath": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+        },
+        {
+          "id": 691,
+          "name": "Amrish Puri",
+          "character": "Chaudhry Baldev Singh",
+          "profilePath": "/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+        },
+        {
+          "id": 146971,
+          "name": "Farida Jalal",
+          "character": "Lajwanti 'Lajjo' Singh",
+          "profilePath": "/tJdqL4BRSAWVFX1W6cmwxFs9IFh.jpg"
+        },
+        {
+          "id": 6217,
+          "name": "Anupam Kher",
+          "character": "Dharamvir Malhotra",
+          "profilePath": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg"
+        },
+        {
+          "id": 146973,
+          "name": "Pooja Ruparel",
+          "character": "Rajeshwari \"Chutki\" Singh",
+          "profilePath": "/evHnj6s0Z2sbV1Mq0dfXxQQU8Mf.jpg"
+        }
+      ]
     },
     {
       "id": 496243,
@@ -542,7 +3419,60 @@
       "posterPath": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
       "backdropPath": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
       "releaseDate": "2019-05-30",
-      "rating": 8.49
+      "rating": 8.49,
+      "trailer": {
+        "id": "5ec61bda3d3557001de39742",
+        "key": "-PtU49Aol00",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Parásitos - Tráiler oficial español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 21684,
+          "name": "Bong Joon-ho",
+          "profilePath": "/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 20738,
+          "name": "Song Kang-ho",
+          "character": "Kim Ki-taek",
+          "profilePath": "/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+        },
+        {
+          "id": 115290,
+          "name": "Lee Sun-kyun",
+          "character": "Park Dong-ik",
+          "profilePath": "/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+        },
+        {
+          "id": 556435,
+          "name": "Cho Yeo-jeong",
+          "character": "Yeon-kyo",
+          "profilePath": "/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+        },
+        {
+          "id": 1255881,
+          "name": "Choi Woo-shik",
+          "character": "Ki-woo",
+          "profilePath": "/9mZ9DNopxpCLUjXd0rLd42TLamw.jpg"
+        },
+        {
+          "id": 1442583,
+          "name": "Park So-dam",
+          "character": "Ki-jung",
+          "profilePath": "/fGVOikpvivopeATDy6ZzLdKYXDu.jpg"
+        },
+        {
+          "id": 1572354,
+          "name": "Lee Jung-eun",
+          "character": "Moon-gwang",
+          "profilePath": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -553,7 +3483,60 @@
       "posterPath": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropPath": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-15",
-      "rating": 7.993
+      "rating": 7.993,
+      "trailer": {
+        "id": "6a9059a47fd0e703b46b690f",
+        "key": "X9nUrOnHlz0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "LA ODISEA - Tráiler Oficial (Universal Pictures) HD",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 525,
+          "name": "Christopher Nolan",
+          "profilePath": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1892,
+          "name": "Matt Damon",
+          "character": "Odysseus",
+          "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "id": 1136406,
+          "name": "Tom Holland",
+          "character": "Telemachus",
+          "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+          "id": 1813,
+          "name": "Anne Hathaway",
+          "character": "Penelope",
+          "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "id": 11288,
+          "name": "Robert Pattinson",
+          "character": "Antinous",
+          "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "id": 1227717,
+          "name": "Himesh Patel",
+          "character": "Eurylochus",
+          "profilePath": "/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+        },
+        {
+          "id": 6885,
+          "name": "Charlize Theron",
+          "character": "Calypso",
+          "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        }
+      ]
     },
     {
       "id": 1288445,
@@ -562,7 +3545,60 @@
       "posterPath": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
       "backdropPath": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 6.363
+      "rating": 6.363,
+      "trailer": {
+        "id": "6a88706e070addf91b005d0e",
+        "key": "H7NbMxeWMvs",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "El motín | Tráiler oficial en español | 21 de agosto en cines",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 58324,
+          "name": "Jean-François Richet",
+          "profilePath": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham",
+          "character": "Cole Reed",
+          "profilePath": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+        },
+        {
+          "id": 82809,
+          "name": "Annabelle Wallis",
+          "character": "Angie Ellis",
+          "profilePath": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller",
+          "character": "Captain Marko Madsen",
+          "profilePath": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+        },
+        {
+          "id": 178622,
+          "name": "Ramon Tikaram",
+          "character": "Tibu Campallo",
+          "profilePath": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius",
+          "character": "Mateo Pineda",
+          "profilePath": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+        },
+        {
+          "id": 1033691,
+          "name": "Jason Wong",
+          "character": "Taran",
+          "profilePath": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+        }
+      ]
     },
     {
       "id": 1204680,
@@ -571,7 +3607,60 @@
       "posterPath": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "backdropPath": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "releaseDate": "2026-08-20",
-      "rating": 7.841
+      "rating": 7.841,
+      "trailer": {
+        "id": "6a887389f4f1e6718019a7e6",
+        "key": "WQRoa6l4bwI",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Coyote vs. ACME - Tráiler Oficial",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1101410,
+          "name": "David Green",
+          "profilePath": "/eRUCqrBpWNSr8893Fcf1A1Hsbog.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 62831,
+          "name": "Will Forte",
+          "character": "Kevin Avery",
+          "profilePath": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+        },
+        {
+          "id": 1452046,
+          "name": "Lana Condor",
+          "character": "Paige Avery",
+          "profilePath": "/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
+        },
+        {
+          "id": 56446,
+          "name": "John Cena",
+          "character": "Buddy Crane",
+          "profilePath": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+        },
+        {
+          "id": 1120700,
+          "name": "Tone Bell",
+          "character": "Sal Maltese",
+          "profilePath": "/fB06Xj5FgwvHcZESsNGMupGBTyY.jpg"
+        },
+        {
+          "id": 1572541,
+          "name": "Martha Kelly",
+          "character": "Dottie Jones",
+          "profilePath": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+        },
+        {
+          "id": 40481,
+          "name": "Luis Guzmán",
+          "character": "Judge Troppogrosso",
+          "profilePath": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        }
+      ]
     },
     {
       "id": 1232569,
@@ -580,7 +3669,60 @@
       "posterPath": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
       "backdropPath": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
       "releaseDate": "2026-07-22",
-      "rating": 6.7
+      "rating": 6.7,
+      "trailer": {
+        "id": "6a6386b9b857c5816c38267e",
+        "key": "NPLgD0dNQ8c",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Pinocchio: Unstrung — Tráiler Oficial Subtitulado Español Latino | ITN Studios #pinocchiounstrung",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 3122176,
+          "name": "Rhys Frake-Waterfield",
+          "profilePath": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 5752734,
+          "name": "Jude Evan Lloyd",
+          "character": "Pinocchio (voice)",
+          "profilePath": "/vBbtBNsGKOZPvmdlyG6lUUkcNwF.jpg"
+        },
+        {
+          "id": 4916781,
+          "name": "Cameron Bell",
+          "character": "James",
+          "profilePath": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg"
+        },
+        {
+          "id": 3901,
+          "name": "Richard Brake",
+          "character": "Geppetto",
+          "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+        },
+        {
+          "id": 3909217,
+          "name": "Jessica Balmer",
+          "character": "Mia",
+          "profilePath": "/fhb5Oj719yH7z5f2lYU2r8Lyu46.jpg"
+        },
+        {
+          "id": 5692794,
+          "name": "Jack Art Gray",
+          "character": "Dudley",
+          "profilePath": "/7C9o6X4g3lj9OsrD24ztL01GxVL.jpg"
+        },
+        {
+          "id": 5139,
+          "name": "Robert Englund",
+          "character": "Cricket (voice)",
+          "profilePath": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg"
+        }
+      ]
     },
     {
       "id": 1386315,
@@ -589,7 +3731,60 @@
       "posterPath": "/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
       "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
       "releaseDate": "2026-09-03",
-      "rating": 5.918
+      "rating": 5.918,
+      "trailer": {
+        "id": "6a9c667c4a1b1bbf824b0e1f",
+        "key": "A4ESt5_aHGQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "A la carrera (2026) | Trailer doblado en español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 17350,
+          "name": "Kevin Macdonald",
+          "profilePath": "/40P6puNsdMx2ov6bQnZUZ867O3j.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 90633,
+          "name": "Gal Gadot",
+          "character": "Maia",
+          "profilePath": "/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+        },
+        {
+          "id": 20186,
+          "name": "Damian Lewis",
+          "character": "The Caller",
+          "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+        },
+        {
+          "id": 5018970,
+          "name": "Rory Wilmot",
+          "character": "Noah",
+          "profilePath": "/qi56VP9tSU0F0VJ59Aq0yU4nIR9.jpg"
+        },
+        {
+          "id": 234923,
+          "name": "Alfred Enoch",
+          "character": "Ted",
+          "profilePath": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+        },
+        {
+          "id": 2967026,
+          "name": "Phoenix Di Sebastiani",
+          "character": "Tafa",
+          "profilePath": "/mBkkZ5irQZPsxdcCIPLCvNv5iT8.jpg"
+        },
+        {
+          "id": 3907201,
+          "name": "Nathan Kirby",
+          "character": "Wiry Dude",
+          "profilePath": "/5bnrS0ZncCFaL1DCm7n7Z6qHBlL.jpg"
+        }
+      ]
     },
     {
       "id": 1130948,
@@ -598,7 +3793,60 @@
       "posterPath": "/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
       "backdropPath": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 6.015
+      "rating": 6.015,
+      "trailer": {
+        "id": "69c6836807b96f27dd08aa57",
+        "key": "rmHD9gZbF7A",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 55018,
+          "name": "Karim Aïnouz",
+          "profilePath": "/hbxUnYlBs9flmWYKMi3VrOihc9n.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1371041,
+          "name": "Callum Turner",
+          "character": "Ed",
+          "profilePath": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+        },
+        {
+          "id": 98522,
+          "name": "Riley Keough",
+          "character": "Anna",
+          "profilePath": "/wsodGduU4frFdMy1roqeDmj4kZ.jpg"
+        },
+        {
+          "id": 478,
+          "name": "Jamie Bell",
+          "character": "Jack",
+          "profilePath": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+        },
+        {
+          "id": 1371509,
+          "name": "Lukas Gage",
+          "character": "Robert",
+          "profilePath": "/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
+        },
+        {
+          "id": 72638,
+          "name": "Tracy Letts",
+          "character": "Father",
+          "profilePath": "/x318yEddF10ASORC5U958C2kowf.jpg"
+        },
+        {
+          "id": 18050,
+          "name": "Elle Fanning",
+          "character": "Martha",
+          "profilePath": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+        }
+      ]
     },
     {
       "id": 1384216,
@@ -607,7 +3855,60 @@
       "posterPath": "/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "backdropPath": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
       "releaseDate": "2026-08-26",
-      "rating": 6.7
+      "rating": 6.7,
+      "trailer": {
+        "id": "69e890798db0222c5023f466",
+        "key": "a8qEBr7eYmc",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "La constelación del perro - Tráiler español",
+        "official": false
+      },
+      "directors": [
+        {
+          "id": 578,
+          "name": "Ridley Scott",
+          "profilePath": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 2034418,
+          "name": "Jacob Elordi",
+          "character": "Hig",
+          "profilePath": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+        },
+        {
+          "id": 1392137,
+          "name": "Margaret Qualley",
+          "character": "Cima",
+          "profilePath": "/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        },
+        {
+          "id": 16851,
+          "name": "Josh Brolin",
+          "character": "Bangley",
+          "profilePath": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        },
+        {
+          "id": 529,
+          "name": "Guy Pearce",
+          "character": "Pops",
+          "profilePath": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Allison Janney",
+          "character": "Darlene",
+          "profilePath": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+        },
+        {
+          "id": 30082,
+          "name": "Benedict Wong",
+          "character": "Aaron",
+          "profilePath": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+        }
+      ]
     },
     {
       "id": 1127384,
@@ -616,7 +3917,60 @@
       "posterPath": "/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropPath": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 7.111
+      "rating": 7.111,
+      "trailer": {
+        "id": "6a8871d93ea191a52c19a5ed",
+        "key": "wtTgTP-liyQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "En mar abierto | Tráiler oficial en español | 7 de agosto en cines",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 16938,
+          "name": "Renny Harlin",
+          "profilePath": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 6383,
+          "name": "Aaron Eckhart",
+          "character": "Ben",
+          "profilePath": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "id": 2282,
+          "name": "Ben Kingsley",
+          "character": "Rich",
+          "profilePath": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+        },
+        {
+          "id": 3663805,
+          "name": "Molly Belle Wright",
+          "character": "Cora",
+          "profilePath": "/sjG5KfNuvSyv7ztNFNcuCulnuCS.jpg"
+        },
+        {
+          "id": 59117,
+          "name": "Angus Sampson",
+          "character": "Dan",
+          "profilePath": "/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+        },
+        {
+          "id": 5035274,
+          "name": "Elijah Tamati",
+          "character": "Finn",
+          "profilePath": "/rFGB97FgZDQ7t01NtMdb4n6vkgg.jpg"
+        },
+        {
+          "id": 3655526,
+          "name": "Zhao Simei",
+          "character": "Lilly",
+          "profilePath": "/39WrPp7nICluex1fGNhtPaUhTFI.jpg"
+        }
+      ]
     },
     {
       "id": 299534,
@@ -625,7 +3979,65 @@
       "posterPath": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropPath": "/2xfV5Zdq4kCsFVReRXJKnJaUFCD.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.241
+      "rating": 8.241,
+      "trailer": {
+        "id": "6a985d517e53060e1fccf68b",
+        "key": "Ib847Q7C9AU",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Vengadores Endgame: Encore Tráiler Oficial V.O.S.E.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 19271,
+          "name": "Anthony Russo",
+          "profilePath": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
+        },
+        {
+          "id": 19272,
+          "name": "Joe Russo",
+          "profilePath": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3223,
+          "name": "Robert Downey Jr.",
+          "character": "Tony Stark / Iron Man",
+          "profilePath": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "id": 16828,
+          "name": "Chris Evans",
+          "character": "Steve Rogers / Captain America",
+          "profilePath": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "id": 74568,
+          "name": "Chris Hemsworth",
+          "character": "Thor",
+          "profilePath": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "id": 1245,
+          "name": "Scarlett Johansson",
+          "character": "Natasha Romanoff / Black Widow",
+          "profilePath": "/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+        },
+        {
+          "id": 17604,
+          "name": "Jeremy Renner",
+          "character": "Clint Barton / Hawkeye",
+          "profilePath": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        }
+      ]
     },
     {
       "id": 1032863,
@@ -634,7 +4046,60 @@
       "posterPath": "/e89ZV1Ce3jyKIceHg7WzNqTkiN7.jpg",
       "backdropPath": "/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
       "releaseDate": "2026-09-23",
-      "rating": 0.0
+      "rating": 0.0,
+      "trailer": {
+        "id": "6a425c8eab8c6429c70d3a17",
+        "key": "zjWDAe3pPw4",
+        "site": "YouTube",
+        "type": "Teaser",
+        "name": "Teaser Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1296522,
+          "name": "Claire Scanlon",
+          "profilePath": "/1KJEYBcnFWTufazuPs2A4hFEV4s.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 1136940,
+          "name": "Lili Reinhart",
+          "character": "Olive Smith",
+          "profilePath": "/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg"
+        },
+        {
+          "id": 1364004,
+          "name": "Tom Bateman",
+          "character": "Dr. Adam Carlsen",
+          "profilePath": "/6elQzmY4EJHlLvHsaeoeo2dXOQ1.jpg"
+        },
+        {
+          "id": 2531244,
+          "name": "Rachel Marsh",
+          "character": "Anh",
+          "profilePath": "/6R0pDuQuSf4CEtZHCRnZkqc2EAN.jpg"
+        },
+        {
+          "id": 3533641,
+          "name": "Nicholas Duvernay",
+          "character": "Jeremy",
+          "profilePath": "/kJQt4ZiGVbfVrVJQgrPLRYh8vqQ.jpg"
+        },
+        {
+          "id": 1998733,
+          "name": "Jaboukie Young-White",
+          "character": "Malcolm",
+          "profilePath": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+        },
+        {
+          "id": 2399904,
+          "name": "Arty Froushan",
+          "character": "Tom",
+          "profilePath": "/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg"
+        }
+      ]
     },
     {
       "id": 1288059,
@@ -643,7 +4108,60 @@
       "posterPath": "/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
       "backdropPath": "/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 6.309
+      "rating": 6.309,
+      "trailer": {
+        "id": "6a6ce6aee3baee02641fffce",
+        "key": "q5oWCPS3akw",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer (4K)",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 19224,
+          "name": "Gregg Araki",
+          "profilePath": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 59315,
+          "name": "Olivia Wilde",
+          "character": "Erika Tracy",
+          "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        },
+        {
+          "id": 2764542,
+          "name": "Cooper Hoffman",
+          "character": "Elliot Bell",
+          "profilePath": "/6VY3YOg5o2k8CTldr8lYLijGnsN.jpg"
+        },
+        {
+          "id": 2174509,
+          "name": "Mason Gooding",
+          "character": "Zap",
+          "profilePath": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "id": 2420169,
+          "name": "Chase Sui Wonders",
+          "character": "Apple",
+          "profilePath": "/7oSUT3Zn1srv0VsGquSaWQ5F8ce.jpg"
+        },
+        {
+          "id": 9656,
+          "name": "Johnny Knoxville",
+          "character": "Detective Zem",
+          "profilePath": "/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+        },
+        {
+          "id": 11152,
+          "name": "Margaret Cho",
+          "character": "Detective Zola",
+          "profilePath": "/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg"
+        }
+      ]
     },
     {
       "id": 950028,
@@ -652,7 +4170,60 @@
       "posterPath": "/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
       "backdropPath": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "releaseDate": "2026-06-25",
-      "rating": 7.3
+      "rating": 7.3,
+      "trailer": {
+        "id": "6a21b8acc454776cdb392e21",
+        "key": "nelkiuezJxg",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer 2",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 59315,
+          "name": "Olivia Wilde",
+          "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 19274,
+          "name": "Seth Rogen",
+          "character": "Joe",
+          "profilePath": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+        },
+        {
+          "id": 59315,
+          "name": "Olivia Wilde",
+          "character": "Angela",
+          "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        },
+        {
+          "id": 955,
+          "name": "Penélope Cruz",
+          "character": "Piña",
+          "profilePath": "/li3SanR78FCtRLG55eALXoTcaFi.jpg"
+        },
+        {
+          "id": 819,
+          "name": "Edward Norton",
+          "character": "Hawk",
+          "profilePath": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+        },
+        {
+          "id": 3252036,
+          "name": "Skip Howland",
+          "character": "Doorman (uncredited)",
+          "profilePath": "/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg"
+        },
+        {
+          "id": 2079867,
+          "name": "Mel Powell",
+          "character": "Bartender (uncredited)",
+          "profilePath": "/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg"
+        }
+      ]
     },
     {
       "id": 1480574,
@@ -661,7 +4232,60 @@
       "posterPath": "/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
       "backdropPath": "/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 7.0
+      "rating": 7.0,
+      "trailer": {
+        "id": "6a86c2ca662fcfd016d1548d",
+        "key": "LlAajeOoFBo",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 10702,
+          "name": "Martin Campbell",
+          "profilePath": "/xAaNHXBrwTPDjZRs5vDD0fMO9bx.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 2231,
+          "name": "Samuel L. Jackson",
+          "character": "Jack Wolfe",
+          "profilePath": "/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+        },
+        {
+          "id": 10912,
+          "name": "Eva Green",
+          "character": "Nora Wolfe",
+          "profilePath": "/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg"
+        },
+        {
+          "id": 1757167,
+          "name": "María Pedraza",
+          "character": "Bianca",
+          "profilePath": "/vplV2C0DbvxIHHRNwQpxBUhMxej.jpg"
+        },
+        {
+          "id": 111801,
+          "name": "Eoin Macken",
+          "character": "Dani",
+          "profilePath": "/9QcWKlulGbdDI8XNCJW88BfPyPv.jpg"
+        },
+        {
+          "id": 2773674,
+          "name": "Jason Fernández",
+          "character": "Chad",
+          "profilePath": "/2H0dju0IeGOkLXa9W4YyM416brY.jpg"
+        },
+        {
+          "id": 1361889,
+          "name": "Paulo Rivera",
+          "character": "Dr.Castro",
+          "profilePath": "/7WmESknbWlzkxvZMVRNbY3XPABS.jpg"
+        }
+      ]
     },
     {
       "id": 1122573,
@@ -670,7 +4294,60 @@
       "posterPath": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
       "backdropPath": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
       "releaseDate": "2026-05-13",
-      "rating": 7.597
+      "rating": 7.597,
+      "trailer": {
+        "id": "69ff2413e8a0bd8d0179d0e5",
+        "key": "Unsa8AcHo0A",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler oficial",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 956,
+          "name": "Guy Ritchie",
+          "profilePath": "/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 73968,
+          "name": "Henry Cavill",
+          "character": "Sid",
+          "profilePath": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+        },
+        {
+          "id": 131,
+          "name": "Jake Gyllenhaal",
+          "character": "Bronco",
+          "profilePath": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+          "id": 1222992,
+          "name": "Eiza González",
+          "character": "Rachel",
+          "profilePath": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
+        },
+        {
+          "id": 78882,
+          "name": "Carlos Bardem",
+          "character": "Manny Salazar",
+          "profilePath": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
+        },
+        {
+          "id": 553271,
+          "name": "Michael Vu",
+          "character": "Ed Glover",
+          "profilePath": "/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
+        },
+        {
+          "id": 26473,
+          "name": "Fisher Stevens",
+          "character": "William Horowitz",
+          "profilePath": "/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+        }
+      ]
     },
     {
       "id": 1413976,
@@ -679,7 +4356,60 @@
       "posterPath": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
       "backdropPath": "/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.448
+      "rating": 6.448,
+      "trailer": {
+        "id": "6a1d76c8c70d84c1804a67cf",
+        "key": "fVxmjwaPEFU",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 23799,
+          "name": "Uwe Boll",
+          "profilePath": "/fk4AsOfREoeDswni8eBPHYREE65.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 53807,
+          "name": "Armie Hammer",
+          "character": "Sanders",
+          "profilePath": "/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+        },
+        {
+          "id": 36055,
+          "name": "Costas Mandylor",
+          "character": "Interpol Regional Chief Henry",
+          "profilePath": "/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+        },
+        {
+          "id": 1093213,
+          "name": "Désirée Giorgetti",
+          "character": "Elsa",
+          "profilePath": "/vDoGIUjB4472uMRtif1cQPGtMNU.jpg"
+        },
+        {
+          "id": 96173,
+          "name": "Steffen Mennekes",
+          "character": "Manager Owen",
+          "profilePath": "/sQqg3K8SbBCAUcud5IkSrSEEz5c.jpg"
+        },
+        {
+          "id": 1992209,
+          "name": "Neb Chupin",
+          "character": "SWAT Leader Pierre",
+          "profilePath": "/aK6MI2o2x3jeoVJM5Hj8Z5re4be.jpg"
+        },
+        {
+          "id": 5448535,
+          "name": "Mukit Abdul Hamid",
+          "character": "Yusuf",
+          "profilePath": "/2i1hrkLI0F2s07bRtKgHpgRdrGt.jpg"
+        }
+      ]
     },
     {
       "id": 1325734,
@@ -688,7 +4418,60 @@
       "posterPath": "/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropPath": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
       "releaseDate": "2026-04-01",
-      "rating": 6.924
+      "rating": 6.924,
+      "trailer": {
+        "id": "69b45f7bed4e53c92748221c",
+        "key": "pn8-dhxHVX8",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Tráiler oficial en español",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1280021,
+          "name": "Kristoffer Borgli",
+          "profilePath": "/ftLljVAuKvECl8rAG7JbiGANy8P.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 505710,
+          "name": "Zendaya",
+          "character": "Emma",
+          "profilePath": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "id": 11288,
+          "name": "Robert Pattinson",
+          "character": "Charlie",
+          "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "id": 1741367,
+          "name": "Alana Haim",
+          "character": "Rachel",
+          "profilePath": "/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+        },
+        {
+          "id": 1639848,
+          "name": "Mamoudou Athie",
+          "character": "Mike",
+          "profilePath": "/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
+        },
+        {
+          "id": 1599899,
+          "name": "Hailey Benton Gates",
+          "character": "Misha",
+          "profilePath": "/q3GFo0wx7e0iz7P22dd9sSXZSwn.jpg"
+        },
+        {
+          "id": 1303156,
+          "name": "Sydney Lemmon",
+          "character": "Pauline",
+          "profilePath": "/heGyUuth1HInFdywZ6y8gqjf0q6.jpg"
+        }
+      ]
     },
     {
       "id": 1101412,
@@ -697,7 +4480,65 @@
       "posterPath": "/xQlESgkDM7rczAWySdB0WBomh39.jpg",
       "backdropPath": "/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 6.0
+      "rating": 6.0,
+      "trailer": {
+        "id": "6a6a529095db45bfed66da85",
+        "key": "Krs0VDIjhmE",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer 2",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 56501,
+          "name": "Michael Spierig",
+          "profilePath": "/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg"
+        },
+        {
+          "id": 56502,
+          "name": "Peter Spierig",
+          "profilePath": "/1M1FX7YR9Dq0DhawzQ0vT0tx678.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 2480853,
+          "name": "Harriet Slater",
+          "character": "Jax Hunter",
+          "profilePath": "/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
+        },
+        {
+          "id": 3486664,
+          "name": "Arsema Thomas",
+          "character": "Luce",
+          "profilePath": "/lvzhZIbkWIVLSRHsOICs9o37g2I.jpg"
+        },
+        {
+          "id": 1626604,
+          "name": "Tom Brittney",
+          "character": "Jon Platt",
+          "profilePath": "/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+        },
+        {
+          "id": 1279279,
+          "name": "Virginia Gardner",
+          "character": "Shiloh Hunter",
+          "profilePath": "/1DnNysK267b0te48KCkUlTKoTzj.jpg"
+        },
+        {
+          "id": 521673,
+          "name": "สหจักร บุญธนกิจ",
+          "character": "Thai Barman",
+          "profilePath": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+        },
+        {
+          "id": 6455282,
+          "name": "Korakod Yensuk",
+          "character": "Large Woman",
+          "profilePath": null
+        }
+      ]
     },
     {
       "id": 1226699,
@@ -706,7 +4547,60 @@
       "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
       "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.3
+      "rating": 6.3,
+      "trailer": {
+        "id": "6a4d690f17473d3c35fafbe1",
+        "key": "zrcg8YHSys8",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Official Trailer",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1492313,
+          "name": "Dylan Meyer",
+          "profilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 37917,
+          "name": "Kristen Stewart",
+          "character": "Frankie / Frances",
+          "profilePath": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+        },
+        {
+          "id": 61178,
+          "name": "Alia Shawkat",
+          "character": "Molly",
+          "profilePath": "/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg"
+        },
+        {
+          "id": 1200864,
+          "name": "LaKeith Stanfield",
+          "character": "Not Metal Head Dave",
+          "profilePath": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+        },
+        {
+          "id": 2220282,
+          "name": "Zack Fox",
+          "character": "Josh",
+          "profilePath": "/dYAAoPXh2WSndYAFDd9kxtFZkHe.jpg"
+        },
+        {
+          "id": 25147,
+          "name": "Tony Hale",
+          "character": "Martin Flynn",
+          "profilePath": "/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg"
+        },
+        {
+          "id": 2743857,
+          "name": "Chris Estrada",
+          "character": "Jose",
+          "profilePath": "/aieoVVdLTMMFpXXkzJ8buqwiGkS.jpg"
+        }
+      ]
     },
     {
       "id": 1185806,
@@ -715,7 +4609,60 @@
       "posterPath": "/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
       "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 7.119
+      "rating": 7.119,
+      "trailer": {
+        "id": "6a887310fbb610ecd96e2eb1",
+        "key": "l08qv9mM4fQ",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "La Patrulla Canina - La Dino Película | Tráiler Oficial | Paramount Pictures Spain",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 1098477,
+          "name": "Cal Brunker",
+          "profilePath": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 3572176,
+          "name": "Carter Young",
+          "character": "Marshall (voice)",
+          "profilePath": "/ezkMRnYOjsYXrcwHEJ2JIDWTJJq.jpg"
+        },
+        {
+          "id": 1172108,
+          "name": "Mckenna Grace",
+          "character": "Skye (voice)",
+          "profilePath": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+        },
+        {
+          "id": 53256,
+          "name": "Terry Crews",
+          "character": "Alistair Stonewall (voice)",
+          "profilePath": "/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+        },
+        {
+          "id": 63606,
+          "name": "Meredith MacNeill",
+          "character": "Harper Cutlass (voice)",
+          "profilePath": "/jcJq5Af7KSleMFVhrla5xbv8TOg.jpg"
+        },
+        {
+          "id": 1227611,
+          "name": "Ron Pardo",
+          "character": "Mayor Humdinger (voice)",
+          "profilePath": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg"
+        },
+        {
+          "id": 15565,
+          "name": "Jennifer Hudson",
+          "character": "Lilian Ledes (voice)",
+          "profilePath": "/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg"
+        }
+      ]
     },
     {
       "id": 1423191,
@@ -724,7 +4671,54 @@
       "posterPath": "/pJQOA9ZTr1vFC0pDyT0ewH5046M.jpg",
       "backdropPath": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
       "releaseDate": "2026-09-16",
-      "rating": 0.0
+      "rating": 0.0,
+      "trailer": {
+        "id": "6a909582f731f83af0a23914",
+        "key": "d6oszs7f5aI",
+        "site": "YouTube",
+        "type": "Trailer",
+        "name": "Resident Evil | Nuevo Tráiler Oficial en español HD. En cines 18 de septiembre.",
+        "official": true
+      },
+      "directors": [
+        {
+          "id": 84833,
+          "name": "Zach Cregger",
+          "profilePath": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+        }
+      ],
+      "cast": [
+        {
+          "id": 148992,
+          "name": "Austin Abrams",
+          "character": "Bryan",
+          "profilePath": "/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
+        },
+        {
+          "id": 1838225,
+          "name": "Zach Cherry",
+          "character": "Dave",
+          "profilePath": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+        },
+        {
+          "id": 3119545,
+          "name": "Kali Reis",
+          "character": "Pauline",
+          "profilePath": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+        },
+        {
+          "id": 1294982,
+          "name": "Paul Walter Hauser",
+          "character": "Carl",
+          "profilePath": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+        },
+        {
+          "id": 1169291,
+          "name": "Johnno Wilson",
+          "character": "Max",
+          "profilePath": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+        }
+      ]
     }
   ]
 }
