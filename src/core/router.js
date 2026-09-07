@@ -2,6 +2,7 @@ import { refreshNavBar } from "./components/navbar/hook/NavBar.js";
 import { loadAuth } from "../features/auth/hook/auth.js";
 import { loadHome } from "../features/home/hook/home.js";
 import { loadLists } from "../features/lists/hook/lists.js";
+import { loadMedia } from "../features/media/hook/media.js";
 import { loadProfile } from "../features/profile/hook/profile.js";
 
 // ---------- enrutamiento de la pagina ----------
@@ -25,7 +26,7 @@ export async function loadInitialRoute() {
 }
 
 // --- navegacion ---
-export async function navigate(route) {
+export async function navigate(route, params = {}) {
   // 0. marcar en el navbar el enlace de la vista actual
   updateActiveLinks(route);
 
@@ -54,6 +55,13 @@ export async function navigate(route) {
   if (route === "profile") {
     setAppShellVisible(true);
     await loadProfile();
+    return;
+  }
+
+  // 5. cargar detalle de contenido
+  if (route === "media") {
+    setAppShellVisible(true);
+    await loadMedia(params.mediaType, params.mediaId);
   }
 }
 
@@ -72,8 +80,16 @@ async function handleRoute(event) {
   // 3. obtener la ruta solicitada
   const route = routeElement.dataset.appRoute;
 
-  // 4. navegar a la vista
-  await navigate(route);
+  // 4. recuperar parametros opcionales del contenido
+  const params = route === "media"
+    ? {
+        mediaType: routeElement.dataset.mediaType,
+        mediaId: routeElement.dataset.mediaId,
+      }
+    : {};
+
+  // 5. navegar a la vista
+  await navigate(route, params);
 }
 
 async function handleAuthSuccess() {
