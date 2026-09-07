@@ -1,3 +1,39 @@
 @import url("./core/theme/style.css");
 @import url("./core/components/style.css");
 @import url("./features/home/style/style.css");
+@import url("./features/auth/style/style.css");
+@import url("./features/lists/style/style.css");
+@import url("./features/media/style/style.css");
+@import url("./features/profile/style/style.css");
+@import url("./core/components/footer/style.css");
+
+/* ---------- estilos globales ---------- */
+.btn {
+    --bs-btn-border-radius: 0.65rem;
+}
+
+.form-control,
+.form-select {
+    border-radius: 0.65rem;
+    background: var(--wn-background);
+    color: var(--wn-foreground);
+    box-shadow: none;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: var(--wn-primary);
+    background: var(--wn-background);
+    color: var(--wn-foreground);
+    box-shadow: none;
+    outline: none;
+}
+
+.input-group {
+    --bs-border-radius: 0.65rem;
+}
+
+.input-group-text {
+    background: var(--wn-background);
+    color: var(--wn-foreground);
+}

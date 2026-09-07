@@ -1,0 +1,158 @@
+/* ---------- autenticacion ---------- */
+.auth-view {
+  display: flex;
+  min-height: 100dvh;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: var(--wn-background);
+  color: var(--wn-foreground);
+}
+
+.auth-panel,
+.auth-content,
+.auth-form {
+  width: min(100%, 560px);
+}
+
+.auth-content:empty {
+  display: none;
+}
+
+.auth-panel,
+.auth-header {
+  text-align: center;
+}
+
+.auth-title {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 2.7rem);
+  font-weight: 700;
+}
+
+.auth-description,
+.auth-switch {
+  color: var(--wn-muted);
+}
+
+.auth-description {
+  margin: 0.75rem 0 0;
+}
+
+.auth-actions {
+  display: grid;
+  margin-top: 2rem;
+  gap: 0.75rem;
+}
+
+.auth-header {
+  margin-bottom: 2rem;
+}
+
+.auth-field {
+  display: grid;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.auth-field label {
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.auth-field .form-control {
+  min-height: 48px;
+  padding: 0.75rem 0.9rem;
+}
+
+.auth-button {
+  width: 100%;
+  min-height: 48px;
+}
+
+.auth-skip,
+.auth-switch {
+  margin-top: 1.25rem;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.auth-skip,
+.auth-switch a {
+  color: var(--wn-primary);
+  text-decoration: none;
+}
+
+.auth-skip:hover,
+.auth-switch a:hover {
+  text-decoration: underline;
+}
+
+.auth-error {
+  min-height: 1rem;
+  margin: 0;
+  color: var(--wn-destructive);
+  font-size: 0.75rem;
+}
+
+/* ---------- campo de contrasena ---------- */
+.auth-password {
+  position: relative;
+  width: 100%;
+}
+
+.auth-password .form-control {
+  padding-right: 3rem;
+}
+
+.auth-password-toggle {
+  position: absolute;
+  top: 50%;
+  right: 0.75rem;
+  display: grid;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  place-items: center;
+  border: 0;
+  border-radius: 1.0rem;
+  background: transparent;
+  color: var(--wn-muted);
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.auth-password-toggle:hover,
+.auth-password-toggle:focus-visible {
+  color: var(--wn-foreground);
+}
+
+.auth-password-toggle .bi {
+  font-size: 1rem;
+}
+
+/* ---------- ajustes de spacing ---------- */
+
+/* ---------- formulario ---------- */
+.auth-form-header {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.auth-form-header p {
+  margin-top: 0.5rem;
+}
+
+/* ---------- campos ---------- */
+.auth-field {
+  margin-bottom: 0.4rem;
+}
+
+/* ---------- acciones ---------- */
+.auth-form>.btn {
+  margin-top: 0.2rem;
+}
+
+.auth-form-switch {
+  margin: 1rem 0 0;
+}

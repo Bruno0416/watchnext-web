@@ -1,0 +1,101 @@
+/* ---------- footer ---------- */
+.app-footer {
+    margin-top: 4rem;
+    background: var(--wn-surface);
+    color: var(--wn-foreground);
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    width: min(1120px, calc(100% - 3rem));
+    margin: 0 auto;
+    padding: 2rem 0 1.5rem;
+    gap: 3rem;
+}
+
+
+/* ---------- marca/logo ---------- */
+.footer-brand {
+    max-width: 420px;
+}
+
+.footer-brand h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+}
+
+.footer-brand p {
+    max-width: 36ch;
+    margin: 0.65rem 0 0;
+    color: var(--wn-muted);
+    font-size: 0.88rem;
+}
+
+/* ---------- navegacion ---------- */
+.footer-navigation {
+    display: flex;
+    min-width: 140px;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.footer-navigation h2 {
+    margin: 0 0 0.25rem;
+    color: var(--wn-foreground);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.footer-navigation a {
+    color: var(--wn-muted);
+    font-size: 0.88rem;
+    text-decoration: none;
+    transition:
+        color 160ms ease,
+        transform 160ms ease;
+}
+
+.footer-navigation a:hover,
+.footer-navigation a:focus-visible {
+    color: var(--wn-primary);
+}
+
+/* ---------- pie inferior ---------- */
+.footer-bottom {
+    width: min(1120px, calc(100% - 3rem));
+    margin: 0 auto;
+    padding: 1rem 0 1.25rem;
+}
+
+.footer-bottom p {
+    margin: 0;
+    color: var(--wn-muted);
+    font-size: 0.78rem;
+}
+
+/* ---------- responsive ---------- */
+@media (max-width: 575.98px) {
+    .app-footer {
+        margin-top: 3rem;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+        width: min(100% - 2rem, 560px);
+        padding: 2rem 0;
+        gap: 2rem;
+    }
+
+    .footer-navigation {
+        min-width: 0;
+    }
+
+    .footer-bottom {
+        width: min(100% - 2rem, 560px);
+    }
+}

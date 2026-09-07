@@ -1,0 +1,84 @@
+<article class="media-view">
+  <div id="media-content">
+    <header class="media-hero">
+      <!-- backdrop -->
+      <div class="media-backdrop">
+        <img id="media-backdrop" src="" alt="">
+      </div>
+
+      <!-- contenido -->
+      <div class="media-hero-content">
+        <img id="media-poster" class="media-poster" src="" alt="">
+
+        <div class="media-info">
+          <h1 id="media-title"></h1>
+
+          <p class="media-meta">
+            <span id="media-year"></span>
+            <span id="media-runtime"></span>
+            <span id="media-rating"></span>
+          </p>
+
+          <div class="media-actions">
+            <button type="button" class="btn btn-primary" data-media-action="add-to-list">
+              <i class="bi bi-plus-lg" aria-hidden="true"></i>
+              Agregar a lista
+            </button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="media-overview" aria-labelledby="media-overview-title">
+      <h2 id="media-overview-title">Sinopsis</h2>
+      <p id="media-overview"></p>
+
+      <div class="media-director">
+        <h3>Director</h3>
+        <div id="media-directors"></div>
+      </div>
+    </section>
+
+    <section class="media-trailer" aria-labelledby="media-trailer-title">
+      <h2 id="media-trailer-title">Tráiler</h2>
+
+      <div id="media-trailer">
+        <iframe id="media-trailer-frame" title="Tráiler" loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen hidden></iframe>
+
+        <p id="media-trailer-empty" hidden>Tráiler no disponible.</p>
+      </div>
+    </section>
+
+    <section class="media-cast" aria-labelledby="media-cast-title">
+      <h2 id="media-cast-title">Reparto</h2>
+      <div id="media-cast"></div>
+    </section>
+  </div>
+
+  <!-- ---------- estado no encontrado ---------- -->
+  <section id="media-not-found" class="media-not-found" hidden>
+    <h1>Contenido no encontrado</h1>
+    <p>No pudimos encontrar la película o serie solicitada.</p>
+    <a class="btn btn-primary" href="#home" data-app-route="home">
+      Volver al inicio
+    </a>
+  </section>
+
+  <!-- ---------- plantillas ---------- -->
+  <template id="media-director-template">
+    <span class="media-director-name" data-field="name"></span>
+  </template>
+
+  <template id="media-cast-template">
+    <article class="media-cast-card">
+      <img class="media-cast-image" data-field="image" src="" alt="" loading="lazy">
+
+      <div class="media-cast-info">
+        <h3 data-field="name"></h3>
+        <p data-field="character"></p>
+      </div>
+    </article>
+  </template>
+</article>

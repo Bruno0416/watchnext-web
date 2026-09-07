@@ -17,6 +17,10 @@ export class HeroCarousel {
     section.setAttribute("aria-label", "Contenido destacado");
     section.innerHTML = `
       <div id="featured-carousel" class="carousel slide carousel-fade">
+        <div class="carousel-indicators hero-indicators">
+          ${this.createIndicators()}
+        </div>
+
         <div class="carousel-inner">
           ${this.createItems()}
         </div>
@@ -50,6 +54,24 @@ export class HeroCarousel {
     carousel.cycle();
   }
 
+  createIndicators() {
+    // 1. crear un indicador por cada elemento destacado
+    return this.content
+      .map(
+        (_, index) => `
+          <button
+            type="button"
+            data-bs-target="#featured-carousel"
+            data-bs-slide-to="${index}"
+            class="${index === 0 ? "active" : ""}"
+            ${index === 0 ? 'aria-current="true"' : ""}
+            aria-label="Ir al contenido destacado ${index + 1}"
+          ></button>
+        `,
+      )
+      .join("");
+  }
+
   createItems() {
     // 1. transformar el contenido en elementos destacados
     return this.content
@@ -57,6 +79,7 @@ export class HeroCarousel {
         const title = this.escapeHtml(content.title);
         const overview = this.escapeHtml(content.overview);
         const image = this.getBackdrop(content);
+        const mediaType = this.escapeHtml(content.mediaType);
         const year = this.getYear(content.releaseDate);
         const rating = this.getRating(content.rating);
 
@@ -89,14 +112,16 @@ export class HeroCarousel {
 
                 <p class="hero-overview">${overview}</p>
 
-                <button
+                <a
                   class="btn btn-primary hero-action"
-                  type="button"
-                  data-content-id="${content.id}"
+                  href="#media/${mediaType}/${content.id}"
+                  data-app-route="media"
+                  data-media-type="${mediaType}"
+                  data-media-id="${content.id}"
                   aria-label="Ver más sobre ${title}"
                 >
                   Ver más
-                </button>
+                </a>
               </div>
             </div>
           </article>

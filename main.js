@@ -1,27 +1,42 @@
 import { loadComponent } from "./src/core/components/loadComponent.js";
+import { initRouter, loadInitialRoute } from "./src/core/router.js";
 import { initTheme, syncThemeControls } from "./src/core/theme/theme.js";
 import { loadContent } from "./src/data/content.js";
-import { loadHome } from "./src/features/home/hook/home.js";
-import { loadUsers } from "./src/data/users.js";
+import { initUsers } from "./src/data/users.js";
+import { initNavBar } from "./src/core/components/navbar/hook/NavBar.js";
 
-// ---------- inicializacion de la aplicacion ----------
+// ---------- carga metodo 'main' cuando carga index.html ----------
+document.addEventListener("DOMContentLoaded", main);
+
+// ---------- metodo para inicializar la pagina -----------
 async function main() {
-  // 1. inicializar el tema antes de renderizar componentes
+  // 1. inicializar el tema
   initTheme();
 
-  // 2. cargar los componentes globales de la aplicacion
+  // 2. cargar los componentes globales
   await Promise.all([
-    loadComponent("#app-navbar", "./src/core/components/navbar/navbar.html"),
-    loadComponent("#app-footer", "./src/core/components/footer/footer.html"),
+    loadComponent(
+      "#app-navbar",
+      "./src/core/components/navbar/navbar.html",
+    ),
+    loadComponent(
+      "#app-footer",
+      "./src/core/components/footer/footer.html",
+    ),
   ]);
 
-  // 3. cargar los datos locales antes de renderizar inicio
+  initNavBar();
+
+  // 3. cargar los datos locales
   const content = await loadContent();
-  await loadHome(content);
+  await initUsers();
 
-  // 4. sincronizar los controles del tema despues de cargar la interfaz
+  // 4. inicializar el enrutador
+  initRouter(content);
+
+  // 5. cargar la vista inicial
+  await loadInitialRoute();
+
+  // 6. sincronizar los controles del tema
   syncThemeControls();
-
 }
-
-document.addEventListener("DOMContentLoaded", main);

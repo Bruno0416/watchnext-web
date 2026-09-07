@@ -1,3 +1,5 @@
+import { escapeHtml } from "../../../core/utils/html.js";
+
 // ---------- componente de carrusel de contenido ----------
 
 export class ContentCarousel {
@@ -5,6 +7,7 @@ export class ContentCarousel {
     // 1. guardar los datos principales del carrusel
     this.title = title;
     this.content = content;
+
     // 2. resolver las opciones configurables
     this.id = options.id ?? this.getCarouselId();
   }
@@ -21,11 +24,6 @@ export class ContentCarousel {
         <h2 class="content-section-title">
           <span>${this.title}</span>
         </h2>
-
-        <button class="btn btn-sm content-browse-button" type="button">
-          Ver todos
-          <i class="bi bi-chevron-right" aria-hidden="true"></i>
-        </button>
       </div>
 
       <div class="content-carousel-shell">
@@ -82,32 +80,66 @@ export class ContentCarousel {
     // 1. transformar el contenido en tarjetas html
     return this.content
       .map((content) => {
-        const title = this.escapeHtml(content.title);
-        const image = this.getBackdrop(content);
+        const title = escapeHtml(content.title);
+        const type = escapeHtml(content.type);
+        const image = this.getPoster(content);
+        const mediaType = escapeHtml(content.mediaType);
         const year = this.getYear(content.releaseDate);
         const rating = this.getRating(content.rating);
 
         return `
-          <article class="content-card" data-content-id="${content.id}">
-            <div class="content-image-wrap">
-              <img
-                src="${image}"
-                class="content-image"
-                alt="Imagen de ${title}"
-                loading="lazy"
+          <article
+            class="content-card media-card"
+            data-content-id="${content.id}"
+            data-content-type="${content.type}"
+          >
+            <div class="media-card-poster-wrap">
+              <a
+                class="media-card-poster-link"
+                href="#media/${mediaType}/${content.id}"
+                data-app-route="media"
+                data-media-type="${mediaType}"
+                data-media-id="${content.id}"
+                aria-label="Ver detalle de ${title}"
               >
-              <div class="content-image-shade"></div>
+                <img
+                  src="${image}"
+                  class="media-card-poster"
+                  alt="Portada de ${title}"
+                  loading="lazy"
+                >
+              </a>
+
+              <button
+                class="media-card-action content-add-button"
+                type="button"
+                data-action="add-to-list"
+                aria-label="Agregar ${title} a una lista"
+                title="Agregar a lista"
+              >
+                <i class="bi bi-plus-lg" aria-hidden="true"></i>
+              </button>
             </div>
 
-            <div class="content-card-body">
-              <h3 class="content-card-title" title="${title}">${title}</h3>
+            <div class="media-card-body">
+              <h3 class="media-card-title" title="${title}">
+                <a
+                  class="media-card-link"
+                  href="#media/${mediaType}/${content.id}"
+                  data-app-route="media"
+                  data-media-type="${mediaType}"
+                  data-media-id="${content.id}"
+                >${title}</a>
+              </h3>
 
-              <div class="content-card-meta">
-                <div class="d-flex align-items-center gap-2 min-w-0">
+              <div class="media-card-meta">
+                <span class="media-card-details">
+                  <span>${type}</span>
+                  <span aria-hidden="true">·</span>
                   <span>${year}</span>
-                </div>
+                </span>
 
-                <span class="content-card-rating" aria-label="Calificación ${rating} de 10">
+                <span class="media-card-rating" aria-label="Calificación ${rating} de 10">
                   <i class="bi bi-star-fill" aria-hidden="true"></i>
                   ${rating}
                 </span>
@@ -121,8 +153,8 @@ export class ContentCarousel {
 
   // --- helpers privados ---
 
-  getBackdrop(content) {
-    return content.fullBackdrop || content.fullPoster;
+  getPoster(content) {
+    return content.fullPoster || content.fullBackdrop;
   }
 
   getCarouselId() {
@@ -141,20 +173,5 @@ export class ContentCarousel {
 
   getYear(date) {
     return date ? date.slice(0, 4) : "S/F";
-  }
-
-  escapeHtml(value) {
-    // 1. escapar caracteres con significado especial en html
-    return String(value ?? "").replace(
-      /[&<>"']/g,
-      (character) =>
-        ({
-          "&": "&amp;",
-          "<": "&lt;",
-          ">": "&gt;",
-          '"': "&quot;",
-          "'": "&#039;",
-        })[character],
-    );
   }
 }

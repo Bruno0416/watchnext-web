@@ -1,0 +1,48 @@
+<div
+  id="add-to-list-modal"
+  class="modal fade"
+  tabindex="-1"
+  aria-labelledby="add-to-list-heading"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered modal-sm">
+    <div class="modal-content add-to-list-content">
+      <div class="modal-header border-0">
+        <h2 id="add-to-list-heading" class="h6 mb-0">
+          Agregar a lista
+          <span id="add-to-list-title" class="d-block text-secondary fw-normal small"></span>
+        </h2>
+
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Cerrar"
+        ></button>
+      </div>
+
+      <div class="modal-body pt-0">
+        <div id="add-to-list-guest" hidden>
+          <p class="mb-3">Inicia sesión para guardar títulos en tus listas.</p>
+          <a class="btn btn-primary" href="#auth" data-app-route="auth">Iniciar sesión</a>
+        </div>
+
+        <div id="add-to-list-user" hidden>
+          <ul id="add-to-list-options" class="list-unstyled d-grid gap-2 mb-0"></ul>
+          <p
+            id="add-to-list-feedback"
+            class="form-message small mt-3 mb-0"
+            role="status"
+            aria-live="polite"
+          ></p>
+        </div>
+      </div>
+
+      <div class="modal-footer border-0 pt-0">
+        <a class="btn btn-sm btn-outline-secondary" href="#lists" data-app-route="lists">
+          Ver mis listas
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,134 @@
+/* ---------- tarjeta de contenido compartida ---------- */
+.media-card {
+  min-width: 0;
+  color: var(--wn-foreground);
+}
+
+.media-card-poster-wrap {
+  position: relative;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  border-radius: 0.9rem;
+  background: var(--wn-surface);
+  transition:
+
+    transform 180ms ease;
+}
+
+.media-card:hover .media-card-poster-wrap,
+.media-card:focus-within .media-card-poster-wrap {
+  transform: translateY(-3px);
+}
+
+.media-card-poster-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+}
+
+.media-card-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.media-card-link:hover {
+  color: inherit;
+}
+
+.media-card-poster-link:focus-visible,
+.media-card-link:focus-visible {
+  outline: 2px solid var(--wn-primary);
+  outline-offset: 2px;
+}
+
+.media-card-poster {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 220ms ease;
+}
+
+.media-card:hover .media-card-poster {
+  transform: scale(1.025);
+}
+
+.media-card-body {
+  padding: 0.65rem 0.1rem 0;
+}
+
+.media-card-title {
+  overflow: hidden;
+  margin: 0;
+  color: var(--wn-foreground);
+  font-size: 0.88rem;
+  font-weight: 650;
+  line-height: 1.35;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.media-card-meta {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.35rem;
+  color: var(--wn-muted);
+  font-size: 0.7rem;
+}
+
+.media-card-details {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 0.35rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.media-card-rating {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.media-card-rating .bi-star-fill {
+  color: var(--wn-warning);
+}
+
+/* ---------- accion sobre tarjeta ---------- */
+.media-card-action {
+  position: absolute;
+  top: 0.55rem;
+  right: 0.55rem;
+  display: grid;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  place-items: center;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.68);
+  color: #ffffff;
+  opacity: 0;
+  transition:
+    background-color 160ms ease,
+    opacity 160ms ease;
+}
+
+.media-card:hover .media-card-action,
+.media-card:focus-within .media-card-action,
+.media-card-action:focus-visible {
+  opacity: 1;
+}
+
+@media (max-width: 575.98px) {
+  .media-card-action {
+    opacity: 1;
+  }
+}

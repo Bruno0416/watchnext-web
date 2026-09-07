@@ -2,7 +2,7 @@
   {
     "id": "203474e6-753b-4a51-8433-00086669eb04",
     "created_at": "2026-09-03 16:23:19.629877",
-    "email": "usuario@watchnext.local",
+    "email": "usuario@demo.cl",
     "email_verified": true,
     "password": "1234",
     "role": "USER"
@@ -10,7 +10,7 @@
   {
     "id": "45ae2005-0c6d-4b57-8c85-5d049e0dd636",
     "created_at": "2026-09-03 16:25:04.314201",
-    "email": "admin@watchnext.local",
+    "email": "admin@demo.cl",
     "email_verified": true,
     "password": "admin1234",
     "role": "ADMIN"

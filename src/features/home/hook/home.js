@@ -1,5 +1,6 @@
 import { ContentCarousel } from "../components/ContentCarousel.js";
 import { HeroCarousel } from "../components/HeroCarousel.js";
+import { openAddToListModal } from "../../lists/hook/AddToListModal.js";
 
 // ---------- carga de inicio ----------
 
@@ -72,4 +73,32 @@ function renderHome(content) {
 
   // 5. renderizar las secciones en la vista
   sections.forEach((section) => homeContent.appendChild(section.render()));
+
+  // 6. conectar el boton "agregar a lista" de las tarjetas
+  bindAddToList(homeContent, content);
+}
+
+// --- agregar a lista ---
+
+function bindAddToList(container, content) {
+  // 1. indexar todo el catalogo por tipo + id para encontrar el titulo clickeado
+  const catalog = new Map();
+  [...Object.values(content.movies), ...Object.values(content.tv)]
+    .flat()
+    .forEach((item) => catalog.set(`${item.type}:${item.id}`, item));
+
+  // 2. un solo listener para todas las tarjetas (delegacion de eventos)
+  container.addEventListener("click", (event) => {
+    const button = event.target.closest('[data-action="add-to-list"]');
+    if (!button) {
+      return;
+    }
+
+    const card = button.closest(".content-card");
+    const item = catalog.get(`${card.dataset.contentType}:${card.dataset.contentId}`);
+
+    if (item) {
+      openAddToListModal(item);
+    }
+  });
 }

@@ -1,0 +1,42 @@
+<form id="login-form" class="auth-form" novalidate>
+  <header class="auth-header">
+    <h1 class="auth-title">Iniciar sesión</h1>
+    <p class="auth-description">
+      Ingresa con tu correo y contraseña.
+    </p>
+  </header>
+
+  <div class="auth-field">
+    <label for="login-email">Correo electrónico</label>
+
+    <input class="form-control" id="login-email" name="email" type="email" autocomplete="email" maxlength="100" required>
+
+    <p class="auth-error" data-error-for="email" aria-live="polite"></p>
+  </div>
+
+  <div class="auth-field">
+    <label for="login-password">Contraseña</label>
+
+    <div class="auth-password">
+      <input class="form-control" type="password" id="login-password" name="password" autocomplete="current-password" minlength="4"
+        maxlength="10" required>
+
+      <button type="button" class="auth-password-toggle" id="login-password-toggle" aria-label="Mostrar contraseña">
+        <i class="bi bi-eye"></i>
+      </button>
+    </div>
+
+    <p class="auth-error" data-error-for="password" aria-live="polite"></p>
+  </div>
+
+  <button class="btn btn-primary auth-button" type="submit">
+    Iniciar sesión
+  </button>
+
+  <p class="auth-switch">
+    ¿No tienes cuenta?
+    <a href="#register" data-auth-view="register">
+      Crear cuenta
+    </a>
+  </p>
+</form>
