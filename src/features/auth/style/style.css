@@ -60,21 +60,9 @@
   font-weight: 600;
 }
 
-.auth-field input {
+.auth-field .form-control {
   min-height: 48px;
   padding: 0.75rem 0.9rem;
-  border: 2px solid var(--bs-border-color);
-  border-radius: 1.0rem;
-  outline: none;
-  background: transparent;
-  color: var(--wn-foreground);
-  transition: border-color 160ms ease;
-}
-
-.auth-field input:focus {
-  border-color: var(--wn-primary);
-  box-shadow: none;
-  outline: none;
 }
 
 .auth-button {
@@ -113,10 +101,7 @@
   width: 100%;
 }
 
-.auth-password input {
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
+.auth-password .form-control {
   padding-right: 3rem;
 }
 

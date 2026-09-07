@@ -56,7 +56,6 @@ export function syncThemeControls() {
 }
 
 // --- helpers privados ---
-
 function handleThemeSelection(event) {
   // 1. buscar el control de tema asociado al clic
   const button = event.target.closest("[data-theme-value]");
