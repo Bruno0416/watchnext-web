@@ -1,0 +1,52 @@
+/* ---------- grilla de contenido ---------- */
+
+.lists-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 180px));
+  gap: 1.5rem 1rem;
+  align-items: start;
+}
+
+/* ---------- accion quitar de lista ---------- */
+
+.list-card-remove:hover,
+.list-card-remove:focus-visible {
+  background: var(--wn-destructive);
+  color: #ffffff;
+}
+
+/* ---------- modal agregar a lista ---------- */
+
+.add-to-list-content {
+  border-radius: 1rem;
+  background: var(--wn-surface);
+  color: var(--wn-foreground);
+}
+
+.add-to-list-option {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.55rem 0.75rem;
+  border-radius: 0.75rem;
+  background: var(--wn-surface-raised);
+  cursor: pointer;
+}
+
+.add-to-list-option:hover {
+  border-color: rgba(var(--wn-primary-rgb), 0.6);
+}
+
+.add-to-list-option .form-check-input {
+  margin: 0;
+}
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 575.98px) {
+  .lists-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 0.8rem;
+  }
+
+}

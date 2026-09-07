@@ -1,56 +1,78 @@
 <section id="lists-view" class="lists-view">
   <div class="container-fluid app-container">
 
-    <!-- ===== estado sin sesion ===== -->
-    <section id="lists-guest" class="lists-guest text-center py-5" hidden>
-      <i class="bi bi-collection-play display-4 mb-3" aria-hidden="true"></i>
-      <h1 class="h2 mb-2">Tus listas te esperan</h1>
-      <p class="text-secondary mb-4">
+    <!-- ---------- estado sin sesion ---------- -->
+    <section id="lists-guest" class="lists-guest" hidden>
+      <i class="bi bi-collection-play" aria-hidden="true"></i>
+      <h1>Tus listas te esperan</h1>
+      <p>
         Inicia sesión para crear listas, guardar películas y series y retomarlas cuando quieras.
       </p>
-      <a class="btn btn-primary btn-lg" href="#auth" data-app-route="auth">
+      <a class="btn btn-primary" href="#auth" data-app-route="auth">
         <i class="bi bi-box-arrow-in-right me-1" aria-hidden="true"></i>
         Iniciar sesión
       </a>
     </section>
 
-    <!-- ===== contenido con sesion ===== -->
+    <!-- ---------- contenido con sesion ---------- -->
     <div id="lists-content" hidden>
-
-      <!-- encabezado de la vista -->
-      <header class="lists-header d-flex flex-wrap align-items-end justify-content-between gap-3 py-4">
-        <div>
-          <p class="text-secondary mb-1">
-            Listas de <span id="lists-owner-name">usuario</span>
-          </p>
-          <h1 class="h2 mb-0">Mis listas</h1>
+      <header class="lists-header">
+        <div class="lists-heading">
+          <h1>Mis listas</h1>
+          <p>Organiza las películas y series que quieres guardar.</p>
         </div>
 
-        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#create-list-panel"
-          aria-controls="create-list-panel" aria-expanded="false">
-          <i class="bi bi-plus-lg me-1" aria-hidden="true"></i>
+        <button
+          class="btn btn-primary lists-create-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#create-list-panel"
+          aria-controls="create-list-panel"
+          aria-expanded="false"
+        >
+          <i class="bi bi-plus-lg" aria-hidden="true"></i>
           Nueva lista
         </button>
       </header>
 
-      <!-- formulario para crear una lista -->
-      <section id="create-list-panel" class="collapse mb-4" aria-labelledby="create-list-title">
-        <article class="lists-panel p-4">
-          <h2 id="create-list-title" class="h5 mb-3">Crear nueva lista</h2>
+      <!-- ---------- formulario de creacion ---------- -->
+      <section id="create-list-panel" class="collapse lists-create-panel" aria-labelledby="create-list-title">
+        <article class="lists-panel">
+          <header class="lists-panel-header">
+            <h2 id="create-list-title">Crear nueva lista</h2>
+            <p>Define un nombre, una descripción opcional y su visibilidad.</p>
+          </header>
 
           <form id="create-list-form" class="row g-3" novalidate>
             <div class="col-md-5">
               <label for="list-name" class="form-label">Nombre de la lista <span aria-hidden="true">*</span></label>
-              <input id="list-name" name="name" type="text" class="form-control" maxlength="40" required
-                autocomplete="off" placeholder="Ej: Para ver el finde" aria-describedby="list-name-help list-name-error">
+              <input
+                id="list-name"
+                name="name"
+                type="text"
+                class="form-control"
+                maxlength="40"
+                required
+                autocomplete="off"
+                placeholder="Ej: Para ver el finde"
+                aria-describedby="list-name-help list-name-error"
+              >
               <div id="list-name-help" class="form-text">Entre 3 y 40 caracteres. No puede repetirse.</div>
               <div id="list-name-error" class="invalid-feedback"></div>
             </div>
 
             <div class="col-md-5">
               <label for="list-description" class="form-label">Descripción</label>
-              <input id="list-description" name="description" type="text" class="form-control" maxlength="120"
-                autocomplete="off" placeholder="Opcional" aria-describedby="list-description-help list-description-error">
+              <input
+                id="list-description"
+                name="description"
+                type="text"
+                class="form-control"
+                maxlength="120"
+                autocomplete="off"
+                placeholder="Opcional"
+                aria-describedby="list-description-help list-description-error"
+              >
               <div id="list-description-help" class="form-text">Máximo 120 caracteres.</div>
               <div id="list-description-error" class="invalid-feedback"></div>
             </div>
@@ -63,9 +85,13 @@
               </select>
             </div>
 
-            <div class="col-12 d-flex gap-2 justify-content-end">
-              <button class="btn btn-outline-secondary" type="reset" data-bs-toggle="collapse"
-                data-bs-target="#create-list-panel">
+            <div class="col-12 d-flex flex-wrap gap-2 justify-content-end">
+              <button
+                class="btn btn-outline-secondary"
+                type="reset"
+                data-bs-toggle="collapse"
+                data-bs-target="#create-list-panel"
+              >
                 Cancelar
               </button>
               <button class="btn btn-primary" type="submit">
@@ -81,26 +107,26 @@
         </article>
       </section>
 
-      <!-- selector de listas (pestañas) -->
-      <nav class="lists-tabs mb-4" aria-label="Mis listas">
-        <ul id="lists-tabs" class="nav nav-pills flex-nowrap overflow-auto gap-2" role="tablist">
-          <!-- se genera con JS: <li><a class="nav-link" href="#lists" data-list-id="...">Nombre (n)</a></li> -->
+      <!-- ---------- selector de listas ---------- -->
+      <nav class="lists-tabs-shell" aria-label="Mis listas">
+        <ul id="lists-tabs" class="lists-tabs-list" role="tablist">
+          <!-- las pestañas se generan desde lists.js -->
         </ul>
       </nav>
 
-      <!-- detalle de la lista seleccionada -->
-      <section id="list-detail" aria-labelledby="list-detail-title">
-        <header class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-3">
-          <div>
-            <h2 id="list-detail-title" class="h4 mb-1">Favoritos</h2>
-            <p id="list-detail-description" class="text-secondary mb-0 small"></p>
+      <!-- ---------- detalle de la lista ---------- -->
+      <section id="list-detail" class="list-detail" aria-labelledby="list-detail-title">
+        <header class="list-detail-header">
+          <div class="list-detail-heading">
+            <h2 id="list-detail-title">Favoritos</h2>
+            <p id="list-detail-description"></p>
           </div>
 
-          <div class="d-flex align-items-center gap-2">
-            <span id="list-detail-count" class="badge rounded-pill text-bg-secondary">0 títulos</span>
+          <div class="list-detail-tools">
+            <span id="list-detail-count" class="list-detail-count">0 títulos</span>
 
             <label for="list-sort" class="visually-hidden">Ordenar por</label>
-            <select id="list-sort" class="form-select form-select-sm w-auto">
+            <select id="list-sort" class="form-select form-select-sm lists-sort">
               <option value="added">Agregado recientemente</option>
               <option value="title">Título (A-Z)</option>
               <option value="rating">Mejor calificación</option>
@@ -114,16 +140,14 @@
           </div>
         </header>
 
-        <!-- grilla de titulos -->
-        <div id="list-items" class="lists-grid">
-          <!-- se genera con JS a partir de <template id="list-item-template"> -->
-        </div>
+        <!-- ---------- grilla de titulos ---------- -->
+        <div id="list-items" class="lists-grid"></div>
 
-        <!-- estado vacio -->
-        <div id="list-empty" class="lists-empty text-center py-5" hidden>
-          <i class="bi bi-film display-5 mb-3" aria-hidden="true"></i>
-          <h3 class="h5">Esta lista está vacía</h3>
-          <p class="text-secondary mb-3">Agrega películas o series desde el inicio con el botón "Agregar a lista".</p>
+        <!-- ---------- estado vacio ---------- -->
+        <div id="list-empty" class="lists-empty" hidden>
+          <i class="bi bi-film" aria-hidden="true"></i>
+          <h3>Esta lista está vacía</h3>
+          <p>Agrega películas o series desde el inicio con el botón "Agregar a lista".</p>
           <a class="btn btn-outline-primary" href="#home" data-app-route="home">
             <i class="bi bi-house-door me-1" aria-hidden="true"></i>
             Ir al inicio
@@ -133,26 +157,37 @@
     </div>
   </div>
 
-  <!-- plantilla de tarjeta (la clona el JS) -->
+  <!-- ---------- plantilla de contenido ---------- -->
   <template id="list-item-template">
-    <article class="content-card list-card" data-content-id="">
-      <div class="content-image-wrap">
-        <img src="" class="content-image" alt="" loading="lazy">
-        <div class="content-image-shade"></div>
-        <button class="btn btn-sm list-card-remove" type="button" data-action="remove" aria-label="Quitar de la lista">
+    <article class="list-card media-card" data-content-id="">
+      <div class="media-card-poster-wrap">
+        <a class="media-card-poster-link" href="#" data-detail-link>
+          <img src="" class="media-card-poster" alt="" loading="lazy">
+        </a>
+
+        <button
+          class="media-card-action list-card-remove"
+          type="button"
+          data-action="remove"
+          aria-label="Quitar de la lista"
+        >
           <i class="bi bi-x-lg" aria-hidden="true"></i>
         </button>
       </div>
 
-      <div class="content-card-body">
-        <h3 class="content-card-title" data-field="title"></h3>
-        <div class="content-card-meta">
-          <div class="d-flex align-items-center gap-2 min-w-0">
+      <div class="media-card-body">
+        <h3 class="media-card-title">
+          <a class="media-card-link" href="#" data-field="title" data-detail-link></a>
+        </h3>
+
+        <div class="media-card-meta">
+          <span class="media-card-details">
             <span data-field="type"></span>
             <span aria-hidden="true">·</span>
             <span data-field="year"></span>
-          </div>
-          <span class="content-card-rating">
+          </span>
+
+          <span class="media-card-rating">
             <i class="bi bi-star-fill" aria-hidden="true"></i>
             <span data-field="rating"></span>
           </span>

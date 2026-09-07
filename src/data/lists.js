@@ -1,11 +1,6 @@
-// ---------- almacenamiento de listas ----------
-// cada usuario tiene sus propias listas guardadas en localStorage bajo la
-// clave "watchnext-lists:{userId}". la primera vez se "siembran" desde los
-// favoritos que trae profiles.json.
-
 import { loadProfiles } from "./profiles.js";
 
-const STORAGE_PREFIX = "watchnext-lists:";
+const STORAGE_PREFIX = "lists:";
 export const FAVORITES_LIST_ID = "favorites";
 
 export const ListVisibility = Object.freeze({
