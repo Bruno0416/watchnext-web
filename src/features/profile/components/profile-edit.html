@@ -1,0 +1,115 @@
+<section id="profile-edit-panel" class="collapse profile-edit" aria-labelledby="profile-edit-title">
+  <div class="profile-edit-content">
+    <div class="profile-edit-header">
+      <div>
+        <h2 id="profile-edit-title" class="h4 mb-1">Editar perfil</h2>
+        <p class="text-secondary small mb-0">Actualiza la información visible de tu perfil.</p>
+      </div>
+    </div>
+
+    <form id="profile-form" class="row g-3" novalidate>
+      <div class="col-md-6">
+        <label for="profile-input-name" class="form-label">
+          Nombre para mostrar <span aria-hidden="true">*</span>
+        </label>
+        <input
+          id="profile-input-name"
+          name="displayName"
+          type="text"
+          class="form-control"
+          minlength="2"
+          maxlength="50"
+          required
+          autocomplete="name"
+          aria-describedby="profile-input-name-help profile-input-name-error"
+        >
+        <div id="profile-input-name-help" class="form-text">Entre 2 y 50 caracteres.</div>
+        <div id="profile-input-name-error" class="invalid-feedback"></div>
+      </div>
+
+      <div class="col-md-6">
+        <label for="profile-input-username" class="form-label">
+          Nombre de usuario <span aria-hidden="true">*</span>
+        </label>
+        <div class="input-group has-validation">
+          <span class="input-group-text">@</span>
+          <input
+            id="profile-input-username"
+            name="username"
+            type="text"
+            class="form-control"
+            minlength="3"
+            maxlength="20"
+            required
+            autocomplete="username"
+            aria-describedby="profile-input-username-help profile-input-username-error"
+          >
+          <div id="profile-input-username-error" class="invalid-feedback"></div>
+        </div>
+        <div id="profile-input-username-help" class="form-text">
+          3 a 20 caracteres: minúsculas, números y guion bajo.
+        </div>
+      </div>
+
+      <div class="col-12">
+        <label for="profile-input-bio" class="form-label">Biografía</label>
+        <textarea
+          id="profile-input-bio"
+          name="bio"
+          class="form-control"
+          rows="3"
+          maxlength="160"
+          aria-describedby="profile-input-bio-help profile-input-bio-error"
+        ></textarea>
+        <div id="profile-input-bio-help" class="form-text">
+          <span id="profile-bio-count">0</span>/160 caracteres.
+        </div>
+        <div id="profile-input-bio-error" class="invalid-feedback"></div>
+      </div>
+
+      <div class="col-md-8">
+        <label for="profile-input-avatar" class="form-label">URL del avatar</label>
+        <input
+          id="profile-input-avatar"
+          name="avatarUrl"
+          type="url"
+          class="form-control"
+          maxlength="500"
+          autocomplete="url"
+          placeholder="https://..."
+          aria-describedby="profile-input-avatar-help profile-input-avatar-error"
+        >
+        <div id="profile-input-avatar-help" class="form-text">Opcional. Usa una imagen pública por URL.</div>
+        <div id="profile-input-avatar-error" class="invalid-feedback"></div>
+      </div>
+
+      <div class="col-md-4">
+        <label for="profile-input-visibility" class="form-label">Visibilidad</label>
+        <select id="profile-input-visibility" name="visibility" class="form-select">
+          <option value="PUBLIC">Público</option>
+          <option value="PRIVATE">Privado</option>
+        </select>
+      </div>
+
+      <div class="col-12 d-flex flex-wrap gap-2 justify-content-end">
+        <button
+          class="btn btn-outline-secondary"
+          type="reset"
+          data-bs-toggle="collapse"
+          data-bs-target="#profile-edit-panel"
+        >
+          Cancelar
+        </button>
+
+        <button class="btn btn-primary" type="submit">
+          <i class="bi bi-check2 me-1" aria-hidden="true"></i>
+          Guardar cambios
+        </button>
+      </div>
+
+      <div class="col-12">
+        <p id="profile-form-message" class="form-message mb-0" role="status" aria-live="polite"></p>
+      </div>
+    </form>
+  </div>
+</section>

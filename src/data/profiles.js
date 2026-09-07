@@ -1,10 +1,4 @@
-// ---------- perfiles de usuario ----------
-// profiles.json trae los perfiles iniciales. los cambios que hace el usuario
-// se guardan en localStorage bajo "watchnext-profile:{userId}" y se mezclan
-// sobre el perfil base. los usuarios registrados desde la app (que no estan
-// en el json) reciben un perfil por defecto generado a partir de su correo.
-
-const STORAGE_PREFIX = "watchnext-profile:";
+const STORAGE_PREFIX = "profile:";
 
 export const ProfileRules = Object.freeze({
   DISPLAY_NAME_MIN: 2,
@@ -12,6 +6,7 @@ export const ProfileRules = Object.freeze({
   USERNAME_MIN: 3,
   USERNAME_MAX: 20,
   BIO_MAX: 160,
+  AVATAR_URL_MAX: 500,
 });
 
 export const ProfileVisibility = Object.freeze({
@@ -19,20 +14,7 @@ export const ProfileVisibility = Object.freeze({
   PRIVATE: "PRIVATE",
 });
 
-// --- regiones y comunas (arreglos relacionados) ---
-
-export const REGIONS = [
-  { id: "RM", name: "Región Metropolitana", communes: ["Santiago", "Providencia", "Las Condes", "Maipú", "Puente Alto", "La Florida", "Ñuñoa"] },
-  { id: "V", name: "Valparaíso", communes: ["Valparaíso", "Viña del Mar", "Quilpué", "Villa Alemana", "San Antonio"] },
-  { id: "VIII", name: "Biobío", communes: ["Concepción", "Talcahuano", "Los Ángeles", "Chillán", "Coronel"] },
-  { id: "IV", name: "Coquimbo", communes: ["La Serena", "Coquimbo", "Ovalle"] },
-  { id: "IX", name: "La Araucanía", communes: ["Temuco", "Villarrica", "Angol"] },
-  { id: "X", name: "Los Lagos", communes: ["Puerto Montt", "Osorno", "Castro"] },
-  { id: "II", name: "Antofagasta", communes: ["Antofagasta", "Calama"] },
-  { id: "VII", name: "Maule", communes: ["Talca", "Curicó", "Linares"] },
-];
-
-// --- lectura ---
+// ---------- lectura ----------
 
 export async function loadProfiles() {
   // 1. cargar el archivo json de perfiles
@@ -43,9 +25,9 @@ export async function loadProfiles() {
     throw new Error("No se pudieron cargar los perfiles");
   }
 
-  // 3. devolver el arreglo de perfiles
+  // 3. devolver los perfiles procesados
   const data = await response.json();
-  return data.profiles ?? [];
+  return (data.profiles ?? []).map(sanitizeProfile);
 }
 
 export async function getProfileByUserId(userId, user = null) {
@@ -53,15 +35,15 @@ export async function getProfileByUserId(userId, user = null) {
   const profiles = await loadProfiles();
   const base = profiles.find((profile) => profile.userId === userId) ?? null;
 
-  // 2. si no existe, generar uno por defecto para el usuario registrado
+  // 2. generar un perfil por defecto cuando no exista
   const fallback = base ?? createDefaultProfile(userId, user);
 
-  // 3. mezclar los cambios guardados localmente
-  const stored = readStorage(userId);
+  // 3. mezclar los cambios locales con el perfil base
+  const stored = sanitizeProfile(readStorage(userId));
   return stored ? { ...fallback, ...stored } : fallback;
 }
 
-// --- validacion ---
+// ---------- validacion ----------
 
 export function validateDisplayName(value) {
   const name = String(value ?? "").trim();
@@ -102,63 +84,67 @@ export function validateBio(value) {
   return "";
 }
 
-export function validateRegion(regionId, commune) {
-  // 1. la region es opcional, pero si se elige debe tener comuna valida
-  if (!regionId) {
+export function validateAvatarUrl(value) {
+  const avatarUrl = String(value ?? "").trim();
+
+  if (!avatarUrl) {
     return "";
   }
+  if (avatarUrl.length > ProfileRules.AVATAR_URL_MAX) {
+    return `La URL no puede superar ${ProfileRules.AVATAR_URL_MAX} caracteres.`;
+  }
 
-  const region = REGIONS.find((item) => item.id === regionId);
-  if (!region) {
-    return "Selecciona una región válida.";
+  try {
+    const url = new URL(avatarUrl);
+    return ["http:", "https:"].includes(url.protocol)
+      ? ""
+      : "Usa una URL http o https válida.";
+  } catch {
+    return "Ingresa una URL de imagen válida.";
   }
-  if (!commune || !region.communes.includes(commune)) {
-    return "Selecciona una comuna de la región elegida.";
-  }
-  return "";
 }
 
-// --- escritura ---
+// ---------- escritura ----------
 
 export async function saveProfile(userId, changes, user = null) {
-  // 1. validar todos los campos
+  // 1. validar todos los campos editables
   const errors = {
     displayName: validateDisplayName(changes.displayName),
     username: validateUsername(changes.username),
     bio: validateBio(changes.bio),
-    region: validateRegion(changes.regionId, changes.commune),
+    avatarUrl: validateAvatarUrl(changes.avatarUrl),
   };
 
   if (Object.values(errors).some(Boolean)) {
     return { ok: false, errors };
   }
 
-  // 2. mezclar con lo ya guardado y persistir
-  const current = readStorage(userId) ?? {};
+  // 2. mezclar los cambios con lo ya guardado
+  const current = sanitizeProfile(readStorage(userId)) ?? {};
   const updated = {
     ...current,
     displayName: String(changes.displayName).trim(),
     username: String(changes.username).trim(),
     bio: String(changes.bio ?? "").trim(),
-    regionId: changes.regionId || null,
-    commune: changes.regionId ? changes.commune : null,
+    avatarUrl: String(changes.avatarUrl ?? "").trim() || null,
     visibility: Object.values(ProfileVisibility).includes(changes.visibility)
       ? changes.visibility
       : ProfileVisibility.PUBLIC,
     updatedAt: new Date().toISOString(),
   };
-  writeStorage(userId, updated);
 
-  // 3. devolver el perfil completo actualizado
+  // 3. persistir y devolver el perfil actualizado
+  writeStorage(userId, updated);
   return { ok: true, profile: await getProfileByUserId(userId, user) };
 }
 
 // --- helpers privados ---
 
 function createDefaultProfile(userId, user) {
-  // 1. usar la parte local del correo como nombre inicial
+  // 1. usar la parte local del correo como identidad inicial
   const local = String(user?.email ?? "usuario").split("@")[0];
-  const username = local.toLowerCase().replace(/[^a-z0-9_]/g, "_").slice(0, 20) || "usuario";
+  const username =
+    local.toLowerCase().replace(/[^a-z0-9_]/g, "_").slice(0, 20) || "usuario";
 
   return {
     id: `profile-${userId}`,
@@ -167,16 +153,30 @@ function createDefaultProfile(userId, user) {
     displayName: local,
     bio: "",
     avatarUrl: null,
-    country: "CL",
-    regionId: null,
-    commune: null,
     visibility: ProfileVisibility.PUBLIC,
     followersCount: 0,
     followingCount: 0,
     favorites: [],
+    topMovies: [],
     createdAt: user?.created_at ?? new Date().toISOString(),
     updatedAt: new Date().toISOString(),
   };
+}
+
+function sanitizeProfile(profile) {
+  // 1. eliminar campos heredados que no pertenecen al perfil social
+  if (!profile) {
+    return null;
+  }
+
+  const {
+    country: _country,
+    regionId: _regionId,
+    commune: _commune,
+    ...cleanProfile
+  } = profile;
+
+  return cleanProfile;
 }
 
 function readStorage(userId) {
@@ -189,5 +189,9 @@ function readStorage(userId) {
 }
 
 function writeStorage(userId, profile) {
-  localStorage.setItem(`${STORAGE_PREFIX}${userId}`, JSON.stringify(profile));
+  // 1. guardar solamente los campos vigentes del perfil
+  localStorage.setItem(
+    `${STORAGE_PREFIX}${userId}`,
+    JSON.stringify(sanitizeProfile(profile)),
+  );
 }

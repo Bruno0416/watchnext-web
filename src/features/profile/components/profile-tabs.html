@@ -1,0 +1,68 @@
+<section class="profile-activity" aria-labelledby="profile-activity-title">
+  <h2 id="profile-activity-title" class="visually-hidden">Actividad del perfil</h2>
+
+  <div class="profile-tabs" role="tablist" aria-label="Contenido del perfil">
+    <button
+      id="profile-tab-lists"
+      class="profile-tab active"
+      type="button"
+      role="tab"
+      aria-selected="true"
+      aria-controls="profile-panel-lists"
+      data-profile-tab="lists"
+    >
+      <i class="bi bi-list-ul" aria-hidden="true"></i>
+      Listas
+    </button>
+
+    <button
+      id="profile-tab-reviews"
+      class="profile-tab"
+      type="button"
+      role="tab"
+      aria-selected="false"
+      aria-controls="profile-panel-reviews"
+      data-profile-tab="reviews"
+    >
+      <i class="bi bi-chat-left-text" aria-hidden="true"></i>
+      Reviews
+    </button>
+  </div>
+
+  <div
+    id="profile-panel-lists"
+    class="profile-tab-panel"
+    role="tabpanel"
+    aria-labelledby="profile-tab-lists"
+    data-profile-panel="lists"
+  >
+    <div class="profile-panel-heading">
+      <h3 class="h5 mb-0">Listas</h3>
+      <a class="btn btn-sm btn-outline-secondary" href="#lists" data-app-route="lists">
+        Ver todas
+        <i class="bi bi-chevron-right" aria-hidden="true"></i>
+      </a>
+    </div>
+
+    <div id="profile-lists-grid" class="profile-lists-grid"></div>
+
+    <p id="profile-lists-empty" class="profile-empty-message" hidden>
+      Este perfil todavía no tiene listas para mostrar.
+    </p>
+  </div>
+
+  <div
+    id="profile-panel-reviews"
+    class="profile-tab-panel"
+    role="tabpanel"
+    aria-labelledby="profile-tab-reviews"
+    data-profile-panel="reviews"
+    hidden
+  >
+    <div class="profile-empty-state">
+      <i class="bi bi-chat-square-text" aria-hidden="true"></i>
+      <h3 class="h5 mb-2">Sin reviews todavía</h3>
+      <p class="mb-0">Las reseñas del perfil aparecerán aquí más adelante.</p>
+    </div>
+  </div>
+</section>
